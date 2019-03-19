@@ -191,6 +191,7 @@ namespace DeviceTests.Droid
 			global::Xamarin.Essentials.Resource.Styleable.FontFamilyFont_fontStyle = global::DeviceTests.Droid.Resource.Styleable.FontFamilyFont_fontStyle;
 			global::Xamarin.Essentials.Resource.Styleable.FontFamilyFont_fontVariationSettings = global::DeviceTests.Droid.Resource.Styleable.FontFamilyFont_fontVariationSettings;
 			global::Xamarin.Essentials.Resource.Styleable.FontFamilyFont_fontWeight = global::DeviceTests.Droid.Resource.Styleable.FontFamilyFont_fontWeight;
+<<<<<<< HEAD
 			global::Xamarin.Essentials.Resource.Styleable.FontFamilyFont_ttcIndex = global::DeviceTests.Droid.Resource.Styleable.FontFamilyFont_ttcIndex;
 			global::Xamarin.Essentials.Resource.Styleable.GradientColor = global::DeviceTests.Droid.Resource.Styleable.GradientColor;
 			global::Xamarin.Essentials.Resource.Styleable.GradientColor_android_centerColor = global::DeviceTests.Droid.Resource.Styleable.GradientColor_android_centerColor;
@@ -208,6 +209,8 @@ namespace DeviceTests.Droid
 			global::Xamarin.Essentials.Resource.Styleable.GradientColorItem = global::DeviceTests.Droid.Resource.Styleable.GradientColorItem;
 			global::Xamarin.Essentials.Resource.Styleable.GradientColorItem_android_color = global::DeviceTests.Droid.Resource.Styleable.GradientColorItem_android_color;
 			global::Xamarin.Essentials.Resource.Styleable.GradientColorItem_android_offset = global::DeviceTests.Droid.Resource.Styleable.GradientColorItem_android_offset;
+=======
+>>>>>>> Updates after the master merge
 			global::Xamarin.Forms.Platform.Android.Resource.Animation.abc_fade_in = global::DeviceTests.Droid.Resource.Animation.abc_fade_in;
 			global::Xamarin.Forms.Platform.Android.Resource.Animation.abc_fade_out = global::DeviceTests.Droid.Resource.Animation.abc_fade_out;
 			global::Xamarin.Forms.Platform.Android.Resource.Animation.abc_grow_fade_in_from_bottom = global::DeviceTests.Droid.Resource.Animation.abc_grow_fade_in_from_bottom;
@@ -218,8 +221,11 @@ namespace DeviceTests.Droid
 			global::Xamarin.Forms.Platform.Android.Resource.Animation.abc_slide_in_top = global::DeviceTests.Droid.Resource.Animation.abc_slide_in_top;
 			global::Xamarin.Forms.Platform.Android.Resource.Animation.abc_slide_out_bottom = global::DeviceTests.Droid.Resource.Animation.abc_slide_out_bottom;
 			global::Xamarin.Forms.Platform.Android.Resource.Animation.abc_slide_out_top = global::DeviceTests.Droid.Resource.Animation.abc_slide_out_top;
+<<<<<<< HEAD
 			global::Xamarin.Forms.Platform.Android.Resource.Animation.abc_tooltip_enter = global::DeviceTests.Droid.Resource.Animation.abc_tooltip_enter;
 			global::Xamarin.Forms.Platform.Android.Resource.Animation.abc_tooltip_exit = global::DeviceTests.Droid.Resource.Animation.abc_tooltip_exit;
+=======
+>>>>>>> Updates after the master merge
 			global::Xamarin.Forms.Platform.Android.Resource.Animation.design_bottom_sheet_slide_in = global::DeviceTests.Droid.Resource.Animation.design_bottom_sheet_slide_in;
 			global::Xamarin.Forms.Platform.Android.Resource.Animation.design_bottom_sheet_slide_out = global::DeviceTests.Droid.Resource.Animation.design_bottom_sheet_slide_out;
 			global::Xamarin.Forms.Platform.Android.Resource.Animation.design_snackbar_in = global::DeviceTests.Droid.Resource.Animation.design_snackbar_in;
@@ -228,6 +234,7 @@ namespace DeviceTests.Droid
 			global::Xamarin.Forms.Platform.Android.Resource.Animation.EnterFromRight = global::DeviceTests.Droid.Resource.Animation.EnterFromRight;
 			global::Xamarin.Forms.Platform.Android.Resource.Animation.ExitToLeft = global::DeviceTests.Droid.Resource.Animation.ExitToLeft;
 			global::Xamarin.Forms.Platform.Android.Resource.Animation.ExitToRight = global::DeviceTests.Droid.Resource.Animation.ExitToRight;
+<<<<<<< HEAD
 			global::Xamarin.Forms.Platform.Android.Resource.Animator.design_appbar_state_list_animator = global::DeviceTests.Droid.Resource.Animator.design_appbar_state_list_animator;
 			global::Xamarin.Forms.Platform.Android.Resource.Animator.design_fab_hide_motion_spec = global::DeviceTests.Droid.Resource.Animator.design_fab_hide_motion_spec;
 			global::Xamarin.Forms.Platform.Android.Resource.Animator.design_fab_show_motion_spec = global::DeviceTests.Droid.Resource.Animator.design_fab_show_motion_spec;
@@ -238,6 +245,11 @@ namespace DeviceTests.Droid
 			global::Xamarin.Forms.Platform.Android.Resource.Animator.mtrl_fab_show_motion_spec = global::DeviceTests.Droid.Resource.Animator.mtrl_fab_show_motion_spec;
 			global::Xamarin.Forms.Platform.Android.Resource.Animator.mtrl_fab_transformation_sheet_collapse_spec = global::DeviceTests.Droid.Resource.Animator.mtrl_fab_transformation_sheet_collapse_spec;
 			global::Xamarin.Forms.Platform.Android.Resource.Animator.mtrl_fab_transformation_sheet_expand_spec = global::DeviceTests.Droid.Resource.Animator.mtrl_fab_transformation_sheet_expand_spec;
+=======
+			global::Xamarin.Forms.Platform.Android.Resource.Animation.tooltip_enter = global::DeviceTests.Droid.Resource.Animation.tooltip_enter;
+			global::Xamarin.Forms.Platform.Android.Resource.Animation.tooltip_exit = global::DeviceTests.Droid.Resource.Animation.tooltip_exit;
+			global::Xamarin.Forms.Platform.Android.Resource.Animator.design_appbar_state_list_animator = global::DeviceTests.Droid.Resource.Animator.design_appbar_state_list_animator;
+>>>>>>> Updates after the master merge
 			global::Xamarin.Forms.Platform.Android.Resource.Attribute.actionBarDivider = global::DeviceTests.Droid.Resource.Attribute.actionBarDivider;
 			global::Xamarin.Forms.Platform.Android.Resource.Attribute.actionBarItemBackground = global::DeviceTests.Droid.Resource.Attribute.actionBarItemBackground;
 			global::Xamarin.Forms.Platform.Android.Resource.Attribute.actionBarPopupTheme = global::DeviceTests.Droid.Resource.Attribute.actionBarPopupTheme;
@@ -294,13 +306,17 @@ namespace DeviceTests.Droid
 			global::Xamarin.Forms.Platform.Android.Resource.Attribute.backgroundTintMode = global::DeviceTests.Droid.Resource.Attribute.backgroundTintMode;
 			global::Xamarin.Forms.Platform.Android.Resource.Attribute.barLength = global::DeviceTests.Droid.Resource.Attribute.barLength;
 			global::Xamarin.Forms.Platform.Android.Resource.Attribute.behavior_autoHide = global::DeviceTests.Droid.Resource.Attribute.behavior_autoHide;
+<<<<<<< HEAD
 			global::Xamarin.Forms.Platform.Android.Resource.Attribute.behavior_fitToContents = global::DeviceTests.Droid.Resource.Attribute.behavior_fitToContents;
+=======
+>>>>>>> Updates after the master merge
 			global::Xamarin.Forms.Platform.Android.Resource.Attribute.behavior_hideable = global::DeviceTests.Droid.Resource.Attribute.behavior_hideable;
 			global::Xamarin.Forms.Platform.Android.Resource.Attribute.behavior_overlapTop = global::DeviceTests.Droid.Resource.Attribute.behavior_overlapTop;
 			global::Xamarin.Forms.Platform.Android.Resource.Attribute.behavior_peekHeight = global::DeviceTests.Droid.Resource.Attribute.behavior_peekHeight;
 			global::Xamarin.Forms.Platform.Android.Resource.Attribute.behavior_skipCollapsed = global::DeviceTests.Droid.Resource.Attribute.behavior_skipCollapsed;
 			global::Xamarin.Forms.Platform.Android.Resource.Attribute.borderWidth = global::DeviceTests.Droid.Resource.Attribute.borderWidth;
 			global::Xamarin.Forms.Platform.Android.Resource.Attribute.borderlessButtonStyle = global::DeviceTests.Droid.Resource.Attribute.borderlessButtonStyle;
+<<<<<<< HEAD
 			global::Xamarin.Forms.Platform.Android.Resource.Attribute.bottomAppBarStyle = global::DeviceTests.Droid.Resource.Attribute.bottomAppBarStyle;
 			global::Xamarin.Forms.Platform.Android.Resource.Attribute.bottomNavigationStyle = global::DeviceTests.Droid.Resource.Attribute.bottomNavigationStyle;
 			global::Xamarin.Forms.Platform.Android.Resource.Attribute.bottomSheetDialogTheme = global::DeviceTests.Droid.Resource.Attribute.bottomSheetDialogTheme;
@@ -314,13 +330,20 @@ namespace DeviceTests.Droid
 			global::Xamarin.Forms.Platform.Android.Resource.Attribute.boxCornerRadiusTopStart = global::DeviceTests.Droid.Resource.Attribute.boxCornerRadiusTopStart;
 			global::Xamarin.Forms.Platform.Android.Resource.Attribute.boxStrokeColor = global::DeviceTests.Droid.Resource.Attribute.boxStrokeColor;
 			global::Xamarin.Forms.Platform.Android.Resource.Attribute.boxStrokeWidth = global::DeviceTests.Droid.Resource.Attribute.boxStrokeWidth;
+=======
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.bottomSheetDialogTheme = global::DeviceTests.Droid.Resource.Attribute.bottomSheetDialogTheme;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.bottomSheetStyle = global::DeviceTests.Droid.Resource.Attribute.bottomSheetStyle;
+>>>>>>> Updates after the master merge
 			global::Xamarin.Forms.Platform.Android.Resource.Attribute.buttonBarButtonStyle = global::DeviceTests.Droid.Resource.Attribute.buttonBarButtonStyle;
 			global::Xamarin.Forms.Platform.Android.Resource.Attribute.buttonBarNegativeButtonStyle = global::DeviceTests.Droid.Resource.Attribute.buttonBarNegativeButtonStyle;
 			global::Xamarin.Forms.Platform.Android.Resource.Attribute.buttonBarNeutralButtonStyle = global::DeviceTests.Droid.Resource.Attribute.buttonBarNeutralButtonStyle;
 			global::Xamarin.Forms.Platform.Android.Resource.Attribute.buttonBarPositiveButtonStyle = global::DeviceTests.Droid.Resource.Attribute.buttonBarPositiveButtonStyle;
 			global::Xamarin.Forms.Platform.Android.Resource.Attribute.buttonBarStyle = global::DeviceTests.Droid.Resource.Attribute.buttonBarStyle;
 			global::Xamarin.Forms.Platform.Android.Resource.Attribute.buttonGravity = global::DeviceTests.Droid.Resource.Attribute.buttonGravity;
+<<<<<<< HEAD
 			global::Xamarin.Forms.Platform.Android.Resource.Attribute.buttonIconDimen = global::DeviceTests.Droid.Resource.Attribute.buttonIconDimen;
+=======
+>>>>>>> Updates after the master merge
 			global::Xamarin.Forms.Platform.Android.Resource.Attribute.buttonPanelSideLayout = global::DeviceTests.Droid.Resource.Attribute.buttonPanelSideLayout;
 			global::Xamarin.Forms.Platform.Android.Resource.Attribute.buttonStyle = global::DeviceTests.Droid.Resource.Attribute.buttonStyle;
 			global::Xamarin.Forms.Platform.Android.Resource.Attribute.buttonStyleSmall = global::DeviceTests.Droid.Resource.Attribute.buttonStyleSmall;
@@ -332,6 +355,7 @@ namespace DeviceTests.Droid
 			global::Xamarin.Forms.Platform.Android.Resource.Attribute.cardMaxElevation = global::DeviceTests.Droid.Resource.Attribute.cardMaxElevation;
 			global::Xamarin.Forms.Platform.Android.Resource.Attribute.cardPreventCornerOverlap = global::DeviceTests.Droid.Resource.Attribute.cardPreventCornerOverlap;
 			global::Xamarin.Forms.Platform.Android.Resource.Attribute.cardUseCompatPadding = global::DeviceTests.Droid.Resource.Attribute.cardUseCompatPadding;
+<<<<<<< HEAD
 			global::Xamarin.Forms.Platform.Android.Resource.Attribute.cardViewStyle = global::DeviceTests.Droid.Resource.Attribute.cardViewStyle;
 			global::Xamarin.Forms.Platform.Android.Resource.Attribute.checkboxStyle = global::DeviceTests.Droid.Resource.Attribute.checkboxStyle;
 			global::Xamarin.Forms.Platform.Android.Resource.Attribute.checkedChip = global::DeviceTests.Droid.Resource.Attribute.checkedChip;
@@ -364,6 +388,11 @@ namespace DeviceTests.Droid
 			global::Xamarin.Forms.Platform.Android.Resource.Attribute.closeIconStartPadding = global::DeviceTests.Droid.Resource.Attribute.closeIconStartPadding;
 			global::Xamarin.Forms.Platform.Android.Resource.Attribute.closeIconTint = global::DeviceTests.Droid.Resource.Attribute.closeIconTint;
 			global::Xamarin.Forms.Platform.Android.Resource.Attribute.closeIconVisible = global::DeviceTests.Droid.Resource.Attribute.closeIconVisible;
+=======
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.checkboxStyle = global::DeviceTests.Droid.Resource.Attribute.checkboxStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.checkedTextViewStyle = global::DeviceTests.Droid.Resource.Attribute.checkedTextViewStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.closeIcon = global::DeviceTests.Droid.Resource.Attribute.closeIcon;
+>>>>>>> Updates after the master merge
 			global::Xamarin.Forms.Platform.Android.Resource.Attribute.closeItemLayout = global::DeviceTests.Droid.Resource.Attribute.closeItemLayout;
 			global::Xamarin.Forms.Platform.Android.Resource.Attribute.collapseContentDescription = global::DeviceTests.Droid.Resource.Attribute.collapseContentDescription;
 			global::Xamarin.Forms.Platform.Android.Resource.Attribute.collapseIcon = global::DeviceTests.Droid.Resource.Attribute.collapseIcon;
@@ -379,7 +408,10 @@ namespace DeviceTests.Droid
 			global::Xamarin.Forms.Platform.Android.Resource.Attribute.colorError = global::DeviceTests.Droid.Resource.Attribute.colorError;
 			global::Xamarin.Forms.Platform.Android.Resource.Attribute.colorPrimary = global::DeviceTests.Droid.Resource.Attribute.colorPrimary;
 			global::Xamarin.Forms.Platform.Android.Resource.Attribute.colorPrimaryDark = global::DeviceTests.Droid.Resource.Attribute.colorPrimaryDark;
+<<<<<<< HEAD
 			global::Xamarin.Forms.Platform.Android.Resource.Attribute.colorSecondary = global::DeviceTests.Droid.Resource.Attribute.colorSecondary;
+=======
+>>>>>>> Updates after the master merge
 			global::Xamarin.Forms.Platform.Android.Resource.Attribute.colorSwitchThumbNormal = global::DeviceTests.Droid.Resource.Attribute.colorSwitchThumbNormal;
 			global::Xamarin.Forms.Platform.Android.Resource.Attribute.commitIcon = global::DeviceTests.Droid.Resource.Attribute.commitIcon;
 			global::Xamarin.Forms.Platform.Android.Resource.Attribute.contentDescription = global::DeviceTests.Droid.Resource.Attribute.contentDescription;
@@ -396,15 +428,21 @@ namespace DeviceTests.Droid
 			global::Xamarin.Forms.Platform.Android.Resource.Attribute.contentPaddingTop = global::DeviceTests.Droid.Resource.Attribute.contentPaddingTop;
 			global::Xamarin.Forms.Platform.Android.Resource.Attribute.contentScrim = global::DeviceTests.Droid.Resource.Attribute.contentScrim;
 			global::Xamarin.Forms.Platform.Android.Resource.Attribute.controlBackground = global::DeviceTests.Droid.Resource.Attribute.controlBackground;
+<<<<<<< HEAD
 			global::Xamarin.Forms.Platform.Android.Resource.Attribute.coordinatorLayoutStyle = global::DeviceTests.Droid.Resource.Attribute.coordinatorLayoutStyle;
 			global::Xamarin.Forms.Platform.Android.Resource.Attribute.cornerRadius = global::DeviceTests.Droid.Resource.Attribute.cornerRadius;
+=======
+>>>>>>> Updates after the master merge
 			global::Xamarin.Forms.Platform.Android.Resource.Attribute.counterEnabled = global::DeviceTests.Droid.Resource.Attribute.counterEnabled;
 			global::Xamarin.Forms.Platform.Android.Resource.Attribute.counterMaxLength = global::DeviceTests.Droid.Resource.Attribute.counterMaxLength;
 			global::Xamarin.Forms.Platform.Android.Resource.Attribute.counterOverflowTextAppearance = global::DeviceTests.Droid.Resource.Attribute.counterOverflowTextAppearance;
 			global::Xamarin.Forms.Platform.Android.Resource.Attribute.counterTextAppearance = global::DeviceTests.Droid.Resource.Attribute.counterTextAppearance;
 			global::Xamarin.Forms.Platform.Android.Resource.Attribute.customNavigationLayout = global::DeviceTests.Droid.Resource.Attribute.customNavigationLayout;
 			global::Xamarin.Forms.Platform.Android.Resource.Attribute.defaultQueryHint = global::DeviceTests.Droid.Resource.Attribute.defaultQueryHint;
+<<<<<<< HEAD
 			global::Xamarin.Forms.Platform.Android.Resource.Attribute.dialogCornerRadius = global::DeviceTests.Droid.Resource.Attribute.dialogCornerRadius;
+=======
+>>>>>>> Updates after the master merge
 			global::Xamarin.Forms.Platform.Android.Resource.Attribute.dialogPreferredPadding = global::DeviceTests.Droid.Resource.Attribute.dialogPreferredPadding;
 			global::Xamarin.Forms.Platform.Android.Resource.Attribute.dialogTheme = global::DeviceTests.Droid.Resource.Attribute.dialogTheme;
 			global::Xamarin.Forms.Platform.Android.Resource.Attribute.displayOptions = global::DeviceTests.Droid.Resource.Attribute.displayOptions;
@@ -420,8 +458,11 @@ namespace DeviceTests.Droid
 			global::Xamarin.Forms.Platform.Android.Resource.Attribute.editTextColor = global::DeviceTests.Droid.Resource.Attribute.editTextColor;
 			global::Xamarin.Forms.Platform.Android.Resource.Attribute.editTextStyle = global::DeviceTests.Droid.Resource.Attribute.editTextStyle;
 			global::Xamarin.Forms.Platform.Android.Resource.Attribute.elevation = global::DeviceTests.Droid.Resource.Attribute.elevation;
+<<<<<<< HEAD
 			global::Xamarin.Forms.Platform.Android.Resource.Attribute.enforceMaterialTheme = global::DeviceTests.Droid.Resource.Attribute.enforceMaterialTheme;
 			global::Xamarin.Forms.Platform.Android.Resource.Attribute.enforceTextAppearance = global::DeviceTests.Droid.Resource.Attribute.enforceTextAppearance;
+=======
+>>>>>>> Updates after the master merge
 			global::Xamarin.Forms.Platform.Android.Resource.Attribute.errorEnabled = global::DeviceTests.Droid.Resource.Attribute.errorEnabled;
 			global::Xamarin.Forms.Platform.Android.Resource.Attribute.errorTextAppearance = global::DeviceTests.Droid.Resource.Attribute.errorTextAppearance;
 			global::Xamarin.Forms.Platform.Android.Resource.Attribute.expandActivityOverflowButtonDrawable = global::DeviceTests.Droid.Resource.Attribute.expandActivityOverflowButtonDrawable;
@@ -433,19 +474,25 @@ namespace DeviceTests.Droid
 			global::Xamarin.Forms.Platform.Android.Resource.Attribute.expandedTitleMarginStart = global::DeviceTests.Droid.Resource.Attribute.expandedTitleMarginStart;
 			global::Xamarin.Forms.Platform.Android.Resource.Attribute.expandedTitleMarginTop = global::DeviceTests.Droid.Resource.Attribute.expandedTitleMarginTop;
 			global::Xamarin.Forms.Platform.Android.Resource.Attribute.expandedTitleTextAppearance = global::DeviceTests.Droid.Resource.Attribute.expandedTitleTextAppearance;
+<<<<<<< HEAD
 			global::Xamarin.Forms.Platform.Android.Resource.Attribute.fabAlignmentMode = global::DeviceTests.Droid.Resource.Attribute.fabAlignmentMode;
 			global::Xamarin.Forms.Platform.Android.Resource.Attribute.fabCradleMargin = global::DeviceTests.Droid.Resource.Attribute.fabCradleMargin;
 			global::Xamarin.Forms.Platform.Android.Resource.Attribute.fabCradleRoundedCornerRadius = global::DeviceTests.Droid.Resource.Attribute.fabCradleRoundedCornerRadius;
 			global::Xamarin.Forms.Platform.Android.Resource.Attribute.fabCradleVerticalOffset = global::DeviceTests.Droid.Resource.Attribute.fabCradleVerticalOffset;
 			global::Xamarin.Forms.Platform.Android.Resource.Attribute.fabCustomSize = global::DeviceTests.Droid.Resource.Attribute.fabCustomSize;
+=======
+>>>>>>> Updates after the master merge
 			global::Xamarin.Forms.Platform.Android.Resource.Attribute.fabSize = global::DeviceTests.Droid.Resource.Attribute.fabSize;
 			global::Xamarin.Forms.Platform.Android.Resource.Attribute.fastScrollEnabled = global::DeviceTests.Droid.Resource.Attribute.fastScrollEnabled;
 			global::Xamarin.Forms.Platform.Android.Resource.Attribute.fastScrollHorizontalThumbDrawable = global::DeviceTests.Droid.Resource.Attribute.fastScrollHorizontalThumbDrawable;
 			global::Xamarin.Forms.Platform.Android.Resource.Attribute.fastScrollHorizontalTrackDrawable = global::DeviceTests.Droid.Resource.Attribute.fastScrollHorizontalTrackDrawable;
 			global::Xamarin.Forms.Platform.Android.Resource.Attribute.fastScrollVerticalThumbDrawable = global::DeviceTests.Droid.Resource.Attribute.fastScrollVerticalThumbDrawable;
 			global::Xamarin.Forms.Platform.Android.Resource.Attribute.fastScrollVerticalTrackDrawable = global::DeviceTests.Droid.Resource.Attribute.fastScrollVerticalTrackDrawable;
+<<<<<<< HEAD
 			global::Xamarin.Forms.Platform.Android.Resource.Attribute.firstBaselineToTopHeight = global::DeviceTests.Droid.Resource.Attribute.firstBaselineToTopHeight;
 			global::Xamarin.Forms.Platform.Android.Resource.Attribute.floatingActionButtonStyle = global::DeviceTests.Droid.Resource.Attribute.floatingActionButtonStyle;
+=======
+>>>>>>> Updates after the master merge
 			global::Xamarin.Forms.Platform.Android.Resource.Attribute.font = global::DeviceTests.Droid.Resource.Attribute.font;
 			global::Xamarin.Forms.Platform.Android.Resource.Attribute.fontFamily = global::DeviceTests.Droid.Resource.Attribute.fontFamily;
 			global::Xamarin.Forms.Platform.Android.Resource.Attribute.fontProviderAuthority = global::DeviceTests.Droid.Resource.Attribute.fontProviderAuthority;
@@ -455,24 +502,32 @@ namespace DeviceTests.Droid
 			global::Xamarin.Forms.Platform.Android.Resource.Attribute.fontProviderPackage = global::DeviceTests.Droid.Resource.Attribute.fontProviderPackage;
 			global::Xamarin.Forms.Platform.Android.Resource.Attribute.fontProviderQuery = global::DeviceTests.Droid.Resource.Attribute.fontProviderQuery;
 			global::Xamarin.Forms.Platform.Android.Resource.Attribute.fontStyle = global::DeviceTests.Droid.Resource.Attribute.fontStyle;
+<<<<<<< HEAD
 			global::Xamarin.Forms.Platform.Android.Resource.Attribute.fontVariationSettings = global::DeviceTests.Droid.Resource.Attribute.fontVariationSettings;
+=======
+>>>>>>> Updates after the master merge
 			global::Xamarin.Forms.Platform.Android.Resource.Attribute.fontWeight = global::DeviceTests.Droid.Resource.Attribute.fontWeight;
 			global::Xamarin.Forms.Platform.Android.Resource.Attribute.foregroundInsidePadding = global::DeviceTests.Droid.Resource.Attribute.foregroundInsidePadding;
 			global::Xamarin.Forms.Platform.Android.Resource.Attribute.gapBetweenBars = global::DeviceTests.Droid.Resource.Attribute.gapBetweenBars;
 			global::Xamarin.Forms.Platform.Android.Resource.Attribute.goIcon = global::DeviceTests.Droid.Resource.Attribute.goIcon;
 			global::Xamarin.Forms.Platform.Android.Resource.Attribute.headerLayout = global::DeviceTests.Droid.Resource.Attribute.headerLayout;
 			global::Xamarin.Forms.Platform.Android.Resource.Attribute.height = global::DeviceTests.Droid.Resource.Attribute.height;
+<<<<<<< HEAD
 			global::Xamarin.Forms.Platform.Android.Resource.Attribute.helperText = global::DeviceTests.Droid.Resource.Attribute.helperText;
 			global::Xamarin.Forms.Platform.Android.Resource.Attribute.helperTextEnabled = global::DeviceTests.Droid.Resource.Attribute.helperTextEnabled;
 			global::Xamarin.Forms.Platform.Android.Resource.Attribute.helperTextTextAppearance = global::DeviceTests.Droid.Resource.Attribute.helperTextTextAppearance;
 			global::Xamarin.Forms.Platform.Android.Resource.Attribute.hideMotionSpec = global::DeviceTests.Droid.Resource.Attribute.hideMotionSpec;
 			global::Xamarin.Forms.Platform.Android.Resource.Attribute.hideOnContentScroll = global::DeviceTests.Droid.Resource.Attribute.hideOnContentScroll;
 			global::Xamarin.Forms.Platform.Android.Resource.Attribute.hideOnScroll = global::DeviceTests.Droid.Resource.Attribute.hideOnScroll;
+=======
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.hideOnContentScroll = global::DeviceTests.Droid.Resource.Attribute.hideOnContentScroll;
+>>>>>>> Updates after the master merge
 			global::Xamarin.Forms.Platform.Android.Resource.Attribute.hintAnimationEnabled = global::DeviceTests.Droid.Resource.Attribute.hintAnimationEnabled;
 			global::Xamarin.Forms.Platform.Android.Resource.Attribute.hintEnabled = global::DeviceTests.Droid.Resource.Attribute.hintEnabled;
 			global::Xamarin.Forms.Platform.Android.Resource.Attribute.hintTextAppearance = global::DeviceTests.Droid.Resource.Attribute.hintTextAppearance;
 			global::Xamarin.Forms.Platform.Android.Resource.Attribute.homeAsUpIndicator = global::DeviceTests.Droid.Resource.Attribute.homeAsUpIndicator;
 			global::Xamarin.Forms.Platform.Android.Resource.Attribute.homeLayout = global::DeviceTests.Droid.Resource.Attribute.homeLayout;
+<<<<<<< HEAD
 			global::Xamarin.Forms.Platform.Android.Resource.Attribute.hoveredFocusedTranslationZ = global::DeviceTests.Droid.Resource.Attribute.hoveredFocusedTranslationZ;
 			global::Xamarin.Forms.Platform.Android.Resource.Attribute.icon = global::DeviceTests.Droid.Resource.Attribute.icon;
 			global::Xamarin.Forms.Platform.Android.Resource.Attribute.iconEndPadding = global::DeviceTests.Droid.Resource.Attribute.iconEndPadding;
@@ -480,6 +535,9 @@ namespace DeviceTests.Droid
 			global::Xamarin.Forms.Platform.Android.Resource.Attribute.iconPadding = global::DeviceTests.Droid.Resource.Attribute.iconPadding;
 			global::Xamarin.Forms.Platform.Android.Resource.Attribute.iconSize = global::DeviceTests.Droid.Resource.Attribute.iconSize;
 			global::Xamarin.Forms.Platform.Android.Resource.Attribute.iconStartPadding = global::DeviceTests.Droid.Resource.Attribute.iconStartPadding;
+=======
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.icon = global::DeviceTests.Droid.Resource.Attribute.icon;
+>>>>>>> Updates after the master merge
 			global::Xamarin.Forms.Platform.Android.Resource.Attribute.iconTint = global::DeviceTests.Droid.Resource.Attribute.iconTint;
 			global::Xamarin.Forms.Platform.Android.Resource.Attribute.iconTintMode = global::DeviceTests.Droid.Resource.Attribute.iconTintMode;
 			global::Xamarin.Forms.Platform.Android.Resource.Attribute.iconifiedByDefault = global::DeviceTests.Droid.Resource.Attribute.iconifiedByDefault;
@@ -489,6 +547,7 @@ namespace DeviceTests.Droid
 			global::Xamarin.Forms.Platform.Android.Resource.Attribute.insetForeground = global::DeviceTests.Droid.Resource.Attribute.insetForeground;
 			global::Xamarin.Forms.Platform.Android.Resource.Attribute.isLightTheme = global::DeviceTests.Droid.Resource.Attribute.isLightTheme;
 			global::Xamarin.Forms.Platform.Android.Resource.Attribute.itemBackground = global::DeviceTests.Droid.Resource.Attribute.itemBackground;
+<<<<<<< HEAD
 			global::Xamarin.Forms.Platform.Android.Resource.Attribute.itemHorizontalPadding = global::DeviceTests.Droid.Resource.Attribute.itemHorizontalPadding;
 			global::Xamarin.Forms.Platform.Android.Resource.Attribute.itemHorizontalTranslationEnabled = global::DeviceTests.Droid.Resource.Attribute.itemHorizontalTranslationEnabled;
 			global::Xamarin.Forms.Platform.Android.Resource.Attribute.itemIconPadding = global::DeviceTests.Droid.Resource.Attribute.itemIconPadding;
@@ -503,6 +562,13 @@ namespace DeviceTests.Droid
 			global::Xamarin.Forms.Platform.Android.Resource.Attribute.keylines = global::DeviceTests.Droid.Resource.Attribute.keylines;
 			global::Xamarin.Forms.Platform.Android.Resource.Attribute.labelVisibilityMode = global::DeviceTests.Droid.Resource.Attribute.labelVisibilityMode;
 			global::Xamarin.Forms.Platform.Android.Resource.Attribute.lastBaselineToBottomHeight = global::DeviceTests.Droid.Resource.Attribute.lastBaselineToBottomHeight;
+=======
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.itemIconTint = global::DeviceTests.Droid.Resource.Attribute.itemIconTint;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.itemPadding = global::DeviceTests.Droid.Resource.Attribute.itemPadding;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.itemTextAppearance = global::DeviceTests.Droid.Resource.Attribute.itemTextAppearance;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.itemTextColor = global::DeviceTests.Droid.Resource.Attribute.itemTextColor;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.keylines = global::DeviceTests.Droid.Resource.Attribute.keylines;
+>>>>>>> Updates after the master merge
 			global::Xamarin.Forms.Platform.Android.Resource.Attribute.layout = global::DeviceTests.Droid.Resource.Attribute.layout;
 			global::Xamarin.Forms.Platform.Android.Resource.Attribute.layoutManager = global::DeviceTests.Droid.Resource.Attribute.layoutManager;
 			global::Xamarin.Forms.Platform.Android.Resource.Attribute.layout_anchor = global::DeviceTests.Droid.Resource.Attribute.layout_anchor;
@@ -515,9 +581,12 @@ namespace DeviceTests.Droid
 			global::Xamarin.Forms.Platform.Android.Resource.Attribute.layout_keyline = global::DeviceTests.Droid.Resource.Attribute.layout_keyline;
 			global::Xamarin.Forms.Platform.Android.Resource.Attribute.layout_scrollFlags = global::DeviceTests.Droid.Resource.Attribute.layout_scrollFlags;
 			global::Xamarin.Forms.Platform.Android.Resource.Attribute.layout_scrollInterpolator = global::DeviceTests.Droid.Resource.Attribute.layout_scrollInterpolator;
+<<<<<<< HEAD
 			global::Xamarin.Forms.Platform.Android.Resource.Attribute.liftOnScroll = global::DeviceTests.Droid.Resource.Attribute.liftOnScroll;
 			global::Xamarin.Forms.Platform.Android.Resource.Attribute.lineHeight = global::DeviceTests.Droid.Resource.Attribute.lineHeight;
 			global::Xamarin.Forms.Platform.Android.Resource.Attribute.lineSpacing = global::DeviceTests.Droid.Resource.Attribute.lineSpacing;
+=======
+>>>>>>> Updates after the master merge
 			global::Xamarin.Forms.Platform.Android.Resource.Attribute.listChoiceBackgroundIndicator = global::DeviceTests.Droid.Resource.Attribute.listChoiceBackgroundIndicator;
 			global::Xamarin.Forms.Platform.Android.Resource.Attribute.listDividerAlertDialog = global::DeviceTests.Droid.Resource.Attribute.listDividerAlertDialog;
 			global::Xamarin.Forms.Platform.Android.Resource.Attribute.listItemLayout = global::DeviceTests.Droid.Resource.Attribute.listItemLayout;
@@ -531,18 +600,26 @@ namespace DeviceTests.Droid
 			global::Xamarin.Forms.Platform.Android.Resource.Attribute.listPreferredItemPaddingRight = global::DeviceTests.Droid.Resource.Attribute.listPreferredItemPaddingRight;
 			global::Xamarin.Forms.Platform.Android.Resource.Attribute.logo = global::DeviceTests.Droid.Resource.Attribute.logo;
 			global::Xamarin.Forms.Platform.Android.Resource.Attribute.logoDescription = global::DeviceTests.Droid.Resource.Attribute.logoDescription;
+<<<<<<< HEAD
 			global::Xamarin.Forms.Platform.Android.Resource.Attribute.materialButtonStyle = global::DeviceTests.Droid.Resource.Attribute.materialButtonStyle;
 			global::Xamarin.Forms.Platform.Android.Resource.Attribute.materialCardViewStyle = global::DeviceTests.Droid.Resource.Attribute.materialCardViewStyle;
 			global::Xamarin.Forms.Platform.Android.Resource.Attribute.maxActionInlineWidth = global::DeviceTests.Droid.Resource.Attribute.maxActionInlineWidth;
 			global::Xamarin.Forms.Platform.Android.Resource.Attribute.maxButtonHeight = global::DeviceTests.Droid.Resource.Attribute.maxButtonHeight;
 			global::Xamarin.Forms.Platform.Android.Resource.Attribute.maxImageSize = global::DeviceTests.Droid.Resource.Attribute.maxImageSize;
+=======
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.maxActionInlineWidth = global::DeviceTests.Droid.Resource.Attribute.maxActionInlineWidth;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.maxButtonHeight = global::DeviceTests.Droid.Resource.Attribute.maxButtonHeight;
+>>>>>>> Updates after the master merge
 			global::Xamarin.Forms.Platform.Android.Resource.Attribute.measureWithLargestChild = global::DeviceTests.Droid.Resource.Attribute.measureWithLargestChild;
 			global::Xamarin.Forms.Platform.Android.Resource.Attribute.menu = global::DeviceTests.Droid.Resource.Attribute.menu;
 			global::Xamarin.Forms.Platform.Android.Resource.Attribute.multiChoiceItemLayout = global::DeviceTests.Droid.Resource.Attribute.multiChoiceItemLayout;
 			global::Xamarin.Forms.Platform.Android.Resource.Attribute.navigationContentDescription = global::DeviceTests.Droid.Resource.Attribute.navigationContentDescription;
 			global::Xamarin.Forms.Platform.Android.Resource.Attribute.navigationIcon = global::DeviceTests.Droid.Resource.Attribute.navigationIcon;
 			global::Xamarin.Forms.Platform.Android.Resource.Attribute.navigationMode = global::DeviceTests.Droid.Resource.Attribute.navigationMode;
+<<<<<<< HEAD
 			global::Xamarin.Forms.Platform.Android.Resource.Attribute.navigationViewStyle = global::DeviceTests.Droid.Resource.Attribute.navigationViewStyle;
+=======
+>>>>>>> Updates after the master merge
 			global::Xamarin.Forms.Platform.Android.Resource.Attribute.numericModifiers = global::DeviceTests.Droid.Resource.Attribute.numericModifiers;
 			global::Xamarin.Forms.Platform.Android.Resource.Attribute.overlapAnchor = global::DeviceTests.Droid.Resource.Attribute.overlapAnchor;
 			global::Xamarin.Forms.Platform.Android.Resource.Attribute.paddingBottomNoButtons = global::DeviceTests.Droid.Resource.Attribute.paddingBottomNoButtons;
@@ -573,7 +650,10 @@ namespace DeviceTests.Droid
 			global::Xamarin.Forms.Platform.Android.Resource.Attribute.reverseLayout = global::DeviceTests.Droid.Resource.Attribute.reverseLayout;
 			global::Xamarin.Forms.Platform.Android.Resource.Attribute.rippleColor = global::DeviceTests.Droid.Resource.Attribute.rippleColor;
 			global::Xamarin.Forms.Platform.Android.Resource.Attribute.scrimAnimationDuration = global::DeviceTests.Droid.Resource.Attribute.scrimAnimationDuration;
+<<<<<<< HEAD
 			global::Xamarin.Forms.Platform.Android.Resource.Attribute.scrimBackground = global::DeviceTests.Droid.Resource.Attribute.scrimBackground;
+=======
+>>>>>>> Updates after the master merge
 			global::Xamarin.Forms.Platform.Android.Resource.Attribute.scrimVisibleHeightTrigger = global::DeviceTests.Droid.Resource.Attribute.scrimVisibleHeightTrigger;
 			global::Xamarin.Forms.Platform.Android.Resource.Attribute.searchHintIcon = global::DeviceTests.Droid.Resource.Attribute.searchHintIcon;
 			global::Xamarin.Forms.Platform.Android.Resource.Attribute.searchIcon = global::DeviceTests.Droid.Resource.Attribute.searchIcon;
@@ -583,6 +663,7 @@ namespace DeviceTests.Droid
 			global::Xamarin.Forms.Platform.Android.Resource.Attribute.selectableItemBackgroundBorderless = global::DeviceTests.Droid.Resource.Attribute.selectableItemBackgroundBorderless;
 			global::Xamarin.Forms.Platform.Android.Resource.Attribute.showAsAction = global::DeviceTests.Droid.Resource.Attribute.showAsAction;
 			global::Xamarin.Forms.Platform.Android.Resource.Attribute.showDividers = global::DeviceTests.Droid.Resource.Attribute.showDividers;
+<<<<<<< HEAD
 			global::Xamarin.Forms.Platform.Android.Resource.Attribute.showMotionSpec = global::DeviceTests.Droid.Resource.Attribute.showMotionSpec;
 			global::Xamarin.Forms.Platform.Android.Resource.Attribute.showText = global::DeviceTests.Droid.Resource.Attribute.showText;
 			global::Xamarin.Forms.Platform.Android.Resource.Attribute.showTitle = global::DeviceTests.Droid.Resource.Attribute.showTitle;
@@ -591,6 +672,11 @@ namespace DeviceTests.Droid
 			global::Xamarin.Forms.Platform.Android.Resource.Attribute.singleSelection = global::DeviceTests.Droid.Resource.Attribute.singleSelection;
 			global::Xamarin.Forms.Platform.Android.Resource.Attribute.snackbarButtonStyle = global::DeviceTests.Droid.Resource.Attribute.snackbarButtonStyle;
 			global::Xamarin.Forms.Platform.Android.Resource.Attribute.snackbarStyle = global::DeviceTests.Droid.Resource.Attribute.snackbarStyle;
+=======
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.showText = global::DeviceTests.Droid.Resource.Attribute.showText;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.showTitle = global::DeviceTests.Droid.Resource.Attribute.showTitle;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.singleChoiceItemLayout = global::DeviceTests.Droid.Resource.Attribute.singleChoiceItemLayout;
+>>>>>>> Updates after the master merge
 			global::Xamarin.Forms.Platform.Android.Resource.Attribute.spanCount = global::DeviceTests.Droid.Resource.Attribute.spanCount;
 			global::Xamarin.Forms.Platform.Android.Resource.Attribute.spinBars = global::DeviceTests.Droid.Resource.Attribute.spinBars;
 			global::Xamarin.Forms.Platform.Android.Resource.Attribute.spinnerDropDownItemStyle = global::DeviceTests.Droid.Resource.Attribute.spinnerDropDownItemStyle;
@@ -601,12 +687,17 @@ namespace DeviceTests.Droid
 			global::Xamarin.Forms.Platform.Android.Resource.Attribute.state_above_anchor = global::DeviceTests.Droid.Resource.Attribute.state_above_anchor;
 			global::Xamarin.Forms.Platform.Android.Resource.Attribute.state_collapsed = global::DeviceTests.Droid.Resource.Attribute.state_collapsed;
 			global::Xamarin.Forms.Platform.Android.Resource.Attribute.state_collapsible = global::DeviceTests.Droid.Resource.Attribute.state_collapsible;
+<<<<<<< HEAD
 			global::Xamarin.Forms.Platform.Android.Resource.Attribute.state_liftable = global::DeviceTests.Droid.Resource.Attribute.state_liftable;
 			global::Xamarin.Forms.Platform.Android.Resource.Attribute.state_lifted = global::DeviceTests.Droid.Resource.Attribute.state_lifted;
 			global::Xamarin.Forms.Platform.Android.Resource.Attribute.statusBarBackground = global::DeviceTests.Droid.Resource.Attribute.statusBarBackground;
 			global::Xamarin.Forms.Platform.Android.Resource.Attribute.statusBarScrim = global::DeviceTests.Droid.Resource.Attribute.statusBarScrim;
 			global::Xamarin.Forms.Platform.Android.Resource.Attribute.strokeColor = global::DeviceTests.Droid.Resource.Attribute.strokeColor;
 			global::Xamarin.Forms.Platform.Android.Resource.Attribute.strokeWidth = global::DeviceTests.Droid.Resource.Attribute.strokeWidth;
+=======
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.statusBarBackground = global::DeviceTests.Droid.Resource.Attribute.statusBarBackground;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.statusBarScrim = global::DeviceTests.Droid.Resource.Attribute.statusBarScrim;
+>>>>>>> Updates after the master merge
 			global::Xamarin.Forms.Platform.Android.Resource.Attribute.subMenuArrow = global::DeviceTests.Droid.Resource.Attribute.subMenuArrow;
 			global::Xamarin.Forms.Platform.Android.Resource.Attribute.submitBackground = global::DeviceTests.Droid.Resource.Attribute.submitBackground;
 			global::Xamarin.Forms.Platform.Android.Resource.Attribute.subtitle = global::DeviceTests.Droid.Resource.Attribute.subtitle;
@@ -621,6 +712,7 @@ namespace DeviceTests.Droid
 			global::Xamarin.Forms.Platform.Android.Resource.Attribute.tabBackground = global::DeviceTests.Droid.Resource.Attribute.tabBackground;
 			global::Xamarin.Forms.Platform.Android.Resource.Attribute.tabContentStart = global::DeviceTests.Droid.Resource.Attribute.tabContentStart;
 			global::Xamarin.Forms.Platform.Android.Resource.Attribute.tabGravity = global::DeviceTests.Droid.Resource.Attribute.tabGravity;
+<<<<<<< HEAD
 			global::Xamarin.Forms.Platform.Android.Resource.Attribute.tabIconTint = global::DeviceTests.Droid.Resource.Attribute.tabIconTint;
 			global::Xamarin.Forms.Platform.Android.Resource.Attribute.tabIconTintMode = global::DeviceTests.Droid.Resource.Attribute.tabIconTintMode;
 			global::Xamarin.Forms.Platform.Android.Resource.Attribute.tabIndicator = global::DeviceTests.Droid.Resource.Attribute.tabIndicator;
@@ -630,6 +722,10 @@ namespace DeviceTests.Droid
 			global::Xamarin.Forms.Platform.Android.Resource.Attribute.tabIndicatorGravity = global::DeviceTests.Droid.Resource.Attribute.tabIndicatorGravity;
 			global::Xamarin.Forms.Platform.Android.Resource.Attribute.tabIndicatorHeight = global::DeviceTests.Droid.Resource.Attribute.tabIndicatorHeight;
 			global::Xamarin.Forms.Platform.Android.Resource.Attribute.tabInlineLabel = global::DeviceTests.Droid.Resource.Attribute.tabInlineLabel;
+=======
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.tabIndicatorColor = global::DeviceTests.Droid.Resource.Attribute.tabIndicatorColor;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.tabIndicatorHeight = global::DeviceTests.Droid.Resource.Attribute.tabIndicatorHeight;
+>>>>>>> Updates after the master merge
 			global::Xamarin.Forms.Platform.Android.Resource.Attribute.tabMaxWidth = global::DeviceTests.Droid.Resource.Attribute.tabMaxWidth;
 			global::Xamarin.Forms.Platform.Android.Resource.Attribute.tabMinWidth = global::DeviceTests.Droid.Resource.Attribute.tabMinWidth;
 			global::Xamarin.Forms.Platform.Android.Resource.Attribute.tabMode = global::DeviceTests.Droid.Resource.Attribute.tabMode;
@@ -638,6 +734,7 @@ namespace DeviceTests.Droid
 			global::Xamarin.Forms.Platform.Android.Resource.Attribute.tabPaddingEnd = global::DeviceTests.Droid.Resource.Attribute.tabPaddingEnd;
 			global::Xamarin.Forms.Platform.Android.Resource.Attribute.tabPaddingStart = global::DeviceTests.Droid.Resource.Attribute.tabPaddingStart;
 			global::Xamarin.Forms.Platform.Android.Resource.Attribute.tabPaddingTop = global::DeviceTests.Droid.Resource.Attribute.tabPaddingTop;
+<<<<<<< HEAD
 			global::Xamarin.Forms.Platform.Android.Resource.Attribute.tabRippleColor = global::DeviceTests.Droid.Resource.Attribute.tabRippleColor;
 			global::Xamarin.Forms.Platform.Android.Resource.Attribute.tabSelectedTextColor = global::DeviceTests.Droid.Resource.Attribute.tabSelectedTextColor;
 			global::Xamarin.Forms.Platform.Android.Resource.Attribute.tabStyle = global::DeviceTests.Droid.Resource.Attribute.tabStyle;
@@ -655,15 +752,25 @@ namespace DeviceTests.Droid
 			global::Xamarin.Forms.Platform.Android.Resource.Attribute.textAppearanceHeadline4 = global::DeviceTests.Droid.Resource.Attribute.textAppearanceHeadline4;
 			global::Xamarin.Forms.Platform.Android.Resource.Attribute.textAppearanceHeadline5 = global::DeviceTests.Droid.Resource.Attribute.textAppearanceHeadline5;
 			global::Xamarin.Forms.Platform.Android.Resource.Attribute.textAppearanceHeadline6 = global::DeviceTests.Droid.Resource.Attribute.textAppearanceHeadline6;
+=======
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.tabSelectedTextColor = global::DeviceTests.Droid.Resource.Attribute.tabSelectedTextColor;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.tabTextAppearance = global::DeviceTests.Droid.Resource.Attribute.tabTextAppearance;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.tabTextColor = global::DeviceTests.Droid.Resource.Attribute.tabTextColor;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.textAllCaps = global::DeviceTests.Droid.Resource.Attribute.textAllCaps;
+>>>>>>> Updates after the master merge
 			global::Xamarin.Forms.Platform.Android.Resource.Attribute.textAppearanceLargePopupMenu = global::DeviceTests.Droid.Resource.Attribute.textAppearanceLargePopupMenu;
 			global::Xamarin.Forms.Platform.Android.Resource.Attribute.textAppearanceListItem = global::DeviceTests.Droid.Resource.Attribute.textAppearanceListItem;
 			global::Xamarin.Forms.Platform.Android.Resource.Attribute.textAppearanceListItemSecondary = global::DeviceTests.Droid.Resource.Attribute.textAppearanceListItemSecondary;
 			global::Xamarin.Forms.Platform.Android.Resource.Attribute.textAppearanceListItemSmall = global::DeviceTests.Droid.Resource.Attribute.textAppearanceListItemSmall;
+<<<<<<< HEAD
 			global::Xamarin.Forms.Platform.Android.Resource.Attribute.textAppearanceOverline = global::DeviceTests.Droid.Resource.Attribute.textAppearanceOverline;
+=======
+>>>>>>> Updates after the master merge
 			global::Xamarin.Forms.Platform.Android.Resource.Attribute.textAppearancePopupMenuHeader = global::DeviceTests.Droid.Resource.Attribute.textAppearancePopupMenuHeader;
 			global::Xamarin.Forms.Platform.Android.Resource.Attribute.textAppearanceSearchResultSubtitle = global::DeviceTests.Droid.Resource.Attribute.textAppearanceSearchResultSubtitle;
 			global::Xamarin.Forms.Platform.Android.Resource.Attribute.textAppearanceSearchResultTitle = global::DeviceTests.Droid.Resource.Attribute.textAppearanceSearchResultTitle;
 			global::Xamarin.Forms.Platform.Android.Resource.Attribute.textAppearanceSmallPopupMenu = global::DeviceTests.Droid.Resource.Attribute.textAppearanceSmallPopupMenu;
+<<<<<<< HEAD
 			global::Xamarin.Forms.Platform.Android.Resource.Attribute.textAppearanceSubtitle1 = global::DeviceTests.Droid.Resource.Attribute.textAppearanceSubtitle1;
 			global::Xamarin.Forms.Platform.Android.Resource.Attribute.textAppearanceSubtitle2 = global::DeviceTests.Droid.Resource.Attribute.textAppearanceSubtitle2;
 			global::Xamarin.Forms.Platform.Android.Resource.Attribute.textColorAlertDialogListItem = global::DeviceTests.Droid.Resource.Attribute.textColorAlertDialogListItem;
@@ -671,6 +778,11 @@ namespace DeviceTests.Droid
 			global::Xamarin.Forms.Platform.Android.Resource.Attribute.textEndPadding = global::DeviceTests.Droid.Resource.Attribute.textEndPadding;
 			global::Xamarin.Forms.Platform.Android.Resource.Attribute.textInputStyle = global::DeviceTests.Droid.Resource.Attribute.textInputStyle;
 			global::Xamarin.Forms.Platform.Android.Resource.Attribute.textStartPadding = global::DeviceTests.Droid.Resource.Attribute.textStartPadding;
+=======
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.textColorAlertDialogListItem = global::DeviceTests.Droid.Resource.Attribute.textColorAlertDialogListItem;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.textColorError = global::DeviceTests.Droid.Resource.Attribute.textColorError;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.textColorSearchUrl = global::DeviceTests.Droid.Resource.Attribute.textColorSearchUrl;
+>>>>>>> Updates after the master merge
 			global::Xamarin.Forms.Platform.Android.Resource.Attribute.theme = global::DeviceTests.Droid.Resource.Attribute.theme;
 			global::Xamarin.Forms.Platform.Android.Resource.Attribute.thickness = global::DeviceTests.Droid.Resource.Attribute.thickness;
 			global::Xamarin.Forms.Platform.Android.Resource.Attribute.thumbTextPadding = global::DeviceTests.Droid.Resource.Attribute.thumbTextPadding;
@@ -701,9 +813,13 @@ namespace DeviceTests.Droid
 			global::Xamarin.Forms.Platform.Android.Resource.Attribute.track = global::DeviceTests.Droid.Resource.Attribute.track;
 			global::Xamarin.Forms.Platform.Android.Resource.Attribute.trackTint = global::DeviceTests.Droid.Resource.Attribute.trackTint;
 			global::Xamarin.Forms.Platform.Android.Resource.Attribute.trackTintMode = global::DeviceTests.Droid.Resource.Attribute.trackTintMode;
+<<<<<<< HEAD
 			global::Xamarin.Forms.Platform.Android.Resource.Attribute.ttcIndex = global::DeviceTests.Droid.Resource.Attribute.ttcIndex;
 			global::Xamarin.Forms.Platform.Android.Resource.Attribute.useCompatPadding = global::DeviceTests.Droid.Resource.Attribute.useCompatPadding;
 			global::Xamarin.Forms.Platform.Android.Resource.Attribute.viewInflaterClass = global::DeviceTests.Droid.Resource.Attribute.viewInflaterClass;
+=======
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.useCompatPadding = global::DeviceTests.Droid.Resource.Attribute.useCompatPadding;
+>>>>>>> Updates after the master merge
 			global::Xamarin.Forms.Platform.Android.Resource.Attribute.voiceIcon = global::DeviceTests.Droid.Resource.Attribute.voiceIcon;
 			global::Xamarin.Forms.Platform.Android.Resource.Attribute.windowActionBar = global::DeviceTests.Droid.Resource.Attribute.windowActionBar;
 			global::Xamarin.Forms.Platform.Android.Resource.Attribute.windowActionBarOverlay = global::DeviceTests.Droid.Resource.Attribute.windowActionBarOverlay;
@@ -718,7 +834,12 @@ namespace DeviceTests.Droid
 			global::Xamarin.Forms.Platform.Android.Resource.Boolean.abc_action_bar_embed_tabs = global::DeviceTests.Droid.Resource.Boolean.abc_action_bar_embed_tabs;
 			global::Xamarin.Forms.Platform.Android.Resource.Boolean.abc_allow_stacked_button_bar = global::DeviceTests.Droid.Resource.Boolean.abc_allow_stacked_button_bar;
 			global::Xamarin.Forms.Platform.Android.Resource.Boolean.abc_config_actionMenuItemAllCaps = global::DeviceTests.Droid.Resource.Boolean.abc_config_actionMenuItemAllCaps;
+<<<<<<< HEAD
 			global::Xamarin.Forms.Platform.Android.Resource.Boolean.mtrl_btn_textappearance_all_caps = global::DeviceTests.Droid.Resource.Boolean.mtrl_btn_textappearance_all_caps;
+=======
+			global::Xamarin.Forms.Platform.Android.Resource.Boolean.abc_config_closeDialogWhenTouchOutside = global::DeviceTests.Droid.Resource.Boolean.abc_config_closeDialogWhenTouchOutside;
+			global::Xamarin.Forms.Platform.Android.Resource.Boolean.abc_config_showMenuShortcutsWhenKeyboardPresent = global::DeviceTests.Droid.Resource.Boolean.abc_config_showMenuShortcutsWhenKeyboardPresent;
+>>>>>>> Updates after the master merge
 			global::Xamarin.Forms.Platform.Android.Resource.Color.abc_background_cache_hint_selector_material_dark = global::DeviceTests.Droid.Resource.Color.abc_background_cache_hint_selector_material_dark;
 			global::Xamarin.Forms.Platform.Android.Resource.Color.abc_background_cache_hint_selector_material_light = global::DeviceTests.Droid.Resource.Color.abc_background_cache_hint_selector_material_light;
 			global::Xamarin.Forms.Platform.Android.Resource.Color.abc_btn_colored_borderless_text_material = global::DeviceTests.Droid.Resource.Color.abc_btn_colored_borderless_text_material;
@@ -762,8 +883,11 @@ namespace DeviceTests.Droid
 			global::Xamarin.Forms.Platform.Android.Resource.Color.cardview_shadow_end_color = global::DeviceTests.Droid.Resource.Color.cardview_shadow_end_color;
 			global::Xamarin.Forms.Platform.Android.Resource.Color.cardview_shadow_start_color = global::DeviceTests.Droid.Resource.Color.cardview_shadow_start_color;
 			global::Xamarin.Forms.Platform.Android.Resource.Color.design_bottom_navigation_shadow_color = global::DeviceTests.Droid.Resource.Color.design_bottom_navigation_shadow_color;
+<<<<<<< HEAD
 			global::Xamarin.Forms.Platform.Android.Resource.Color.design_default_color_primary = global::DeviceTests.Droid.Resource.Color.design_default_color_primary;
 			global::Xamarin.Forms.Platform.Android.Resource.Color.design_default_color_primary_dark = global::DeviceTests.Droid.Resource.Color.design_default_color_primary_dark;
+=======
+>>>>>>> Updates after the master merge
 			global::Xamarin.Forms.Platform.Android.Resource.Color.design_error = global::DeviceTests.Droid.Resource.Color.design_error;
 			global::Xamarin.Forms.Platform.Android.Resource.Color.design_fab_shadow_end_color = global::DeviceTests.Droid.Resource.Color.design_fab_shadow_end_color;
 			global::Xamarin.Forms.Platform.Android.Resource.Color.design_fab_shadow_mid_color = global::DeviceTests.Droid.Resource.Color.design_fab_shadow_mid_color;
@@ -778,8 +902,12 @@ namespace DeviceTests.Droid
 			global::Xamarin.Forms.Platform.Android.Resource.Color.dim_foreground_disabled_material_light = global::DeviceTests.Droid.Resource.Color.dim_foreground_disabled_material_light;
 			global::Xamarin.Forms.Platform.Android.Resource.Color.dim_foreground_material_dark = global::DeviceTests.Droid.Resource.Color.dim_foreground_material_dark;
 			global::Xamarin.Forms.Platform.Android.Resource.Color.dim_foreground_material_light = global::DeviceTests.Droid.Resource.Color.dim_foreground_material_light;
+<<<<<<< HEAD
 			global::Xamarin.Forms.Platform.Android.Resource.Color.error_color_material_dark = global::DeviceTests.Droid.Resource.Color.error_color_material_dark;
 			global::Xamarin.Forms.Platform.Android.Resource.Color.error_color_material_light = global::DeviceTests.Droid.Resource.Color.error_color_material_light;
+=======
+			global::Xamarin.Forms.Platform.Android.Resource.Color.error_color_material = global::DeviceTests.Droid.Resource.Color.error_color_material;
+>>>>>>> Updates after the master merge
 			global::Xamarin.Forms.Platform.Android.Resource.Color.foreground_material_dark = global::DeviceTests.Droid.Resource.Color.foreground_material_dark;
 			global::Xamarin.Forms.Platform.Android.Resource.Color.foreground_material_light = global::DeviceTests.Droid.Resource.Color.foreground_material_light;
 			global::Xamarin.Forms.Platform.Android.Resource.Color.highlighted_text_material_dark = global::DeviceTests.Droid.Resource.Color.highlighted_text_material_dark;
@@ -796,6 +924,7 @@ namespace DeviceTests.Droid
 			global::Xamarin.Forms.Platform.Android.Resource.Color.material_grey_800 = global::DeviceTests.Droid.Resource.Color.material_grey_800;
 			global::Xamarin.Forms.Platform.Android.Resource.Color.material_grey_850 = global::DeviceTests.Droid.Resource.Color.material_grey_850;
 			global::Xamarin.Forms.Platform.Android.Resource.Color.material_grey_900 = global::DeviceTests.Droid.Resource.Color.material_grey_900;
+<<<<<<< HEAD
 			global::Xamarin.Forms.Platform.Android.Resource.Color.mtrl_bottom_nav_colored_item_tint = global::DeviceTests.Droid.Resource.Color.mtrl_bottom_nav_colored_item_tint;
 			global::Xamarin.Forms.Platform.Android.Resource.Color.mtrl_bottom_nav_item_tint = global::DeviceTests.Droid.Resource.Color.mtrl_bottom_nav_item_tint;
 			global::Xamarin.Forms.Platform.Android.Resource.Color.mtrl_btn_bg_color_disabled = global::DeviceTests.Droid.Resource.Color.mtrl_btn_bg_color_disabled;
@@ -822,6 +951,8 @@ namespace DeviceTests.Droid
 			global::Xamarin.Forms.Platform.Android.Resource.Color.mtrl_textinput_disabled_color = global::DeviceTests.Droid.Resource.Color.mtrl_textinput_disabled_color;
 			global::Xamarin.Forms.Platform.Android.Resource.Color.mtrl_textinput_filled_box_default_background_color = global::DeviceTests.Droid.Resource.Color.mtrl_textinput_filled_box_default_background_color;
 			global::Xamarin.Forms.Platform.Android.Resource.Color.mtrl_textinput_hovered_box_stroke_color = global::DeviceTests.Droid.Resource.Color.mtrl_textinput_hovered_box_stroke_color;
+=======
+>>>>>>> Updates after the master merge
 			global::Xamarin.Forms.Platform.Android.Resource.Color.notification_action_color_filter = global::DeviceTests.Droid.Resource.Color.notification_action_color_filter;
 			global::Xamarin.Forms.Platform.Android.Resource.Color.notification_icon_bg_color = global::DeviceTests.Droid.Resource.Color.notification_icon_bg_color;
 			global::Xamarin.Forms.Platform.Android.Resource.Color.notification_material_background_media_default_color = global::DeviceTests.Droid.Resource.Color.notification_material_background_media_default_color;
@@ -856,6 +987,10 @@ namespace DeviceTests.Droid
 			global::Xamarin.Forms.Platform.Android.Resource.Dimension.abc_action_bar_icon_vertical_padding_material = global::DeviceTests.Droid.Resource.Dimension.abc_action_bar_icon_vertical_padding_material;
 			global::Xamarin.Forms.Platform.Android.Resource.Dimension.abc_action_bar_overflow_padding_end_material = global::DeviceTests.Droid.Resource.Dimension.abc_action_bar_overflow_padding_end_material;
 			global::Xamarin.Forms.Platform.Android.Resource.Dimension.abc_action_bar_overflow_padding_start_material = global::DeviceTests.Droid.Resource.Dimension.abc_action_bar_overflow_padding_start_material;
+<<<<<<< HEAD
+=======
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.abc_action_bar_progress_bar_size = global::DeviceTests.Droid.Resource.Dimension.abc_action_bar_progress_bar_size;
+>>>>>>> Updates after the master merge
 			global::Xamarin.Forms.Platform.Android.Resource.Dimension.abc_action_bar_stacked_max_height = global::DeviceTests.Droid.Resource.Dimension.abc_action_bar_stacked_max_height;
 			global::Xamarin.Forms.Platform.Android.Resource.Dimension.abc_action_bar_stacked_tab_max_width = global::DeviceTests.Droid.Resource.Dimension.abc_action_bar_stacked_tab_max_width;
 			global::Xamarin.Forms.Platform.Android.Resource.Dimension.abc_action_bar_subtitle_bottom_margin_material = global::DeviceTests.Droid.Resource.Dimension.abc_action_bar_subtitle_bottom_margin_material;
@@ -864,7 +999,10 @@ namespace DeviceTests.Droid
 			global::Xamarin.Forms.Platform.Android.Resource.Dimension.abc_action_button_min_width_material = global::DeviceTests.Droid.Resource.Dimension.abc_action_button_min_width_material;
 			global::Xamarin.Forms.Platform.Android.Resource.Dimension.abc_action_button_min_width_overflow_material = global::DeviceTests.Droid.Resource.Dimension.abc_action_button_min_width_overflow_material;
 			global::Xamarin.Forms.Platform.Android.Resource.Dimension.abc_alert_dialog_button_bar_height = global::DeviceTests.Droid.Resource.Dimension.abc_alert_dialog_button_bar_height;
+<<<<<<< HEAD
 			global::Xamarin.Forms.Platform.Android.Resource.Dimension.abc_alert_dialog_button_dimen = global::DeviceTests.Droid.Resource.Dimension.abc_alert_dialog_button_dimen;
+=======
+>>>>>>> Updates after the master merge
 			global::Xamarin.Forms.Platform.Android.Resource.Dimension.abc_button_inset_horizontal_material = global::DeviceTests.Droid.Resource.Dimension.abc_button_inset_horizontal_material;
 			global::Xamarin.Forms.Platform.Android.Resource.Dimension.abc_button_inset_vertical_material = global::DeviceTests.Droid.Resource.Dimension.abc_button_inset_vertical_material;
 			global::Xamarin.Forms.Platform.Android.Resource.Dimension.abc_button_padding_horizontal_material = global::DeviceTests.Droid.Resource.Dimension.abc_button_padding_horizontal_material;
@@ -874,7 +1012,10 @@ namespace DeviceTests.Droid
 			global::Xamarin.Forms.Platform.Android.Resource.Dimension.abc_control_corner_material = global::DeviceTests.Droid.Resource.Dimension.abc_control_corner_material;
 			global::Xamarin.Forms.Platform.Android.Resource.Dimension.abc_control_inset_material = global::DeviceTests.Droid.Resource.Dimension.abc_control_inset_material;
 			global::Xamarin.Forms.Platform.Android.Resource.Dimension.abc_control_padding_material = global::DeviceTests.Droid.Resource.Dimension.abc_control_padding_material;
+<<<<<<< HEAD
 			global::Xamarin.Forms.Platform.Android.Resource.Dimension.abc_dialog_corner_radius_material = global::DeviceTests.Droid.Resource.Dimension.abc_dialog_corner_radius_material;
+=======
+>>>>>>> Updates after the master merge
 			global::Xamarin.Forms.Platform.Android.Resource.Dimension.abc_dialog_fixed_height_major = global::DeviceTests.Droid.Resource.Dimension.abc_dialog_fixed_height_major;
 			global::Xamarin.Forms.Platform.Android.Resource.Dimension.abc_dialog_fixed_height_minor = global::DeviceTests.Droid.Resource.Dimension.abc_dialog_fixed_height_minor;
 			global::Xamarin.Forms.Platform.Android.Resource.Dimension.abc_dialog_fixed_width_major = global::DeviceTests.Droid.Resource.Dimension.abc_dialog_fixed_width_major;
@@ -930,6 +1071,7 @@ namespace DeviceTests.Droid
 			global::Xamarin.Forms.Platform.Android.Resource.Dimension.compat_button_padding_horizontal_material = global::DeviceTests.Droid.Resource.Dimension.compat_button_padding_horizontal_material;
 			global::Xamarin.Forms.Platform.Android.Resource.Dimension.compat_button_padding_vertical_material = global::DeviceTests.Droid.Resource.Dimension.compat_button_padding_vertical_material;
 			global::Xamarin.Forms.Platform.Android.Resource.Dimension.compat_control_corner_material = global::DeviceTests.Droid.Resource.Dimension.compat_control_corner_material;
+<<<<<<< HEAD
 			global::Xamarin.Forms.Platform.Android.Resource.Dimension.compat_notification_large_icon_max_height = global::DeviceTests.Droid.Resource.Dimension.compat_notification_large_icon_max_height;
 			global::Xamarin.Forms.Platform.Android.Resource.Dimension.compat_notification_large_icon_max_width = global::DeviceTests.Droid.Resource.Dimension.compat_notification_large_icon_max_width;
 			global::Xamarin.Forms.Platform.Android.Resource.Dimension.design_appbar_elevation = global::DeviceTests.Droid.Resource.Dimension.design_appbar_elevation;
@@ -939,6 +1081,13 @@ namespace DeviceTests.Droid
 			global::Xamarin.Forms.Platform.Android.Resource.Dimension.design_bottom_navigation_elevation = global::DeviceTests.Droid.Resource.Dimension.design_bottom_navigation_elevation;
 			global::Xamarin.Forms.Platform.Android.Resource.Dimension.design_bottom_navigation_height = global::DeviceTests.Droid.Resource.Dimension.design_bottom_navigation_height;
 			global::Xamarin.Forms.Platform.Android.Resource.Dimension.design_bottom_navigation_icon_size = global::DeviceTests.Droid.Resource.Dimension.design_bottom_navigation_icon_size;
+=======
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.design_appbar_elevation = global::DeviceTests.Droid.Resource.Dimension.design_appbar_elevation;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.design_bottom_navigation_active_item_max_width = global::DeviceTests.Droid.Resource.Dimension.design_bottom_navigation_active_item_max_width;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.design_bottom_navigation_active_text_size = global::DeviceTests.Droid.Resource.Dimension.design_bottom_navigation_active_text_size;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.design_bottom_navigation_elevation = global::DeviceTests.Droid.Resource.Dimension.design_bottom_navigation_elevation;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.design_bottom_navigation_height = global::DeviceTests.Droid.Resource.Dimension.design_bottom_navigation_height;
+>>>>>>> Updates after the master merge
 			global::Xamarin.Forms.Platform.Android.Resource.Dimension.design_bottom_navigation_item_max_width = global::DeviceTests.Droid.Resource.Dimension.design_bottom_navigation_item_max_width;
 			global::Xamarin.Forms.Platform.Android.Resource.Dimension.design_bottom_navigation_item_min_width = global::DeviceTests.Droid.Resource.Dimension.design_bottom_navigation_item_min_width;
 			global::Xamarin.Forms.Platform.Android.Resource.Dimension.design_bottom_navigation_margin = global::DeviceTests.Droid.Resource.Dimension.design_bottom_navigation_margin;
@@ -951,13 +1100,19 @@ namespace DeviceTests.Droid
 			global::Xamarin.Forms.Platform.Android.Resource.Dimension.design_fab_image_size = global::DeviceTests.Droid.Resource.Dimension.design_fab_image_size;
 			global::Xamarin.Forms.Platform.Android.Resource.Dimension.design_fab_size_mini = global::DeviceTests.Droid.Resource.Dimension.design_fab_size_mini;
 			global::Xamarin.Forms.Platform.Android.Resource.Dimension.design_fab_size_normal = global::DeviceTests.Droid.Resource.Dimension.design_fab_size_normal;
+<<<<<<< HEAD
 			global::Xamarin.Forms.Platform.Android.Resource.Dimension.design_fab_translation_z_hovered_focused = global::DeviceTests.Droid.Resource.Dimension.design_fab_translation_z_hovered_focused;
+=======
+>>>>>>> Updates after the master merge
 			global::Xamarin.Forms.Platform.Android.Resource.Dimension.design_fab_translation_z_pressed = global::DeviceTests.Droid.Resource.Dimension.design_fab_translation_z_pressed;
 			global::Xamarin.Forms.Platform.Android.Resource.Dimension.design_navigation_elevation = global::DeviceTests.Droid.Resource.Dimension.design_navigation_elevation;
 			global::Xamarin.Forms.Platform.Android.Resource.Dimension.design_navigation_icon_padding = global::DeviceTests.Droid.Resource.Dimension.design_navigation_icon_padding;
 			global::Xamarin.Forms.Platform.Android.Resource.Dimension.design_navigation_icon_size = global::DeviceTests.Droid.Resource.Dimension.design_navigation_icon_size;
+<<<<<<< HEAD
 			global::Xamarin.Forms.Platform.Android.Resource.Dimension.design_navigation_item_horizontal_padding = global::DeviceTests.Droid.Resource.Dimension.design_navigation_item_horizontal_padding;
 			global::Xamarin.Forms.Platform.Android.Resource.Dimension.design_navigation_item_icon_padding = global::DeviceTests.Droid.Resource.Dimension.design_navigation_item_icon_padding;
+=======
+>>>>>>> Updates after the master merge
 			global::Xamarin.Forms.Platform.Android.Resource.Dimension.design_navigation_max_width = global::DeviceTests.Droid.Resource.Dimension.design_navigation_max_width;
 			global::Xamarin.Forms.Platform.Android.Resource.Dimension.design_navigation_padding_bottom = global::DeviceTests.Droid.Resource.Dimension.design_navigation_padding_bottom;
 			global::Xamarin.Forms.Platform.Android.Resource.Dimension.design_navigation_separator_vertical_padding = global::DeviceTests.Droid.Resource.Dimension.design_navigation_separator_vertical_padding;
@@ -975,7 +1130,10 @@ namespace DeviceTests.Droid
 			global::Xamarin.Forms.Platform.Android.Resource.Dimension.design_tab_scrollable_min_width = global::DeviceTests.Droid.Resource.Dimension.design_tab_scrollable_min_width;
 			global::Xamarin.Forms.Platform.Android.Resource.Dimension.design_tab_text_size = global::DeviceTests.Droid.Resource.Dimension.design_tab_text_size;
 			global::Xamarin.Forms.Platform.Android.Resource.Dimension.design_tab_text_size_2line = global::DeviceTests.Droid.Resource.Dimension.design_tab_text_size_2line;
+<<<<<<< HEAD
 			global::Xamarin.Forms.Platform.Android.Resource.Dimension.design_textinput_caption_translate_y = global::DeviceTests.Droid.Resource.Dimension.design_textinput_caption_translate_y;
+=======
+>>>>>>> Updates after the master merge
 			global::Xamarin.Forms.Platform.Android.Resource.Dimension.disabled_alpha_material_dark = global::DeviceTests.Droid.Resource.Dimension.disabled_alpha_material_dark;
 			global::Xamarin.Forms.Platform.Android.Resource.Dimension.disabled_alpha_material_light = global::DeviceTests.Droid.Resource.Dimension.disabled_alpha_material_light;
 			global::Xamarin.Forms.Platform.Android.Resource.Dimension.fastscroll_default_thickness = global::DeviceTests.Droid.Resource.Dimension.fastscroll_default_thickness;
@@ -991,6 +1149,7 @@ namespace DeviceTests.Droid
 			global::Xamarin.Forms.Platform.Android.Resource.Dimension.item_touch_helper_max_drag_scroll_per_frame = global::DeviceTests.Droid.Resource.Dimension.item_touch_helper_max_drag_scroll_per_frame;
 			global::Xamarin.Forms.Platform.Android.Resource.Dimension.item_touch_helper_swipe_escape_max_velocity = global::DeviceTests.Droid.Resource.Dimension.item_touch_helper_swipe_escape_max_velocity;
 			global::Xamarin.Forms.Platform.Android.Resource.Dimension.item_touch_helper_swipe_escape_velocity = global::DeviceTests.Droid.Resource.Dimension.item_touch_helper_swipe_escape_velocity;
+<<<<<<< HEAD
 			global::Xamarin.Forms.Platform.Android.Resource.Dimension.mtrl_bottomappbar_fabOffsetEndMode = global::DeviceTests.Droid.Resource.Dimension.mtrl_bottomappbar_fabOffsetEndMode;
 			global::Xamarin.Forms.Platform.Android.Resource.Dimension.mtrl_bottomappbar_fab_cradle_margin = global::DeviceTests.Droid.Resource.Dimension.mtrl_bottomappbar_fab_cradle_margin;
 			global::Xamarin.Forms.Platform.Android.Resource.Dimension.mtrl_bottomappbar_fab_cradle_rounded_corner_radius = global::DeviceTests.Droid.Resource.Dimension.mtrl_bottomappbar_fab_cradle_rounded_corner_radius;
@@ -1039,6 +1198,8 @@ namespace DeviceTests.Droid
 			global::Xamarin.Forms.Platform.Android.Resource.Dimension.mtrl_textinput_box_stroke_width_focused = global::DeviceTests.Droid.Resource.Dimension.mtrl_textinput_box_stroke_width_focused;
 			global::Xamarin.Forms.Platform.Android.Resource.Dimension.mtrl_textinput_outline_box_expanded_padding = global::DeviceTests.Droid.Resource.Dimension.mtrl_textinput_outline_box_expanded_padding;
 			global::Xamarin.Forms.Platform.Android.Resource.Dimension.mtrl_toolbar_default_height = global::DeviceTests.Droid.Resource.Dimension.mtrl_toolbar_default_height;
+=======
+>>>>>>> Updates after the master merge
 			global::Xamarin.Forms.Platform.Android.Resource.Dimension.notification_action_icon_size = global::DeviceTests.Droid.Resource.Dimension.notification_action_icon_size;
 			global::Xamarin.Forms.Platform.Android.Resource.Dimension.notification_action_text_size = global::DeviceTests.Droid.Resource.Dimension.notification_action_text_size;
 			global::Xamarin.Forms.Platform.Android.Resource.Dimension.notification_big_circle_margin = global::DeviceTests.Droid.Resource.Dimension.notification_big_circle_margin;
@@ -1054,10 +1215,13 @@ namespace DeviceTests.Droid
 			global::Xamarin.Forms.Platform.Android.Resource.Dimension.notification_subtext_size = global::DeviceTests.Droid.Resource.Dimension.notification_subtext_size;
 			global::Xamarin.Forms.Platform.Android.Resource.Dimension.notification_top_pad = global::DeviceTests.Droid.Resource.Dimension.notification_top_pad;
 			global::Xamarin.Forms.Platform.Android.Resource.Dimension.notification_top_pad_large_text = global::DeviceTests.Droid.Resource.Dimension.notification_top_pad_large_text;
+<<<<<<< HEAD
 			global::Xamarin.Forms.Platform.Android.Resource.Dimension.subtitle_corner_radius = global::DeviceTests.Droid.Resource.Dimension.subtitle_corner_radius;
 			global::Xamarin.Forms.Platform.Android.Resource.Dimension.subtitle_outline_width = global::DeviceTests.Droid.Resource.Dimension.subtitle_outline_width;
 			global::Xamarin.Forms.Platform.Android.Resource.Dimension.subtitle_shadow_offset = global::DeviceTests.Droid.Resource.Dimension.subtitle_shadow_offset;
 			global::Xamarin.Forms.Platform.Android.Resource.Dimension.subtitle_shadow_radius = global::DeviceTests.Droid.Resource.Dimension.subtitle_shadow_radius;
+=======
+>>>>>>> Updates after the master merge
 			global::Xamarin.Forms.Platform.Android.Resource.Dimension.tooltip_corner_radius = global::DeviceTests.Droid.Resource.Dimension.tooltip_corner_radius;
 			global::Xamarin.Forms.Platform.Android.Resource.Dimension.tooltip_horizontal_padding = global::DeviceTests.Droid.Resource.Dimension.tooltip_horizontal_padding;
 			global::Xamarin.Forms.Platform.Android.Resource.Dimension.tooltip_margin = global::DeviceTests.Droid.Resource.Dimension.tooltip_margin;
@@ -1106,7 +1270,10 @@ namespace DeviceTests.Droid
 			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_ic_voice_search_api_material = global::DeviceTests.Droid.Resource.Drawable.abc_ic_voice_search_api_material;
 			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_item_background_holo_dark = global::DeviceTests.Droid.Resource.Drawable.abc_item_background_holo_dark;
 			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_item_background_holo_light = global::DeviceTests.Droid.Resource.Drawable.abc_item_background_holo_light;
+<<<<<<< HEAD
 			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_list_divider_material = global::DeviceTests.Droid.Resource.Drawable.abc_list_divider_material;
+=======
+>>>>>>> Updates after the master merge
 			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_list_divider_mtrl_alpha = global::DeviceTests.Droid.Resource.Drawable.abc_list_divider_mtrl_alpha;
 			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_list_focused_holo = global::DeviceTests.Droid.Resource.Drawable.abc_list_focused_holo;
 			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_list_longpressed_holo = global::DeviceTests.Droid.Resource.Drawable.abc_list_longpressed_holo;
@@ -1164,11 +1331,14 @@ namespace DeviceTests.Droid
 			global::Xamarin.Forms.Platform.Android.Resource.Drawable.design_ic_visibility_off = global::DeviceTests.Droid.Resource.Drawable.design_ic_visibility_off;
 			global::Xamarin.Forms.Platform.Android.Resource.Drawable.design_password_eye = global::DeviceTests.Droid.Resource.Drawable.design_password_eye;
 			global::Xamarin.Forms.Platform.Android.Resource.Drawable.design_snackbar_background = global::DeviceTests.Droid.Resource.Drawable.design_snackbar_background;
+<<<<<<< HEAD
 			global::Xamarin.Forms.Platform.Android.Resource.Drawable.ic_mtrl_chip_checked_black = global::DeviceTests.Droid.Resource.Drawable.ic_mtrl_chip_checked_black;
 			global::Xamarin.Forms.Platform.Android.Resource.Drawable.ic_mtrl_chip_checked_circle = global::DeviceTests.Droid.Resource.Drawable.ic_mtrl_chip_checked_circle;
 			global::Xamarin.Forms.Platform.Android.Resource.Drawable.ic_mtrl_chip_close_circle = global::DeviceTests.Droid.Resource.Drawable.ic_mtrl_chip_close_circle;
 			global::Xamarin.Forms.Platform.Android.Resource.Drawable.mtrl_snackbar_background = global::DeviceTests.Droid.Resource.Drawable.mtrl_snackbar_background;
 			global::Xamarin.Forms.Platform.Android.Resource.Drawable.mtrl_tabs_default_indicator = global::DeviceTests.Droid.Resource.Drawable.mtrl_tabs_default_indicator;
+=======
+>>>>>>> Updates after the master merge
 			global::Xamarin.Forms.Platform.Android.Resource.Drawable.navigation_empty_icon = global::DeviceTests.Droid.Resource.Drawable.navigation_empty_icon;
 			global::Xamarin.Forms.Platform.Android.Resource.Drawable.notification_action_background = global::DeviceTests.Droid.Resource.Drawable.notification_action_background;
 			global::Xamarin.Forms.Platform.Android.Resource.Drawable.notification_bg = global::DeviceTests.Droid.Resource.Drawable.notification_bg;
@@ -1232,7 +1402,10 @@ namespace DeviceTests.Droid
 			global::Xamarin.Forms.Platform.Android.Resource.Id.clip_vertical = global::DeviceTests.Droid.Resource.Id.clip_vertical;
 			global::Xamarin.Forms.Platform.Android.Resource.Id.collapseActionView = global::DeviceTests.Droid.Resource.Id.collapseActionView;
 			global::Xamarin.Forms.Platform.Android.Resource.Id.container = global::DeviceTests.Droid.Resource.Id.container;
+<<<<<<< HEAD
 			global::Xamarin.Forms.Platform.Android.Resource.Id.content = global::DeviceTests.Droid.Resource.Id.content;
+=======
+>>>>>>> Updates after the master merge
 			global::Xamarin.Forms.Platform.Android.Resource.Id.contentPanel = global::DeviceTests.Droid.Resource.Id.contentPanel;
 			global::Xamarin.Forms.Platform.Android.Resource.Id.coordinator = global::DeviceTests.Droid.Resource.Id.coordinator;
 			global::Xamarin.Forms.Platform.Android.Resource.Id.custom = global::DeviceTests.Droid.Resource.Id.custom;
@@ -1256,13 +1429,19 @@ namespace DeviceTests.Droid
 			global::Xamarin.Forms.Platform.Android.Resource.Id.fill = global::DeviceTests.Droid.Resource.Id.fill;
 			global::Xamarin.Forms.Platform.Android.Resource.Id.fill_horizontal = global::DeviceTests.Droid.Resource.Id.fill_horizontal;
 			global::Xamarin.Forms.Platform.Android.Resource.Id.fill_vertical = global::DeviceTests.Droid.Resource.Id.fill_vertical;
+<<<<<<< HEAD
 			global::Xamarin.Forms.Platform.Android.Resource.Id.filled = global::DeviceTests.Droid.Resource.Id.filled;
+=======
+>>>>>>> Updates after the master merge
 			global::Xamarin.Forms.Platform.Android.Resource.Id.@fixed = global::DeviceTests.Droid.Resource.Id.@fixed;
 			global::Xamarin.Forms.Platform.Android.Resource.Id.flyoutcontent_appbar = global::DeviceTests.Droid.Resource.Id.flyoutcontent_appbar;
 			global::Xamarin.Forms.Platform.Android.Resource.Id.flyoutcontent_recycler = global::DeviceTests.Droid.Resource.Id.flyoutcontent_recycler;
 			global::Xamarin.Forms.Platform.Android.Resource.Id.forever = global::DeviceTests.Droid.Resource.Id.forever;
 			global::Xamarin.Forms.Platform.Android.Resource.Id.ghost_view = global::DeviceTests.Droid.Resource.Id.ghost_view;
+<<<<<<< HEAD
 			global::Xamarin.Forms.Platform.Android.Resource.Id.group_divider = global::DeviceTests.Droid.Resource.Id.group_divider;
+=======
+>>>>>>> Updates after the master merge
 			global::Xamarin.Forms.Platform.Android.Resource.Id.home = global::DeviceTests.Droid.Resource.Id.home;
 			global::Xamarin.Forms.Platform.Android.Resource.Id.homeAsUp = global::DeviceTests.Droid.Resource.Id.homeAsUp;
 			global::Xamarin.Forms.Platform.Android.Resource.Id.icon = global::DeviceTests.Droid.Resource.Id.icon;
@@ -1272,7 +1451,10 @@ namespace DeviceTests.Droid
 			global::Xamarin.Forms.Platform.Android.Resource.Id.info = global::DeviceTests.Droid.Resource.Id.info;
 			global::Xamarin.Forms.Platform.Android.Resource.Id.italic = global::DeviceTests.Droid.Resource.Id.italic;
 			global::Xamarin.Forms.Platform.Android.Resource.Id.item_touch_helper_previous_elevation = global::DeviceTests.Droid.Resource.Id.item_touch_helper_previous_elevation;
+<<<<<<< HEAD
 			global::Xamarin.Forms.Platform.Android.Resource.Id.labeled = global::DeviceTests.Droid.Resource.Id.labeled;
+=======
+>>>>>>> Updates after the master merge
 			global::Xamarin.Forms.Platform.Android.Resource.Id.largeLabel = global::DeviceTests.Droid.Resource.Id.largeLabel;
 			global::Xamarin.Forms.Platform.Android.Resource.Id.left = global::DeviceTests.Droid.Resource.Id.left;
 			global::Xamarin.Forms.Platform.Android.Resource.Id.line1 = global::DeviceTests.Droid.Resource.Id.line1;
@@ -1284,13 +1466,19 @@ namespace DeviceTests.Droid
 			global::Xamarin.Forms.Platform.Android.Resource.Id.main_tablayout = global::DeviceTests.Droid.Resource.Id.main_tablayout;
 			global::Xamarin.Forms.Platform.Android.Resource.Id.main_toolbar = global::DeviceTests.Droid.Resource.Id.main_toolbar;
 			global::Xamarin.Forms.Platform.Android.Resource.Id.masked = global::DeviceTests.Droid.Resource.Id.masked;
+<<<<<<< HEAD
 			global::Xamarin.Forms.Platform.Android.Resource.Id.materialformsedittext = global::DeviceTests.Droid.Resource.Id.materialformsedittext;
+=======
+>>>>>>> Updates after the master merge
 			global::Xamarin.Forms.Platform.Android.Resource.Id.media_actions = global::DeviceTests.Droid.Resource.Id.media_actions;
 			global::Xamarin.Forms.Platform.Android.Resource.Id.message = global::DeviceTests.Droid.Resource.Id.message;
 			global::Xamarin.Forms.Platform.Android.Resource.Id.middle = global::DeviceTests.Droid.Resource.Id.middle;
 			global::Xamarin.Forms.Platform.Android.Resource.Id.mini = global::DeviceTests.Droid.Resource.Id.mini;
+<<<<<<< HEAD
 			global::Xamarin.Forms.Platform.Android.Resource.Id.mtrl_child_content_container = global::DeviceTests.Droid.Resource.Id.mtrl_child_content_container;
 			global::Xamarin.Forms.Platform.Android.Resource.Id.mtrl_internal_children_alpha_tag = global::DeviceTests.Droid.Resource.Id.mtrl_internal_children_alpha_tag;
+=======
+>>>>>>> Updates after the master merge
 			global::Xamarin.Forms.Platform.Android.Resource.Id.multiply = global::DeviceTests.Droid.Resource.Id.multiply;
 			global::Xamarin.Forms.Platform.Android.Resource.Id.navigation_header_container = global::DeviceTests.Droid.Resource.Id.navigation_header_container;
 			global::Xamarin.Forms.Platform.Android.Resource.Id.never = global::DeviceTests.Droid.Resource.Id.never;
@@ -1299,7 +1487,10 @@ namespace DeviceTests.Droid
 			global::Xamarin.Forms.Platform.Android.Resource.Id.notification_background = global::DeviceTests.Droid.Resource.Id.notification_background;
 			global::Xamarin.Forms.Platform.Android.Resource.Id.notification_main_column = global::DeviceTests.Droid.Resource.Id.notification_main_column;
 			global::Xamarin.Forms.Platform.Android.Resource.Id.notification_main_column_container = global::DeviceTests.Droid.Resource.Id.notification_main_column_container;
+<<<<<<< HEAD
 			global::Xamarin.Forms.Platform.Android.Resource.Id.outline = global::DeviceTests.Droid.Resource.Id.outline;
+=======
+>>>>>>> Updates after the master merge
 			global::Xamarin.Forms.Platform.Android.Resource.Id.parallax = global::DeviceTests.Droid.Resource.Id.parallax;
 			global::Xamarin.Forms.Platform.Android.Resource.Id.parentPanel = global::DeviceTests.Droid.Resource.Id.parentPanel;
 			global::Xamarin.Forms.Platform.Android.Resource.Id.parent_matrix = global::DeviceTests.Droid.Resource.Id.parent_matrix;
@@ -1330,7 +1521,10 @@ namespace DeviceTests.Droid
 			global::Xamarin.Forms.Platform.Android.Resource.Id.search_src_text = global::DeviceTests.Droid.Resource.Id.search_src_text;
 			global::Xamarin.Forms.Platform.Android.Resource.Id.search_voice_btn = global::DeviceTests.Droid.Resource.Id.search_voice_btn;
 			global::Xamarin.Forms.Platform.Android.Resource.Id.select_dialog_listview = global::DeviceTests.Droid.Resource.Id.select_dialog_listview;
+<<<<<<< HEAD
 			global::Xamarin.Forms.Platform.Android.Resource.Id.selected = global::DeviceTests.Droid.Resource.Id.selected;
+=======
+>>>>>>> Updates after the master merge
 			global::Xamarin.Forms.Platform.Android.Resource.Id.shellcontent_appbar = global::DeviceTests.Droid.Resource.Id.shellcontent_appbar;
 			global::Xamarin.Forms.Platform.Android.Resource.Id.shellcontent_scrollview = global::DeviceTests.Droid.Resource.Id.shellcontent_scrollview;
 			global::Xamarin.Forms.Platform.Android.Resource.Id.shellcontent_toolbar = global::DeviceTests.Droid.Resource.Id.shellcontent_toolbar;
@@ -1342,7 +1536,10 @@ namespace DeviceTests.Droid
 			global::Xamarin.Forms.Platform.Android.Resource.Id.snackbar_action = global::DeviceTests.Droid.Resource.Id.snackbar_action;
 			global::Xamarin.Forms.Platform.Android.Resource.Id.snackbar_text = global::DeviceTests.Droid.Resource.Id.snackbar_text;
 			global::Xamarin.Forms.Platform.Android.Resource.Id.snap = global::DeviceTests.Droid.Resource.Id.snap;
+<<<<<<< HEAD
 			global::Xamarin.Forms.Platform.Android.Resource.Id.snapMargins = global::DeviceTests.Droid.Resource.Id.snapMargins;
+=======
+>>>>>>> Updates after the master merge
 			global::Xamarin.Forms.Platform.Android.Resource.Id.spacer = global::DeviceTests.Droid.Resource.Id.spacer;
 			global::Xamarin.Forms.Platform.Android.Resource.Id.split_action_bar = global::DeviceTests.Droid.Resource.Id.split_action_bar;
 			global::Xamarin.Forms.Platform.Android.Resource.Id.src_atop = global::DeviceTests.Droid.Resource.Id.src_atop;
@@ -1350,22 +1547,34 @@ namespace DeviceTests.Droid
 			global::Xamarin.Forms.Platform.Android.Resource.Id.src_over = global::DeviceTests.Droid.Resource.Id.src_over;
 			global::Xamarin.Forms.Platform.Android.Resource.Id.start = global::DeviceTests.Droid.Resource.Id.start;
 			global::Xamarin.Forms.Platform.Android.Resource.Id.status_bar_latest_event_content = global::DeviceTests.Droid.Resource.Id.status_bar_latest_event_content;
+<<<<<<< HEAD
 			global::Xamarin.Forms.Platform.Android.Resource.Id.stretch = global::DeviceTests.Droid.Resource.Id.stretch;
+=======
+>>>>>>> Updates after the master merge
 			global::Xamarin.Forms.Platform.Android.Resource.Id.submenuarrow = global::DeviceTests.Droid.Resource.Id.submenuarrow;
 			global::Xamarin.Forms.Platform.Android.Resource.Id.submit_area = global::DeviceTests.Droid.Resource.Id.submit_area;
 			global::Xamarin.Forms.Platform.Android.Resource.Id.tabMode = global::DeviceTests.Droid.Resource.Id.tabMode;
 			global::Xamarin.Forms.Platform.Android.Resource.Id.tag_transition_group = global::DeviceTests.Droid.Resource.Id.tag_transition_group;
+<<<<<<< HEAD
 			global::Xamarin.Forms.Platform.Android.Resource.Id.tag_unhandled_key_event_manager = global::DeviceTests.Droid.Resource.Id.tag_unhandled_key_event_manager;
 			global::Xamarin.Forms.Platform.Android.Resource.Id.tag_unhandled_key_listeners = global::DeviceTests.Droid.Resource.Id.tag_unhandled_key_listeners;
+=======
+>>>>>>> Updates after the master merge
 			global::Xamarin.Forms.Platform.Android.Resource.Id.text = global::DeviceTests.Droid.Resource.Id.text;
 			global::Xamarin.Forms.Platform.Android.Resource.Id.text2 = global::DeviceTests.Droid.Resource.Id.text2;
 			global::Xamarin.Forms.Platform.Android.Resource.Id.textSpacerNoButtons = global::DeviceTests.Droid.Resource.Id.textSpacerNoButtons;
 			global::Xamarin.Forms.Platform.Android.Resource.Id.textSpacerNoTitle = global::DeviceTests.Droid.Resource.Id.textSpacerNoTitle;
+<<<<<<< HEAD
 			global::Xamarin.Forms.Platform.Android.Resource.Id.textStart = global::DeviceTests.Droid.Resource.Id.textStart;
 			global::Xamarin.Forms.Platform.Android.Resource.Id.text_input_password_toggle = global::DeviceTests.Droid.Resource.Id.text_input_password_toggle;
 			global::Xamarin.Forms.Platform.Android.Resource.Id.textinput_counter = global::DeviceTests.Droid.Resource.Id.textinput_counter;
 			global::Xamarin.Forms.Platform.Android.Resource.Id.textinput_error = global::DeviceTests.Droid.Resource.Id.textinput_error;
 			global::Xamarin.Forms.Platform.Android.Resource.Id.textinput_helper_text = global::DeviceTests.Droid.Resource.Id.textinput_helper_text;
+=======
+			global::Xamarin.Forms.Platform.Android.Resource.Id.text_input_password_toggle = global::DeviceTests.Droid.Resource.Id.text_input_password_toggle;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.textinput_counter = global::DeviceTests.Droid.Resource.Id.textinput_counter;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.textinput_error = global::DeviceTests.Droid.Resource.Id.textinput_error;
+>>>>>>> Updates after the master merge
 			global::Xamarin.Forms.Platform.Android.Resource.Id.time = global::DeviceTests.Droid.Resource.Id.time;
 			global::Xamarin.Forms.Platform.Android.Resource.Id.title = global::DeviceTests.Droid.Resource.Id.title;
 			global::Xamarin.Forms.Platform.Android.Resource.Id.titleDividerNoCustom = global::DeviceTests.Droid.Resource.Id.titleDividerNoCustom;
@@ -1379,7 +1588,10 @@ namespace DeviceTests.Droid
 			global::Xamarin.Forms.Platform.Android.Resource.Id.transition_scene_layoutid_cache = global::DeviceTests.Droid.Resource.Id.transition_scene_layoutid_cache;
 			global::Xamarin.Forms.Platform.Android.Resource.Id.transition_transform = global::DeviceTests.Droid.Resource.Id.transition_transform;
 			global::Xamarin.Forms.Platform.Android.Resource.Id.uniform = global::DeviceTests.Droid.Resource.Id.uniform;
+<<<<<<< HEAD
 			global::Xamarin.Forms.Platform.Android.Resource.Id.unlabeled = global::DeviceTests.Droid.Resource.Id.unlabeled;
+=======
+>>>>>>> Updates after the master merge
 			global::Xamarin.Forms.Platform.Android.Resource.Id.up = global::DeviceTests.Droid.Resource.Id.up;
 			global::Xamarin.Forms.Platform.Android.Resource.Id.useLogo = global::DeviceTests.Droid.Resource.Id.useLogo;
 			global::Xamarin.Forms.Platform.Android.Resource.Id.view_offset_helper = global::DeviceTests.Droid.Resource.Id.view_offset_helper;
@@ -1393,6 +1605,7 @@ namespace DeviceTests.Droid
 			global::Xamarin.Forms.Platform.Android.Resource.Integer.cancel_button_image_alpha = global::DeviceTests.Droid.Resource.Integer.cancel_button_image_alpha;
 			global::Xamarin.Forms.Platform.Android.Resource.Integer.config_tooltipAnimTime = global::DeviceTests.Droid.Resource.Integer.config_tooltipAnimTime;
 			global::Xamarin.Forms.Platform.Android.Resource.Integer.design_snackbar_text_max_lines = global::DeviceTests.Droid.Resource.Integer.design_snackbar_text_max_lines;
+<<<<<<< HEAD
 			global::Xamarin.Forms.Platform.Android.Resource.Integer.design_tab_indicator_anim_duration_ms = global::DeviceTests.Droid.Resource.Integer.design_tab_indicator_anim_duration_ms;
 			global::Xamarin.Forms.Platform.Android.Resource.Integer.hide_password_duration = global::DeviceTests.Droid.Resource.Integer.hide_password_duration;
 			global::Xamarin.Forms.Platform.Android.Resource.Integer.mtrl_btn_anim_delay_ms = global::DeviceTests.Droid.Resource.Integer.mtrl_btn_anim_delay_ms;
@@ -1405,6 +1618,11 @@ namespace DeviceTests.Droid
 			global::Xamarin.Forms.Platform.Android.Resource.Interpolator.mtrl_fast_out_slow_in = global::DeviceTests.Droid.Resource.Interpolator.mtrl_fast_out_slow_in;
 			global::Xamarin.Forms.Platform.Android.Resource.Interpolator.mtrl_linear = global::DeviceTests.Droid.Resource.Interpolator.mtrl_linear;
 			global::Xamarin.Forms.Platform.Android.Resource.Interpolator.mtrl_linear_out_slow_in = global::DeviceTests.Droid.Resource.Interpolator.mtrl_linear_out_slow_in;
+=======
+			global::Xamarin.Forms.Platform.Android.Resource.Integer.hide_password_duration = global::DeviceTests.Droid.Resource.Integer.hide_password_duration;
+			global::Xamarin.Forms.Platform.Android.Resource.Integer.show_password_duration = global::DeviceTests.Droid.Resource.Integer.show_password_duration;
+			global::Xamarin.Forms.Platform.Android.Resource.Integer.status_bar_notification_info_maxnum = global::DeviceTests.Droid.Resource.Integer.status_bar_notification_info_maxnum;
+>>>>>>> Updates after the master merge
 			global::Xamarin.Forms.Platform.Android.Resource.Layout.abc_action_bar_title_item = global::DeviceTests.Droid.Resource.Layout.abc_action_bar_title_item;
 			global::Xamarin.Forms.Platform.Android.Resource.Layout.abc_action_bar_up_container = global::DeviceTests.Droid.Resource.Layout.abc_action_bar_up_container;
 			global::Xamarin.Forms.Platform.Android.Resource.Layout.abc_action_menu_item_layout = global::DeviceTests.Droid.Resource.Layout.abc_action_menu_item_layout;
@@ -1416,7 +1634,10 @@ namespace DeviceTests.Droid
 			global::Xamarin.Forms.Platform.Android.Resource.Layout.abc_alert_dialog_button_bar_material = global::DeviceTests.Droid.Resource.Layout.abc_alert_dialog_button_bar_material;
 			global::Xamarin.Forms.Platform.Android.Resource.Layout.abc_alert_dialog_material = global::DeviceTests.Droid.Resource.Layout.abc_alert_dialog_material;
 			global::Xamarin.Forms.Platform.Android.Resource.Layout.abc_alert_dialog_title_material = global::DeviceTests.Droid.Resource.Layout.abc_alert_dialog_title_material;
+<<<<<<< HEAD
 			global::Xamarin.Forms.Platform.Android.Resource.Layout.abc_cascading_menu_item_layout = global::DeviceTests.Droid.Resource.Layout.abc_cascading_menu_item_layout;
+=======
+>>>>>>> Updates after the master merge
 			global::Xamarin.Forms.Platform.Android.Resource.Layout.abc_dialog_title_material = global::DeviceTests.Droid.Resource.Layout.abc_dialog_title_material;
 			global::Xamarin.Forms.Platform.Android.Resource.Layout.abc_expanded_menu_layout = global::DeviceTests.Droid.Resource.Layout.abc_expanded_menu_layout;
 			global::Xamarin.Forms.Platform.Android.Resource.Layout.abc_list_menu_item_checkbox = global::DeviceTests.Droid.Resource.Layout.abc_list_menu_item_checkbox;
@@ -1432,7 +1653,10 @@ namespace DeviceTests.Droid
 			global::Xamarin.Forms.Platform.Android.Resource.Layout.abc_search_dropdown_item_icons_2line = global::DeviceTests.Droid.Resource.Layout.abc_search_dropdown_item_icons_2line;
 			global::Xamarin.Forms.Platform.Android.Resource.Layout.abc_search_view = global::DeviceTests.Droid.Resource.Layout.abc_search_view;
 			global::Xamarin.Forms.Platform.Android.Resource.Layout.abc_select_dialog_material = global::DeviceTests.Droid.Resource.Layout.abc_select_dialog_material;
+<<<<<<< HEAD
 			global::Xamarin.Forms.Platform.Android.Resource.Layout.abc_tooltip = global::DeviceTests.Droid.Resource.Layout.abc_tooltip;
+=======
+>>>>>>> Updates after the master merge
 			global::Xamarin.Forms.Platform.Android.Resource.Layout.BottomTabLayout = global::DeviceTests.Droid.Resource.Layout.BottomTabLayout;
 			global::Xamarin.Forms.Platform.Android.Resource.Layout.design_bottom_navigation_item = global::DeviceTests.Droid.Resource.Layout.design_bottom_navigation_item;
 			global::Xamarin.Forms.Platform.Android.Resource.Layout.design_bottom_sheet_dialog = global::DeviceTests.Droid.Resource.Layout.design_bottom_sheet_dialog;
@@ -1449,8 +1673,11 @@ namespace DeviceTests.Droid
 			global::Xamarin.Forms.Platform.Android.Resource.Layout.design_navigation_menu_item = global::DeviceTests.Droid.Resource.Layout.design_navigation_menu_item;
 			global::Xamarin.Forms.Platform.Android.Resource.Layout.design_text_input_password_icon = global::DeviceTests.Droid.Resource.Layout.design_text_input_password_icon;
 			global::Xamarin.Forms.Platform.Android.Resource.Layout.FlyoutContent = global::DeviceTests.Droid.Resource.Layout.FlyoutContent;
+<<<<<<< HEAD
 			global::Xamarin.Forms.Platform.Android.Resource.Layout.mtrl_layout_snackbar = global::DeviceTests.Droid.Resource.Layout.mtrl_layout_snackbar;
 			global::Xamarin.Forms.Platform.Android.Resource.Layout.mtrl_layout_snackbar_include = global::DeviceTests.Droid.Resource.Layout.mtrl_layout_snackbar_include;
+=======
+>>>>>>> Updates after the master merge
 			global::Xamarin.Forms.Platform.Android.Resource.Layout.notification_action = global::DeviceTests.Droid.Resource.Layout.notification_action;
 			global::Xamarin.Forms.Platform.Android.Resource.Layout.notification_action_tombstone = global::DeviceTests.Droid.Resource.Layout.notification_action_tombstone;
 			global::Xamarin.Forms.Platform.Android.Resource.Layout.notification_media_action = global::DeviceTests.Droid.Resource.Layout.notification_media_action;
@@ -1472,8 +1699,12 @@ namespace DeviceTests.Droid
 			global::Xamarin.Forms.Platform.Android.Resource.Layout.select_dialog_singlechoice_material = global::DeviceTests.Droid.Resource.Layout.select_dialog_singlechoice_material;
 			global::Xamarin.Forms.Platform.Android.Resource.Layout.ShellContent = global::DeviceTests.Droid.Resource.Layout.ShellContent;
 			global::Xamarin.Forms.Platform.Android.Resource.Layout.support_simple_spinner_dropdown_item = global::DeviceTests.Droid.Resource.Layout.support_simple_spinner_dropdown_item;
+<<<<<<< HEAD
 			global::Xamarin.Forms.Platform.Android.Resource.Layout.TextInputLayoutFilledBox = global::DeviceTests.Droid.Resource.Layout.TextInputLayoutFilledBox;
 			global::Xamarin.Forms.Platform.Android.Resource.Layout.TextInputLayoutOutlinedBox = global::DeviceTests.Droid.Resource.Layout.TextInputLayoutOutlinedBox;
+=======
+			global::Xamarin.Forms.Platform.Android.Resource.Layout.tooltip = global::DeviceTests.Droid.Resource.Layout.tooltip;
+>>>>>>> Updates after the master merge
 			global::Xamarin.Forms.Platform.Android.Resource.String.abc_action_bar_home_description = global::DeviceTests.Droid.Resource.String.abc_action_bar_home_description;
 			global::Xamarin.Forms.Platform.Android.Resource.String.abc_action_bar_up_description = global::DeviceTests.Droid.Resource.String.abc_action_bar_up_description;
 			global::Xamarin.Forms.Platform.Android.Resource.String.abc_action_menu_overflow_description = global::DeviceTests.Droid.Resource.String.abc_action_menu_overflow_description;
@@ -1494,6 +1725,7 @@ namespace DeviceTests.Droid
 			global::Xamarin.Forms.Platform.Android.Resource.String.abc_font_family_menu_material = global::DeviceTests.Droid.Resource.String.abc_font_family_menu_material;
 			global::Xamarin.Forms.Platform.Android.Resource.String.abc_font_family_subhead_material = global::DeviceTests.Droid.Resource.String.abc_font_family_subhead_material;
 			global::Xamarin.Forms.Platform.Android.Resource.String.abc_font_family_title_material = global::DeviceTests.Droid.Resource.String.abc_font_family_title_material;
+<<<<<<< HEAD
 			global::Xamarin.Forms.Platform.Android.Resource.String.abc_menu_alt_shortcut_label = global::DeviceTests.Droid.Resource.String.abc_menu_alt_shortcut_label;
 			global::Xamarin.Forms.Platform.Android.Resource.String.abc_menu_ctrl_shortcut_label = global::DeviceTests.Droid.Resource.String.abc_menu_ctrl_shortcut_label;
 			global::Xamarin.Forms.Platform.Android.Resource.String.abc_menu_delete_shortcut_label = global::DeviceTests.Droid.Resource.String.abc_menu_delete_shortcut_label;
@@ -1504,6 +1736,8 @@ namespace DeviceTests.Droid
 			global::Xamarin.Forms.Platform.Android.Resource.String.abc_menu_space_shortcut_label = global::DeviceTests.Droid.Resource.String.abc_menu_space_shortcut_label;
 			global::Xamarin.Forms.Platform.Android.Resource.String.abc_menu_sym_shortcut_label = global::DeviceTests.Droid.Resource.String.abc_menu_sym_shortcut_label;
 			global::Xamarin.Forms.Platform.Android.Resource.String.abc_prepend_shortcut_label = global::DeviceTests.Droid.Resource.String.abc_prepend_shortcut_label;
+=======
+>>>>>>> Updates after the master merge
 			global::Xamarin.Forms.Platform.Android.Resource.String.abc_search_hint = global::DeviceTests.Droid.Resource.String.abc_search_hint;
 			global::Xamarin.Forms.Platform.Android.Resource.String.abc_searchview_description_clear = global::DeviceTests.Droid.Resource.String.abc_searchview_description_clear;
 			global::Xamarin.Forms.Platform.Android.Resource.String.abc_searchview_description_query = global::DeviceTests.Droid.Resource.String.abc_searchview_description_query;
@@ -1515,12 +1749,16 @@ namespace DeviceTests.Droid
 			global::Xamarin.Forms.Platform.Android.Resource.String.abc_toolbar_collapse_description = global::DeviceTests.Droid.Resource.String.abc_toolbar_collapse_description;
 			global::Xamarin.Forms.Platform.Android.Resource.String.appbar_scrolling_view_behavior = global::DeviceTests.Droid.Resource.String.appbar_scrolling_view_behavior;
 			global::Xamarin.Forms.Platform.Android.Resource.String.bottom_sheet_behavior = global::DeviceTests.Droid.Resource.String.bottom_sheet_behavior;
+<<<<<<< HEAD
 			global::Xamarin.Forms.Platform.Android.Resource.String.character_counter_content_description = global::DeviceTests.Droid.Resource.String.character_counter_content_description;
 			global::Xamarin.Forms.Platform.Android.Resource.String.character_counter_pattern = global::DeviceTests.Droid.Resource.String.character_counter_pattern;
 			global::Xamarin.Forms.Platform.Android.Resource.String.fab_transformation_scrim_behavior = global::DeviceTests.Droid.Resource.String.fab_transformation_scrim_behavior;
 			global::Xamarin.Forms.Platform.Android.Resource.String.fab_transformation_sheet_behavior = global::DeviceTests.Droid.Resource.String.fab_transformation_sheet_behavior;
 			global::Xamarin.Forms.Platform.Android.Resource.String.hide_bottom_view_on_scroll_behavior = global::DeviceTests.Droid.Resource.String.hide_bottom_view_on_scroll_behavior;
 			global::Xamarin.Forms.Platform.Android.Resource.String.mtrl_chip_close_icon_content_description = global::DeviceTests.Droid.Resource.String.mtrl_chip_close_icon_content_description;
+=======
+			global::Xamarin.Forms.Platform.Android.Resource.String.character_counter_pattern = global::DeviceTests.Droid.Resource.String.character_counter_pattern;
+>>>>>>> Updates after the master merge
 			global::Xamarin.Forms.Platform.Android.Resource.String.password_toggle_content_description = global::DeviceTests.Droid.Resource.String.password_toggle_content_description;
 			global::Xamarin.Forms.Platform.Android.Resource.String.path_password_eye = global::DeviceTests.Droid.Resource.String.path_password_eye;
 			global::Xamarin.Forms.Platform.Android.Resource.String.path_password_eye_mask_strike_through = global::DeviceTests.Droid.Resource.String.path_password_eye_mask_strike_through;
@@ -1604,6 +1842,7 @@ namespace DeviceTests.Droid
 			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Theme_AppCompat_Light_Dialog_FixedSize = global::DeviceTests.Droid.Resource.Style.Base_Theme_AppCompat_Light_Dialog_FixedSize;
 			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Theme_AppCompat_Light_Dialog_MinWidth = global::DeviceTests.Droid.Resource.Style.Base_Theme_AppCompat_Light_Dialog_MinWidth;
 			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Theme_AppCompat_Light_DialogWhenLarge = global::DeviceTests.Droid.Resource.Style.Base_Theme_AppCompat_Light_DialogWhenLarge;
+<<<<<<< HEAD
 			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Theme_MaterialComponents = global::DeviceTests.Droid.Resource.Style.Base_Theme_MaterialComponents;
 			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Theme_MaterialComponents_Bridge = global::DeviceTests.Droid.Resource.Style.Base_Theme_MaterialComponents_Bridge;
 			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Theme_MaterialComponents_CompactMenu = global::DeviceTests.Droid.Resource.Style.Base_Theme_MaterialComponents_CompactMenu;
@@ -1621,6 +1860,8 @@ namespace DeviceTests.Droid
 			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Theme_MaterialComponents_Light_Dialog_FixedSize = global::DeviceTests.Droid.Resource.Style.Base_Theme_MaterialComponents_Light_Dialog_FixedSize;
 			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Theme_MaterialComponents_Light_Dialog_MinWidth = global::DeviceTests.Droid.Resource.Style.Base_Theme_MaterialComponents_Light_Dialog_MinWidth;
 			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Theme_MaterialComponents_Light_DialogWhenLarge = global::DeviceTests.Droid.Resource.Style.Base_Theme_MaterialComponents_Light_DialogWhenLarge;
+=======
+>>>>>>> Updates after the master merge
 			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_ThemeOverlay_AppCompat = global::DeviceTests.Droid.Resource.Style.Base_ThemeOverlay_AppCompat;
 			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_ThemeOverlay_AppCompat_ActionBar = global::DeviceTests.Droid.Resource.Style.Base_ThemeOverlay_AppCompat_ActionBar;
 			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_ThemeOverlay_AppCompat_Dark = global::DeviceTests.Droid.Resource.Style.Base_ThemeOverlay_AppCompat_Dark;
@@ -1628,6 +1869,7 @@ namespace DeviceTests.Droid
 			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_ThemeOverlay_AppCompat_Dialog = global::DeviceTests.Droid.Resource.Style.Base_ThemeOverlay_AppCompat_Dialog;
 			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_ThemeOverlay_AppCompat_Dialog_Alert = global::DeviceTests.Droid.Resource.Style.Base_ThemeOverlay_AppCompat_Dialog_Alert;
 			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_ThemeOverlay_AppCompat_Light = global::DeviceTests.Droid.Resource.Style.Base_ThemeOverlay_AppCompat_Light;
+<<<<<<< HEAD
 			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_ThemeOverlay_MaterialComponents_Dialog = global::DeviceTests.Droid.Resource.Style.Base_ThemeOverlay_MaterialComponents_Dialog;
 			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_ThemeOverlay_MaterialComponents_Dialog_Alert = global::DeviceTests.Droid.Resource.Style.Base_ThemeOverlay_MaterialComponents_Dialog_Alert;
 			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_V14_Theme_MaterialComponents = global::DeviceTests.Droid.Resource.Style.Base_V14_Theme_MaterialComponents;
@@ -1639,11 +1881,23 @@ namespace DeviceTests.Droid
 			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_V14_Theme_MaterialComponents_Light_Dialog = global::DeviceTests.Droid.Resource.Style.Base_V14_Theme_MaterialComponents_Light_Dialog;
 			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_V14_ThemeOverlay_MaterialComponents_Dialog = global::DeviceTests.Droid.Resource.Style.Base_V14_ThemeOverlay_MaterialComponents_Dialog;
 			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_V14_ThemeOverlay_MaterialComponents_Dialog_Alert = global::DeviceTests.Droid.Resource.Style.Base_V14_ThemeOverlay_MaterialComponents_Dialog_Alert;
+=======
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_V11_Theme_AppCompat_Dialog = global::DeviceTests.Droid.Resource.Style.Base_V11_Theme_AppCompat_Dialog;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_V11_Theme_AppCompat_Light_Dialog = global::DeviceTests.Droid.Resource.Style.Base_V11_Theme_AppCompat_Light_Dialog;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_V11_ThemeOverlay_AppCompat_Dialog = global::DeviceTests.Droid.Resource.Style.Base_V11_ThemeOverlay_AppCompat_Dialog;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_V12_Widget_AppCompat_AutoCompleteTextView = global::DeviceTests.Droid.Resource.Style.Base_V12_Widget_AppCompat_AutoCompleteTextView;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_V12_Widget_AppCompat_EditText = global::DeviceTests.Droid.Resource.Style.Base_V12_Widget_AppCompat_EditText;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_V14_Widget_Design_AppBarLayout = global::DeviceTests.Droid.Resource.Style.Base_V14_Widget_Design_AppBarLayout;
+>>>>>>> Updates after the master merge
 			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_V21_Theme_AppCompat = global::DeviceTests.Droid.Resource.Style.Base_V21_Theme_AppCompat;
 			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_V21_Theme_AppCompat_Dialog = global::DeviceTests.Droid.Resource.Style.Base_V21_Theme_AppCompat_Dialog;
 			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_V21_Theme_AppCompat_Light = global::DeviceTests.Droid.Resource.Style.Base_V21_Theme_AppCompat_Light;
 			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_V21_Theme_AppCompat_Light_Dialog = global::DeviceTests.Droid.Resource.Style.Base_V21_Theme_AppCompat_Light_Dialog;
 			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_V21_ThemeOverlay_AppCompat_Dialog = global::DeviceTests.Droid.Resource.Style.Base_V21_ThemeOverlay_AppCompat_Dialog;
+<<<<<<< HEAD
+=======
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_V21_Widget_Design_AppBarLayout = global::DeviceTests.Droid.Resource.Style.Base_V21_Widget_Design_AppBarLayout;
+>>>>>>> Updates after the master merge
 			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_V22_Theme_AppCompat = global::DeviceTests.Droid.Resource.Style.Base_V22_Theme_AppCompat;
 			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_V22_Theme_AppCompat_Light = global::DeviceTests.Droid.Resource.Style.Base_V22_Theme_AppCompat_Light;
 			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_V23_Theme_AppCompat = global::DeviceTests.Droid.Resource.Style.Base_V23_Theme_AppCompat;
@@ -1651,8 +1905,12 @@ namespace DeviceTests.Droid
 			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_V26_Theme_AppCompat = global::DeviceTests.Droid.Resource.Style.Base_V26_Theme_AppCompat;
 			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_V26_Theme_AppCompat_Light = global::DeviceTests.Droid.Resource.Style.Base_V26_Theme_AppCompat_Light;
 			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_V26_Widget_AppCompat_Toolbar = global::DeviceTests.Droid.Resource.Style.Base_V26_Widget_AppCompat_Toolbar;
+<<<<<<< HEAD
 			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_V28_Theme_AppCompat = global::DeviceTests.Droid.Resource.Style.Base_V28_Theme_AppCompat;
 			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_V28_Theme_AppCompat_Light = global::DeviceTests.Droid.Resource.Style.Base_V28_Theme_AppCompat_Light;
+=======
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_V26_Widget_Design_AppBarLayout = global::DeviceTests.Droid.Resource.Style.Base_V26_Widget_Design_AppBarLayout;
+>>>>>>> Updates after the master merge
 			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_V7_Theme_AppCompat = global::DeviceTests.Droid.Resource.Style.Base_V7_Theme_AppCompat;
 			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_V7_Theme_AppCompat_Dialog = global::DeviceTests.Droid.Resource.Style.Base_V7_Theme_AppCompat_Dialog;
 			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_V7_Theme_AppCompat_Light = global::DeviceTests.Droid.Resource.Style.Base_V7_Theme_AppCompat_Light;
@@ -1718,15 +1976,21 @@ namespace DeviceTests.Droid
 			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Widget_AppCompat_TextView_SpinnerItem = global::DeviceTests.Droid.Resource.Style.Base_Widget_AppCompat_TextView_SpinnerItem;
 			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Widget_AppCompat_Toolbar = global::DeviceTests.Droid.Resource.Style.Base_Widget_AppCompat_Toolbar;
 			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Widget_AppCompat_Toolbar_Button_Navigation = global::DeviceTests.Droid.Resource.Style.Base_Widget_AppCompat_Toolbar_Button_Navigation;
+<<<<<<< HEAD
 			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Widget_Design_TabLayout = global::DeviceTests.Droid.Resource.Style.Base_Widget_Design_TabLayout;
 			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Widget_MaterialComponents_Chip = global::DeviceTests.Droid.Resource.Style.Base_Widget_MaterialComponents_Chip;
 			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Widget_MaterialComponents_TextInputEditText = global::DeviceTests.Droid.Resource.Style.Base_Widget_MaterialComponents_TextInputEditText;
 			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Widget_MaterialComponents_TextInputLayout = global::DeviceTests.Droid.Resource.Style.Base_Widget_MaterialComponents_TextInputLayout;
+=======
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Widget_Design_AppBarLayout = global::DeviceTests.Droid.Resource.Style.Base_Widget_Design_AppBarLayout;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Widget_Design_TabLayout = global::DeviceTests.Droid.Resource.Style.Base_Widget_Design_TabLayout;
+>>>>>>> Updates after the master merge
 			global::Xamarin.Forms.Platform.Android.Resource.Style.CardView = global::DeviceTests.Droid.Resource.Style.CardView;
 			global::Xamarin.Forms.Platform.Android.Resource.Style.CardView_Dark = global::DeviceTests.Droid.Resource.Style.CardView_Dark;
 			global::Xamarin.Forms.Platform.Android.Resource.Style.CardView_Light = global::DeviceTests.Droid.Resource.Style.CardView_Light;
 			global::Xamarin.Forms.Platform.Android.Resource.Style.Platform_AppCompat = global::DeviceTests.Droid.Resource.Style.Platform_AppCompat;
 			global::Xamarin.Forms.Platform.Android.Resource.Style.Platform_AppCompat_Light = global::DeviceTests.Droid.Resource.Style.Platform_AppCompat_Light;
+<<<<<<< HEAD
 			global::Xamarin.Forms.Platform.Android.Resource.Style.Platform_MaterialComponents = global::DeviceTests.Droid.Resource.Style.Platform_MaterialComponents;
 			global::Xamarin.Forms.Platform.Android.Resource.Style.Platform_MaterialComponents_Dialog = global::DeviceTests.Droid.Resource.Style.Platform_MaterialComponents_Dialog;
 			global::Xamarin.Forms.Platform.Android.Resource.Style.Platform_MaterialComponents_Light = global::DeviceTests.Droid.Resource.Style.Platform_MaterialComponents_Light;
@@ -1734,6 +1998,15 @@ namespace DeviceTests.Droid
 			global::Xamarin.Forms.Platform.Android.Resource.Style.Platform_ThemeOverlay_AppCompat = global::DeviceTests.Droid.Resource.Style.Platform_ThemeOverlay_AppCompat;
 			global::Xamarin.Forms.Platform.Android.Resource.Style.Platform_ThemeOverlay_AppCompat_Dark = global::DeviceTests.Droid.Resource.Style.Platform_ThemeOverlay_AppCompat_Dark;
 			global::Xamarin.Forms.Platform.Android.Resource.Style.Platform_ThemeOverlay_AppCompat_Light = global::DeviceTests.Droid.Resource.Style.Platform_ThemeOverlay_AppCompat_Light;
+=======
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Platform_ThemeOverlay_AppCompat = global::DeviceTests.Droid.Resource.Style.Platform_ThemeOverlay_AppCompat;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Platform_ThemeOverlay_AppCompat_Dark = global::DeviceTests.Droid.Resource.Style.Platform_ThemeOverlay_AppCompat_Dark;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Platform_ThemeOverlay_AppCompat_Light = global::DeviceTests.Droid.Resource.Style.Platform_ThemeOverlay_AppCompat_Light;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Platform_V11_AppCompat = global::DeviceTests.Droid.Resource.Style.Platform_V11_AppCompat;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Platform_V11_AppCompat_Light = global::DeviceTests.Droid.Resource.Style.Platform_V11_AppCompat_Light;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Platform_V14_AppCompat = global::DeviceTests.Droid.Resource.Style.Platform_V14_AppCompat;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Platform_V14_AppCompat_Light = global::DeviceTests.Droid.Resource.Style.Platform_V14_AppCompat_Light;
+>>>>>>> Updates after the master merge
 			global::Xamarin.Forms.Platform.Android.Resource.Style.Platform_V21_AppCompat = global::DeviceTests.Droid.Resource.Style.Platform_V21_AppCompat;
 			global::Xamarin.Forms.Platform.Android.Resource.Style.Platform_V21_AppCompat_Light = global::DeviceTests.Droid.Resource.Style.Platform_V21_AppCompat_Light;
 			global::Xamarin.Forms.Platform.Android.Resource.Style.Platform_V25_AppCompat = global::DeviceTests.Droid.Resource.Style.Platform_V25_AppCompat;
@@ -1744,10 +2017,14 @@ namespace DeviceTests.Droid
 			global::Xamarin.Forms.Platform.Android.Resource.Style.RtlOverlay_Widget_AppCompat_DialogTitle_Icon = global::DeviceTests.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_DialogTitle_Icon;
 			global::Xamarin.Forms.Platform.Android.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem = global::DeviceTests.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem;
 			global::Xamarin.Forms.Platform.Android.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_InternalGroup = global::DeviceTests.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_InternalGroup;
+<<<<<<< HEAD
 			global::Xamarin.Forms.Platform.Android.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_Shortcut = global::DeviceTests.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_Shortcut;
 			global::Xamarin.Forms.Platform.Android.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_SubmenuArrow = global::DeviceTests.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_SubmenuArrow;
 			global::Xamarin.Forms.Platform.Android.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_Text = global::DeviceTests.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_Text;
 			global::Xamarin.Forms.Platform.Android.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_Title = global::DeviceTests.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_Title;
+=======
+			global::Xamarin.Forms.Platform.Android.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_Text = global::DeviceTests.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_Text;
+>>>>>>> Updates after the master merge
 			global::Xamarin.Forms.Platform.Android.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown = global::DeviceTests.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown;
 			global::Xamarin.Forms.Platform.Android.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Icon1 = global::DeviceTests.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Icon1;
 			global::Xamarin.Forms.Platform.Android.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Icon2 = global::DeviceTests.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Icon2;
@@ -1818,6 +2095,7 @@ namespace DeviceTests.Droid
 			global::Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_Design_Counter = global::DeviceTests.Droid.Resource.Style.TextAppearance_Design_Counter;
 			global::Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_Design_Counter_Overflow = global::DeviceTests.Droid.Resource.Style.TextAppearance_Design_Counter_Overflow;
 			global::Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_Design_Error = global::DeviceTests.Droid.Resource.Style.TextAppearance_Design_Error;
+<<<<<<< HEAD
 			global::Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_Design_HelperText = global::DeviceTests.Droid.Resource.Style.TextAppearance_Design_HelperText;
 			global::Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_Design_Hint = global::DeviceTests.Droid.Resource.Style.TextAppearance_Design_Hint;
 			global::Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_Design_Snackbar_Message = global::DeviceTests.Droid.Resource.Style.TextAppearance_Design_Snackbar_Message;
@@ -1837,6 +2115,11 @@ namespace DeviceTests.Droid
 			global::Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_MaterialComponents_Subtitle1 = global::DeviceTests.Droid.Resource.Style.TextAppearance_MaterialComponents_Subtitle1;
 			global::Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_MaterialComponents_Subtitle2 = global::DeviceTests.Droid.Resource.Style.TextAppearance_MaterialComponents_Subtitle2;
 			global::Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_MaterialComponents_Tab = global::DeviceTests.Droid.Resource.Style.TextAppearance_MaterialComponents_Tab;
+=======
+			global::Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_Design_Hint = global::DeviceTests.Droid.Resource.Style.TextAppearance_Design_Hint;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_Design_Snackbar_Message = global::DeviceTests.Droid.Resource.Style.TextAppearance_Design_Snackbar_Message;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_Design_Tab = global::DeviceTests.Droid.Resource.Style.TextAppearance_Design_Tab;
+>>>>>>> Updates after the master merge
 			global::Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_Widget_AppCompat_ExpandedMenu_Item = global::DeviceTests.Droid.Resource.Style.TextAppearance_Widget_AppCompat_ExpandedMenu_Item;
 			global::Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_Widget_AppCompat_Toolbar_Subtitle = global::DeviceTests.Droid.Resource.Style.TextAppearance_Widget_AppCompat_Toolbar_Subtitle;
 			global::Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_Widget_AppCompat_Toolbar_Title = global::DeviceTests.Droid.Resource.Style.TextAppearance_Widget_AppCompat_Toolbar_Title;
@@ -1867,6 +2150,7 @@ namespace DeviceTests.Droid
 			global::Xamarin.Forms.Platform.Android.Resource.Style.Theme_Design_Light_BottomSheetDialog = global::DeviceTests.Droid.Resource.Style.Theme_Design_Light_BottomSheetDialog;
 			global::Xamarin.Forms.Platform.Android.Resource.Style.Theme_Design_Light_NoActionBar = global::DeviceTests.Droid.Resource.Style.Theme_Design_Light_NoActionBar;
 			global::Xamarin.Forms.Platform.Android.Resource.Style.Theme_Design_NoActionBar = global::DeviceTests.Droid.Resource.Style.Theme_Design_NoActionBar;
+<<<<<<< HEAD
 			global::Xamarin.Forms.Platform.Android.Resource.Style.Theme_MaterialComponents = global::DeviceTests.Droid.Resource.Style.Theme_MaterialComponents;
 			global::Xamarin.Forms.Platform.Android.Resource.Style.Theme_MaterialComponents_BottomSheetDialog = global::DeviceTests.Droid.Resource.Style.Theme_MaterialComponents_BottomSheetDialog;
 			global::Xamarin.Forms.Platform.Android.Resource.Style.Theme_MaterialComponents_Bridge = global::DeviceTests.Droid.Resource.Style.Theme_MaterialComponents_Bridge;
@@ -1888,6 +2172,8 @@ namespace DeviceTests.Droid
 			global::Xamarin.Forms.Platform.Android.Resource.Style.Theme_MaterialComponents_Light_NoActionBar_Bridge = global::DeviceTests.Droid.Resource.Style.Theme_MaterialComponents_Light_NoActionBar_Bridge;
 			global::Xamarin.Forms.Platform.Android.Resource.Style.Theme_MaterialComponents_NoActionBar = global::DeviceTests.Droid.Resource.Style.Theme_MaterialComponents_NoActionBar;
 			global::Xamarin.Forms.Platform.Android.Resource.Style.Theme_MaterialComponents_NoActionBar_Bridge = global::DeviceTests.Droid.Resource.Style.Theme_MaterialComponents_NoActionBar_Bridge;
+=======
+>>>>>>> Updates after the master merge
 			global::Xamarin.Forms.Platform.Android.Resource.Style.ThemeOverlay_AppCompat = global::DeviceTests.Droid.Resource.Style.ThemeOverlay_AppCompat;
 			global::Xamarin.Forms.Platform.Android.Resource.Style.ThemeOverlay_AppCompat_ActionBar = global::DeviceTests.Droid.Resource.Style.ThemeOverlay_AppCompat_ActionBar;
 			global::Xamarin.Forms.Platform.Android.Resource.Style.ThemeOverlay_AppCompat_Dark = global::DeviceTests.Droid.Resource.Style.ThemeOverlay_AppCompat_Dark;
@@ -1895,6 +2181,7 @@ namespace DeviceTests.Droid
 			global::Xamarin.Forms.Platform.Android.Resource.Style.ThemeOverlay_AppCompat_Dialog = global::DeviceTests.Droid.Resource.Style.ThemeOverlay_AppCompat_Dialog;
 			global::Xamarin.Forms.Platform.Android.Resource.Style.ThemeOverlay_AppCompat_Dialog_Alert = global::DeviceTests.Droid.Resource.Style.ThemeOverlay_AppCompat_Dialog_Alert;
 			global::Xamarin.Forms.Platform.Android.Resource.Style.ThemeOverlay_AppCompat_Light = global::DeviceTests.Droid.Resource.Style.ThemeOverlay_AppCompat_Light;
+<<<<<<< HEAD
 			global::Xamarin.Forms.Platform.Android.Resource.Style.ThemeOverlay_MaterialComponents = global::DeviceTests.Droid.Resource.Style.ThemeOverlay_MaterialComponents;
 			global::Xamarin.Forms.Platform.Android.Resource.Style.ThemeOverlay_MaterialComponents_ActionBar = global::DeviceTests.Droid.Resource.Style.ThemeOverlay_MaterialComponents_ActionBar;
 			global::Xamarin.Forms.Platform.Android.Resource.Style.ThemeOverlay_MaterialComponents_Dark = global::DeviceTests.Droid.Resource.Style.ThemeOverlay_MaterialComponents_Dark;
@@ -1907,6 +2194,8 @@ namespace DeviceTests.Droid
 			global::Xamarin.Forms.Platform.Android.Resource.Style.ThemeOverlay_MaterialComponents_TextInputEditText_FilledBox_Dense = global::DeviceTests.Droid.Resource.Style.ThemeOverlay_MaterialComponents_TextInputEditText_FilledBox_Dense;
 			global::Xamarin.Forms.Platform.Android.Resource.Style.ThemeOverlay_MaterialComponents_TextInputEditText_OutlinedBox = global::DeviceTests.Droid.Resource.Style.ThemeOverlay_MaterialComponents_TextInputEditText_OutlinedBox;
 			global::Xamarin.Forms.Platform.Android.Resource.Style.ThemeOverlay_MaterialComponents_TextInputEditText_OutlinedBox_Dense = global::DeviceTests.Droid.Resource.Style.ThemeOverlay_MaterialComponents_TextInputEditText_OutlinedBox_Dense;
+=======
+>>>>>>> Updates after the master merge
 			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_ActionBar = global::DeviceTests.Droid.Resource.Style.Widget_AppCompat_ActionBar;
 			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_ActionBar_Solid = global::DeviceTests.Droid.Resource.Style.Widget_AppCompat_ActionBar_Solid;
 			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_ActionBar_TabBar = global::DeviceTests.Droid.Resource.Style.Widget_AppCompat_ActionBar_TabBar;
@@ -1985,12 +2274,17 @@ namespace DeviceTests.Droid
 			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_Design_BottomNavigationView = global::DeviceTests.Droid.Resource.Style.Widget_Design_BottomNavigationView;
 			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_Design_BottomSheet_Modal = global::DeviceTests.Droid.Resource.Style.Widget_Design_BottomSheet_Modal;
 			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_Design_CollapsingToolbar = global::DeviceTests.Droid.Resource.Style.Widget_Design_CollapsingToolbar;
+<<<<<<< HEAD
+=======
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_Design_CoordinatorLayout = global::DeviceTests.Droid.Resource.Style.Widget_Design_CoordinatorLayout;
+>>>>>>> Updates after the master merge
 			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_Design_FloatingActionButton = global::DeviceTests.Droid.Resource.Style.Widget_Design_FloatingActionButton;
 			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_Design_NavigationView = global::DeviceTests.Droid.Resource.Style.Widget_Design_NavigationView;
 			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_Design_ScrimInsetsFrameLayout = global::DeviceTests.Droid.Resource.Style.Widget_Design_ScrimInsetsFrameLayout;
 			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_Design_Snackbar = global::DeviceTests.Droid.Resource.Style.Widget_Design_Snackbar;
 			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_Design_TabLayout = global::DeviceTests.Droid.Resource.Style.Widget_Design_TabLayout;
 			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_Design_TextInputLayout = global::DeviceTests.Droid.Resource.Style.Widget_Design_TextInputLayout;
+<<<<<<< HEAD
 			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_MaterialComponents_BottomAppBar = global::DeviceTests.Droid.Resource.Style.Widget_MaterialComponents_BottomAppBar;
 			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_MaterialComponents_BottomAppBar_Colored = global::DeviceTests.Droid.Resource.Style.Widget_MaterialComponents_BottomAppBar_Colored;
 			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_MaterialComponents_BottomNavigationView = global::DeviceTests.Droid.Resource.Style.Widget_MaterialComponents_BottomNavigationView;
@@ -2032,6 +2326,8 @@ namespace DeviceTests.Droid
 			global::Xamarin.Forms.Platform.Android.Resource.Style.XamarinFormsMaterialProgressBarHorizontal = global::DeviceTests.Droid.Resource.Style.XamarinFormsMaterialProgressBarHorizontal;
 			global::Xamarin.Forms.Platform.Android.Resource.Style.XamarinFormsMaterialTextInputLayoutFilledBox = global::DeviceTests.Droid.Resource.Style.XamarinFormsMaterialTextInputLayoutFilledBox;
 			global::Xamarin.Forms.Platform.Android.Resource.Style.XamarinFormsMaterialTheme = global::DeviceTests.Droid.Resource.Style.XamarinFormsMaterialTheme;
+=======
+>>>>>>> Updates after the master merge
 			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ActionBar = global::DeviceTests.Droid.Resource.Styleable.ActionBar;
 			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ActionBar_background = global::DeviceTests.Droid.Resource.Styleable.ActionBar_background;
 			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ActionBar_backgroundSplit = global::DeviceTests.Droid.Resource.Styleable.ActionBar_backgroundSplit;
@@ -2079,13 +2375,17 @@ namespace DeviceTests.Droid
 			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ActivityChooserView_initialActivityCount = global::DeviceTests.Droid.Resource.Styleable.ActivityChooserView_initialActivityCount;
 			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AlertDialog = global::DeviceTests.Droid.Resource.Styleable.AlertDialog;
 			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AlertDialog_android_layout = global::DeviceTests.Droid.Resource.Styleable.AlertDialog_android_layout;
+<<<<<<< HEAD
 			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AlertDialog_buttonIconDimen = global::DeviceTests.Droid.Resource.Styleable.AlertDialog_buttonIconDimen;
+=======
+>>>>>>> Updates after the master merge
 			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AlertDialog_buttonPanelSideLayout = global::DeviceTests.Droid.Resource.Styleable.AlertDialog_buttonPanelSideLayout;
 			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AlertDialog_listItemLayout = global::DeviceTests.Droid.Resource.Styleable.AlertDialog_listItemLayout;
 			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AlertDialog_listLayout = global::DeviceTests.Droid.Resource.Styleable.AlertDialog_listLayout;
 			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AlertDialog_multiChoiceItemLayout = global::DeviceTests.Droid.Resource.Styleable.AlertDialog_multiChoiceItemLayout;
 			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AlertDialog_showTitle = global::DeviceTests.Droid.Resource.Styleable.AlertDialog_showTitle;
 			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AlertDialog_singleChoiceItemLayout = global::DeviceTests.Droid.Resource.Styleable.AlertDialog_singleChoiceItemLayout;
+<<<<<<< HEAD
 			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AnimatedStateListDrawableCompat = global::DeviceTests.Droid.Resource.Styleable.AnimatedStateListDrawableCompat;
 			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AnimatedStateListDrawableCompat_android_constantSize = global::DeviceTests.Droid.Resource.Styleable.AnimatedStateListDrawableCompat_android_constantSize;
 			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AnimatedStateListDrawableCompat_android_dither = global::DeviceTests.Droid.Resource.Styleable.AnimatedStateListDrawableCompat_android_dither;
@@ -2101,18 +2401,26 @@ namespace DeviceTests.Droid
 			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AnimatedStateListDrawableTransition_android_fromId = global::DeviceTests.Droid.Resource.Styleable.AnimatedStateListDrawableTransition_android_fromId;
 			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AnimatedStateListDrawableTransition_android_reversible = global::DeviceTests.Droid.Resource.Styleable.AnimatedStateListDrawableTransition_android_reversible;
 			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AnimatedStateListDrawableTransition_android_toId = global::DeviceTests.Droid.Resource.Styleable.AnimatedStateListDrawableTransition_android_toId;
+=======
+>>>>>>> Updates after the master merge
 			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppBarLayout = global::DeviceTests.Droid.Resource.Styleable.AppBarLayout;
 			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppBarLayout_android_background = global::DeviceTests.Droid.Resource.Styleable.AppBarLayout_android_background;
 			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppBarLayout_android_keyboardNavigationCluster = global::DeviceTests.Droid.Resource.Styleable.AppBarLayout_android_keyboardNavigationCluster;
 			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppBarLayout_android_touchscreenBlocksFocus = global::DeviceTests.Droid.Resource.Styleable.AppBarLayout_android_touchscreenBlocksFocus;
 			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppBarLayout_elevation = global::DeviceTests.Droid.Resource.Styleable.AppBarLayout_elevation;
 			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppBarLayout_expanded = global::DeviceTests.Droid.Resource.Styleable.AppBarLayout_expanded;
+<<<<<<< HEAD
 			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppBarLayout_liftOnScroll = global::DeviceTests.Droid.Resource.Styleable.AppBarLayout_liftOnScroll;
 			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppBarLayoutStates = global::DeviceTests.Droid.Resource.Styleable.AppBarLayoutStates;
 			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppBarLayoutStates_state_collapsed = global::DeviceTests.Droid.Resource.Styleable.AppBarLayoutStates_state_collapsed;
 			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppBarLayoutStates_state_collapsible = global::DeviceTests.Droid.Resource.Styleable.AppBarLayoutStates_state_collapsible;
 			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppBarLayoutStates_state_liftable = global::DeviceTests.Droid.Resource.Styleable.AppBarLayoutStates_state_liftable;
 			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppBarLayoutStates_state_lifted = global::DeviceTests.Droid.Resource.Styleable.AppBarLayoutStates_state_lifted;
+=======
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppBarLayoutStates = global::DeviceTests.Droid.Resource.Styleable.AppBarLayoutStates;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppBarLayoutStates_state_collapsed = global::DeviceTests.Droid.Resource.Styleable.AppBarLayoutStates_state_collapsed;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppBarLayoutStates_state_collapsible = global::DeviceTests.Droid.Resource.Styleable.AppBarLayoutStates_state_collapsible;
+>>>>>>> Updates after the master merge
 			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppBarLayout_Layout = global::DeviceTests.Droid.Resource.Styleable.AppBarLayout_Layout;
 			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppBarLayout_Layout_layout_scrollFlags = global::DeviceTests.Droid.Resource.Styleable.AppBarLayout_Layout_layout_scrollFlags;
 			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppBarLayout_Layout_layout_scrollInterpolator = global::DeviceTests.Droid.Resource.Styleable.AppBarLayout_Layout_layout_scrollInterpolator;
@@ -2141,10 +2449,14 @@ namespace DeviceTests.Droid
 			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTextView_autoSizePresetSizes = global::DeviceTests.Droid.Resource.Styleable.AppCompatTextView_autoSizePresetSizes;
 			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTextView_autoSizeStepGranularity = global::DeviceTests.Droid.Resource.Styleable.AppCompatTextView_autoSizeStepGranularity;
 			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTextView_autoSizeTextType = global::DeviceTests.Droid.Resource.Styleable.AppCompatTextView_autoSizeTextType;
+<<<<<<< HEAD
 			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTextView_firstBaselineToTopHeight = global::DeviceTests.Droid.Resource.Styleable.AppCompatTextView_firstBaselineToTopHeight;
 			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTextView_fontFamily = global::DeviceTests.Droid.Resource.Styleable.AppCompatTextView_fontFamily;
 			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTextView_lastBaselineToBottomHeight = global::DeviceTests.Droid.Resource.Styleable.AppCompatTextView_lastBaselineToBottomHeight;
 			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTextView_lineHeight = global::DeviceTests.Droid.Resource.Styleable.AppCompatTextView_lineHeight;
+=======
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTextView_fontFamily = global::DeviceTests.Droid.Resource.Styleable.AppCompatTextView_fontFamily;
+>>>>>>> Updates after the master merge
 			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTextView_textAllCaps = global::DeviceTests.Droid.Resource.Styleable.AppCompatTextView_textAllCaps;
 			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme = global::DeviceTests.Droid.Resource.Styleable.AppCompatTheme;
 			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_actionBarDivider = global::DeviceTests.Droid.Resource.Styleable.AppCompatTheme_actionBarDivider;
@@ -2206,7 +2518,10 @@ namespace DeviceTests.Droid
 			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_colorPrimaryDark = global::DeviceTests.Droid.Resource.Styleable.AppCompatTheme_colorPrimaryDark;
 			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_colorSwitchThumbNormal = global::DeviceTests.Droid.Resource.Styleable.AppCompatTheme_colorSwitchThumbNormal;
 			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_controlBackground = global::DeviceTests.Droid.Resource.Styleable.AppCompatTheme_controlBackground;
+<<<<<<< HEAD
 			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_dialogCornerRadius = global::DeviceTests.Droid.Resource.Styleable.AppCompatTheme_dialogCornerRadius;
+=======
+>>>>>>> Updates after the master merge
 			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_dialogPreferredPadding = global::DeviceTests.Droid.Resource.Styleable.AppCompatTheme_dialogPreferredPadding;
 			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_dialogTheme = global::DeviceTests.Droid.Resource.Styleable.AppCompatTheme_dialogTheme;
 			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_dividerHorizontal = global::DeviceTests.Droid.Resource.Styleable.AppCompatTheme_dividerHorizontal;
@@ -2257,7 +2572,10 @@ namespace DeviceTests.Droid
 			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_toolbarStyle = global::DeviceTests.Droid.Resource.Styleable.AppCompatTheme_toolbarStyle;
 			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_tooltipForegroundColor = global::DeviceTests.Droid.Resource.Styleable.AppCompatTheme_tooltipForegroundColor;
 			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_tooltipFrameBackground = global::DeviceTests.Droid.Resource.Styleable.AppCompatTheme_tooltipFrameBackground;
+<<<<<<< HEAD
 			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_viewInflaterClass = global::DeviceTests.Droid.Resource.Styleable.AppCompatTheme_viewInflaterClass;
+=======
+>>>>>>> Updates after the master merge
 			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_windowActionBar = global::DeviceTests.Droid.Resource.Styleable.AppCompatTheme_windowActionBar;
 			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_windowActionBarOverlay = global::DeviceTests.Droid.Resource.Styleable.AppCompatTheme_windowActionBarOverlay;
 			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_windowActionModeOverlay = global::DeviceTests.Droid.Resource.Styleable.AppCompatTheme_windowActionModeOverlay;
@@ -2268,6 +2586,7 @@ namespace DeviceTests.Droid
 			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_windowMinWidthMajor = global::DeviceTests.Droid.Resource.Styleable.AppCompatTheme_windowMinWidthMajor;
 			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_windowMinWidthMinor = global::DeviceTests.Droid.Resource.Styleable.AppCompatTheme_windowMinWidthMinor;
 			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_windowNoTitle = global::DeviceTests.Droid.Resource.Styleable.AppCompatTheme_windowNoTitle;
+<<<<<<< HEAD
 			global::Xamarin.Forms.Platform.Android.Resource.Styleable.BottomAppBar = global::DeviceTests.Droid.Resource.Styleable.BottomAppBar;
 			global::Xamarin.Forms.Platform.Android.Resource.Styleable.BottomAppBar_backgroundTint = global::DeviceTests.Droid.Resource.Styleable.BottomAppBar_backgroundTint;
 			global::Xamarin.Forms.Platform.Android.Resource.Styleable.BottomAppBar_fabAlignmentMode = global::DeviceTests.Droid.Resource.Styleable.BottomAppBar_fabAlignmentMode;
@@ -2288,6 +2607,15 @@ namespace DeviceTests.Droid
 			global::Xamarin.Forms.Platform.Android.Resource.Styleable.BottomNavigationView_menu = global::DeviceTests.Droid.Resource.Styleable.BottomNavigationView_menu;
 			global::Xamarin.Forms.Platform.Android.Resource.Styleable.BottomSheetBehavior_Layout = global::DeviceTests.Droid.Resource.Styleable.BottomSheetBehavior_Layout;
 			global::Xamarin.Forms.Platform.Android.Resource.Styleable.BottomSheetBehavior_Layout_behavior_fitToContents = global::DeviceTests.Droid.Resource.Styleable.BottomSheetBehavior_Layout_behavior_fitToContents;
+=======
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.BottomNavigationView = global::DeviceTests.Droid.Resource.Styleable.BottomNavigationView;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.BottomNavigationView_elevation = global::DeviceTests.Droid.Resource.Styleable.BottomNavigationView_elevation;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.BottomNavigationView_itemBackground = global::DeviceTests.Droid.Resource.Styleable.BottomNavigationView_itemBackground;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.BottomNavigationView_itemIconTint = global::DeviceTests.Droid.Resource.Styleable.BottomNavigationView_itemIconTint;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.BottomNavigationView_itemTextColor = global::DeviceTests.Droid.Resource.Styleable.BottomNavigationView_itemTextColor;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.BottomNavigationView_menu = global::DeviceTests.Droid.Resource.Styleable.BottomNavigationView_menu;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.BottomSheetBehavior_Layout = global::DeviceTests.Droid.Resource.Styleable.BottomSheetBehavior_Layout;
+>>>>>>> Updates after the master merge
 			global::Xamarin.Forms.Platform.Android.Resource.Styleable.BottomSheetBehavior_Layout_behavior_hideable = global::DeviceTests.Droid.Resource.Styleable.BottomSheetBehavior_Layout_behavior_hideable;
 			global::Xamarin.Forms.Platform.Android.Resource.Styleable.BottomSheetBehavior_Layout_behavior_peekHeight = global::DeviceTests.Droid.Resource.Styleable.BottomSheetBehavior_Layout_behavior_peekHeight;
 			global::Xamarin.Forms.Platform.Android.Resource.Styleable.BottomSheetBehavior_Layout_behavior_skipCollapsed = global::DeviceTests.Droid.Resource.Styleable.BottomSheetBehavior_Layout_behavior_skipCollapsed;
@@ -2307,6 +2635,7 @@ namespace DeviceTests.Droid
 			global::Xamarin.Forms.Platform.Android.Resource.Styleable.CardView_contentPaddingLeft = global::DeviceTests.Droid.Resource.Styleable.CardView_contentPaddingLeft;
 			global::Xamarin.Forms.Platform.Android.Resource.Styleable.CardView_contentPaddingRight = global::DeviceTests.Droid.Resource.Styleable.CardView_contentPaddingRight;
 			global::Xamarin.Forms.Platform.Android.Resource.Styleable.CardView_contentPaddingTop = global::DeviceTests.Droid.Resource.Styleable.CardView_contentPaddingTop;
+<<<<<<< HEAD
 			global::Xamarin.Forms.Platform.Android.Resource.Styleable.Chip = global::DeviceTests.Droid.Resource.Styleable.Chip;
 			global::Xamarin.Forms.Platform.Android.Resource.Styleable.Chip_android_checkable = global::DeviceTests.Droid.Resource.Styleable.Chip_android_checkable;
 			global::Xamarin.Forms.Platform.Android.Resource.Styleable.Chip_android_ellipsize = global::DeviceTests.Droid.Resource.Styleable.Chip_android_ellipsize;
@@ -2349,6 +2678,8 @@ namespace DeviceTests.Droid
 			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ChipGroup_chipSpacingVertical = global::DeviceTests.Droid.Resource.Styleable.ChipGroup_chipSpacingVertical;
 			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ChipGroup_singleLine = global::DeviceTests.Droid.Resource.Styleable.ChipGroup_singleLine;
 			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ChipGroup_singleSelection = global::DeviceTests.Droid.Resource.Styleable.ChipGroup_singleSelection;
+=======
+>>>>>>> Updates after the master merge
 			global::Xamarin.Forms.Platform.Android.Resource.Styleable.CollapsingToolbarLayout = global::DeviceTests.Droid.Resource.Styleable.CollapsingToolbarLayout;
 			global::Xamarin.Forms.Platform.Android.Resource.Styleable.CollapsingToolbarLayout_collapsedTitleGravity = global::DeviceTests.Droid.Resource.Styleable.CollapsingToolbarLayout_collapsedTitleGravity;
 			global::Xamarin.Forms.Platform.Android.Resource.Styleable.CollapsingToolbarLayout_collapsedTitleTextAppearance = global::DeviceTests.Droid.Resource.Styleable.CollapsingToolbarLayout_collapsedTitleTextAppearance;
@@ -2391,6 +2722,10 @@ namespace DeviceTests.Droid
 			global::Xamarin.Forms.Platform.Android.Resource.Styleable.DesignTheme = global::DeviceTests.Droid.Resource.Styleable.DesignTheme;
 			global::Xamarin.Forms.Platform.Android.Resource.Styleable.DesignTheme_bottomSheetDialogTheme = global::DeviceTests.Droid.Resource.Styleable.DesignTheme_bottomSheetDialogTheme;
 			global::Xamarin.Forms.Platform.Android.Resource.Styleable.DesignTheme_bottomSheetStyle = global::DeviceTests.Droid.Resource.Styleable.DesignTheme_bottomSheetStyle;
+<<<<<<< HEAD
+=======
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.DesignTheme_textColorError = global::DeviceTests.Droid.Resource.Styleable.DesignTheme_textColorError;
+>>>>>>> Updates after the master merge
 			global::Xamarin.Forms.Platform.Android.Resource.Styleable.DrawerArrowToggle = global::DeviceTests.Droid.Resource.Styleable.DrawerArrowToggle;
 			global::Xamarin.Forms.Platform.Android.Resource.Styleable.DrawerArrowToggle_arrowHeadLength = global::DeviceTests.Droid.Resource.Styleable.DrawerArrowToggle_arrowHeadLength;
 			global::Xamarin.Forms.Platform.Android.Resource.Styleable.DrawerArrowToggle_arrowShaftLength = global::DeviceTests.Droid.Resource.Styleable.DrawerArrowToggle_arrowShaftLength;
@@ -2405,6 +2740,7 @@ namespace DeviceTests.Droid
 			global::Xamarin.Forms.Platform.Android.Resource.Styleable.FloatingActionButton_backgroundTintMode = global::DeviceTests.Droid.Resource.Styleable.FloatingActionButton_backgroundTintMode;
 			global::Xamarin.Forms.Platform.Android.Resource.Styleable.FloatingActionButton_borderWidth = global::DeviceTests.Droid.Resource.Styleable.FloatingActionButton_borderWidth;
 			global::Xamarin.Forms.Platform.Android.Resource.Styleable.FloatingActionButton_elevation = global::DeviceTests.Droid.Resource.Styleable.FloatingActionButton_elevation;
+<<<<<<< HEAD
 			global::Xamarin.Forms.Platform.Android.Resource.Styleable.FloatingActionButton_fabCustomSize = global::DeviceTests.Droid.Resource.Styleable.FloatingActionButton_fabCustomSize;
 			global::Xamarin.Forms.Platform.Android.Resource.Styleable.FloatingActionButton_fabSize = global::DeviceTests.Droid.Resource.Styleable.FloatingActionButton_fabSize;
 			global::Xamarin.Forms.Platform.Android.Resource.Styleable.FloatingActionButton_hideMotionSpec = global::DeviceTests.Droid.Resource.Styleable.FloatingActionButton_hideMotionSpec;
@@ -2419,6 +2755,14 @@ namespace DeviceTests.Droid
 			global::Xamarin.Forms.Platform.Android.Resource.Styleable.FlowLayout = global::DeviceTests.Droid.Resource.Styleable.FlowLayout;
 			global::Xamarin.Forms.Platform.Android.Resource.Styleable.FlowLayout_itemSpacing = global::DeviceTests.Droid.Resource.Styleable.FlowLayout_itemSpacing;
 			global::Xamarin.Forms.Platform.Android.Resource.Styleable.FlowLayout_lineSpacing = global::DeviceTests.Droid.Resource.Styleable.FlowLayout_lineSpacing;
+=======
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.FloatingActionButton_fabSize = global::DeviceTests.Droid.Resource.Styleable.FloatingActionButton_fabSize;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.FloatingActionButton_pressedTranslationZ = global::DeviceTests.Droid.Resource.Styleable.FloatingActionButton_pressedTranslationZ;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.FloatingActionButton_rippleColor = global::DeviceTests.Droid.Resource.Styleable.FloatingActionButton_rippleColor;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.FloatingActionButton_useCompatPadding = global::DeviceTests.Droid.Resource.Styleable.FloatingActionButton_useCompatPadding;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.FloatingActionButton_Behavior_Layout = global::DeviceTests.Droid.Resource.Styleable.FloatingActionButton_Behavior_Layout;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.FloatingActionButton_Behavior_Layout_behavior_autoHide = global::DeviceTests.Droid.Resource.Styleable.FloatingActionButton_Behavior_Layout_behavior_autoHide;
+>>>>>>> Updates after the master merge
 			global::Xamarin.Forms.Platform.Android.Resource.Styleable.FontFamily = global::DeviceTests.Droid.Resource.Styleable.FontFamily;
 			global::Xamarin.Forms.Platform.Android.Resource.Styleable.FontFamily_fontProviderAuthority = global::DeviceTests.Droid.Resource.Styleable.FontFamily_fontProviderAuthority;
 			global::Xamarin.Forms.Platform.Android.Resource.Styleable.FontFamily_fontProviderCerts = global::DeviceTests.Droid.Resource.Styleable.FontFamily_fontProviderCerts;
@@ -2429,6 +2773,7 @@ namespace DeviceTests.Droid
 			global::Xamarin.Forms.Platform.Android.Resource.Styleable.FontFamilyFont = global::DeviceTests.Droid.Resource.Styleable.FontFamilyFont;
 			global::Xamarin.Forms.Platform.Android.Resource.Styleable.FontFamilyFont_android_font = global::DeviceTests.Droid.Resource.Styleable.FontFamilyFont_android_font;
 			global::Xamarin.Forms.Platform.Android.Resource.Styleable.FontFamilyFont_android_fontStyle = global::DeviceTests.Droid.Resource.Styleable.FontFamilyFont_android_fontStyle;
+<<<<<<< HEAD
 			global::Xamarin.Forms.Platform.Android.Resource.Styleable.FontFamilyFont_android_fontVariationSettings = global::DeviceTests.Droid.Resource.Styleable.FontFamilyFont_android_fontVariationSettings;
 			global::Xamarin.Forms.Platform.Android.Resource.Styleable.FontFamilyFont_android_fontWeight = global::DeviceTests.Droid.Resource.Styleable.FontFamilyFont_android_fontWeight;
 			global::Xamarin.Forms.Platform.Android.Resource.Styleable.FontFamilyFont_android_ttcIndex = global::DeviceTests.Droid.Resource.Styleable.FontFamilyFont_android_ttcIndex;
@@ -2437,10 +2782,17 @@ namespace DeviceTests.Droid
 			global::Xamarin.Forms.Platform.Android.Resource.Styleable.FontFamilyFont_fontVariationSettings = global::DeviceTests.Droid.Resource.Styleable.FontFamilyFont_fontVariationSettings;
 			global::Xamarin.Forms.Platform.Android.Resource.Styleable.FontFamilyFont_fontWeight = global::DeviceTests.Droid.Resource.Styleable.FontFamilyFont_fontWeight;
 			global::Xamarin.Forms.Platform.Android.Resource.Styleable.FontFamilyFont_ttcIndex = global::DeviceTests.Droid.Resource.Styleable.FontFamilyFont_ttcIndex;
+=======
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.FontFamilyFont_android_fontWeight = global::DeviceTests.Droid.Resource.Styleable.FontFamilyFont_android_fontWeight;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.FontFamilyFont_font = global::DeviceTests.Droid.Resource.Styleable.FontFamilyFont_font;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.FontFamilyFont_fontStyle = global::DeviceTests.Droid.Resource.Styleable.FontFamilyFont_fontStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.FontFamilyFont_fontWeight = global::DeviceTests.Droid.Resource.Styleable.FontFamilyFont_fontWeight;
+>>>>>>> Updates after the master merge
 			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ForegroundLinearLayout = global::DeviceTests.Droid.Resource.Styleable.ForegroundLinearLayout;
 			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ForegroundLinearLayout_android_foreground = global::DeviceTests.Droid.Resource.Styleable.ForegroundLinearLayout_android_foreground;
 			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ForegroundLinearLayout_android_foregroundGravity = global::DeviceTests.Droid.Resource.Styleable.ForegroundLinearLayout_android_foregroundGravity;
 			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ForegroundLinearLayout_foregroundInsidePadding = global::DeviceTests.Droid.Resource.Styleable.ForegroundLinearLayout_foregroundInsidePadding;
+<<<<<<< HEAD
 			global::Xamarin.Forms.Platform.Android.Resource.Styleable.GradientColor = global::DeviceTests.Droid.Resource.Styleable.GradientColor;
 			global::Xamarin.Forms.Platform.Android.Resource.Styleable.GradientColor_android_centerColor = global::DeviceTests.Droid.Resource.Styleable.GradientColor_android_centerColor;
 			global::Xamarin.Forms.Platform.Android.Resource.Styleable.GradientColor_android_centerX = global::DeviceTests.Droid.Resource.Styleable.GradientColor_android_centerX;
@@ -2457,6 +2809,8 @@ namespace DeviceTests.Droid
 			global::Xamarin.Forms.Platform.Android.Resource.Styleable.GradientColorItem = global::DeviceTests.Droid.Resource.Styleable.GradientColorItem;
 			global::Xamarin.Forms.Platform.Android.Resource.Styleable.GradientColorItem_android_color = global::DeviceTests.Droid.Resource.Styleable.GradientColorItem_android_color;
 			global::Xamarin.Forms.Platform.Android.Resource.Styleable.GradientColorItem_android_offset = global::DeviceTests.Droid.Resource.Styleable.GradientColorItem_android_offset;
+=======
+>>>>>>> Updates after the master merge
 			global::Xamarin.Forms.Platform.Android.Resource.Styleable.LinearLayoutCompat = global::DeviceTests.Droid.Resource.Styleable.LinearLayoutCompat;
 			global::Xamarin.Forms.Platform.Android.Resource.Styleable.LinearLayoutCompat_android_baselineAligned = global::DeviceTests.Droid.Resource.Styleable.LinearLayoutCompat_android_baselineAligned;
 			global::Xamarin.Forms.Platform.Android.Resource.Styleable.LinearLayoutCompat_android_baselineAlignedChildIndex = global::DeviceTests.Droid.Resource.Styleable.LinearLayoutCompat_android_baselineAlignedChildIndex;
@@ -2475,6 +2829,7 @@ namespace DeviceTests.Droid
 			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ListPopupWindow = global::DeviceTests.Droid.Resource.Styleable.ListPopupWindow;
 			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ListPopupWindow_android_dropDownHorizontalOffset = global::DeviceTests.Droid.Resource.Styleable.ListPopupWindow_android_dropDownHorizontalOffset;
 			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ListPopupWindow_android_dropDownVerticalOffset = global::DeviceTests.Droid.Resource.Styleable.ListPopupWindow_android_dropDownVerticalOffset;
+<<<<<<< HEAD
 			global::Xamarin.Forms.Platform.Android.Resource.Styleable.MaterialButton = global::DeviceTests.Droid.Resource.Styleable.MaterialButton;
 			global::Xamarin.Forms.Platform.Android.Resource.Styleable.MaterialButton_android_insetBottom = global::DeviceTests.Droid.Resource.Styleable.MaterialButton_android_insetBottom;
 			global::Xamarin.Forms.Platform.Android.Resource.Styleable.MaterialButton_android_insetLeft = global::DeviceTests.Droid.Resource.Styleable.MaterialButton_android_insetLeft;
@@ -2528,6 +2883,8 @@ namespace DeviceTests.Droid
 			global::Xamarin.Forms.Platform.Android.Resource.Styleable.MaterialComponentsTheme_textAppearanceSubtitle1 = global::DeviceTests.Droid.Resource.Styleable.MaterialComponentsTheme_textAppearanceSubtitle1;
 			global::Xamarin.Forms.Platform.Android.Resource.Styleable.MaterialComponentsTheme_textAppearanceSubtitle2 = global::DeviceTests.Droid.Resource.Styleable.MaterialComponentsTheme_textAppearanceSubtitle2;
 			global::Xamarin.Forms.Platform.Android.Resource.Styleable.MaterialComponentsTheme_textInputStyle = global::DeviceTests.Droid.Resource.Styleable.MaterialComponentsTheme_textInputStyle;
+=======
+>>>>>>> Updates after the master merge
 			global::Xamarin.Forms.Platform.Android.Resource.Styleable.MenuGroup = global::DeviceTests.Droid.Resource.Styleable.MenuGroup;
 			global::Xamarin.Forms.Platform.Android.Resource.Styleable.MenuGroup_android_checkableBehavior = global::DeviceTests.Droid.Resource.Styleable.MenuGroup_android_checkableBehavior;
 			global::Xamarin.Forms.Platform.Android.Resource.Styleable.MenuGroup_android_enabled = global::DeviceTests.Droid.Resource.Styleable.MenuGroup_android_enabled;
@@ -2576,8 +2933,11 @@ namespace DeviceTests.Droid
 			global::Xamarin.Forms.Platform.Android.Resource.Styleable.NavigationView_elevation = global::DeviceTests.Droid.Resource.Styleable.NavigationView_elevation;
 			global::Xamarin.Forms.Platform.Android.Resource.Styleable.NavigationView_headerLayout = global::DeviceTests.Droid.Resource.Styleable.NavigationView_headerLayout;
 			global::Xamarin.Forms.Platform.Android.Resource.Styleable.NavigationView_itemBackground = global::DeviceTests.Droid.Resource.Styleable.NavigationView_itemBackground;
+<<<<<<< HEAD
 			global::Xamarin.Forms.Platform.Android.Resource.Styleable.NavigationView_itemHorizontalPadding = global::DeviceTests.Droid.Resource.Styleable.NavigationView_itemHorizontalPadding;
 			global::Xamarin.Forms.Platform.Android.Resource.Styleable.NavigationView_itemIconPadding = global::DeviceTests.Droid.Resource.Styleable.NavigationView_itemIconPadding;
+=======
+>>>>>>> Updates after the master merge
 			global::Xamarin.Forms.Platform.Android.Resource.Styleable.NavigationView_itemIconTint = global::DeviceTests.Droid.Resource.Styleable.NavigationView_itemIconTint;
 			global::Xamarin.Forms.Platform.Android.Resource.Styleable.NavigationView_itemTextAppearance = global::DeviceTests.Droid.Resource.Styleable.NavigationView_itemTextAppearance;
 			global::Xamarin.Forms.Platform.Android.Resource.Styleable.NavigationView_itemTextColor = global::DeviceTests.Droid.Resource.Styleable.NavigationView_itemTextColor;
@@ -2625,9 +2985,12 @@ namespace DeviceTests.Droid
 			global::Xamarin.Forms.Platform.Android.Resource.Styleable.SearchView_submitBackground = global::DeviceTests.Droid.Resource.Styleable.SearchView_submitBackground;
 			global::Xamarin.Forms.Platform.Android.Resource.Styleable.SearchView_suggestionRowLayout = global::DeviceTests.Droid.Resource.Styleable.SearchView_suggestionRowLayout;
 			global::Xamarin.Forms.Platform.Android.Resource.Styleable.SearchView_voiceIcon = global::DeviceTests.Droid.Resource.Styleable.SearchView_voiceIcon;
+<<<<<<< HEAD
 			global::Xamarin.Forms.Platform.Android.Resource.Styleable.Snackbar = global::DeviceTests.Droid.Resource.Styleable.Snackbar;
 			global::Xamarin.Forms.Platform.Android.Resource.Styleable.Snackbar_snackbarButtonStyle = global::DeviceTests.Droid.Resource.Styleable.Snackbar_snackbarButtonStyle;
 			global::Xamarin.Forms.Platform.Android.Resource.Styleable.Snackbar_snackbarStyle = global::DeviceTests.Droid.Resource.Styleable.Snackbar_snackbarStyle;
+=======
+>>>>>>> Updates after the master merge
 			global::Xamarin.Forms.Platform.Android.Resource.Styleable.SnackbarLayout = global::DeviceTests.Droid.Resource.Styleable.SnackbarLayout;
 			global::Xamarin.Forms.Platform.Android.Resource.Styleable.SnackbarLayout_android_maxWidth = global::DeviceTests.Droid.Resource.Styleable.SnackbarLayout_android_maxWidth;
 			global::Xamarin.Forms.Platform.Android.Resource.Styleable.SnackbarLayout_elevation = global::DeviceTests.Droid.Resource.Styleable.SnackbarLayout_elevation;
@@ -2638,6 +3001,7 @@ namespace DeviceTests.Droid
 			global::Xamarin.Forms.Platform.Android.Resource.Styleable.Spinner_android_popupBackground = global::DeviceTests.Droid.Resource.Styleable.Spinner_android_popupBackground;
 			global::Xamarin.Forms.Platform.Android.Resource.Styleable.Spinner_android_prompt = global::DeviceTests.Droid.Resource.Styleable.Spinner_android_prompt;
 			global::Xamarin.Forms.Platform.Android.Resource.Styleable.Spinner_popupTheme = global::DeviceTests.Droid.Resource.Styleable.Spinner_popupTheme;
+<<<<<<< HEAD
 			global::Xamarin.Forms.Platform.Android.Resource.Styleable.StateListDrawable = global::DeviceTests.Droid.Resource.Styleable.StateListDrawable;
 			global::Xamarin.Forms.Platform.Android.Resource.Styleable.StateListDrawable_android_constantSize = global::DeviceTests.Droid.Resource.Styleable.StateListDrawable_android_constantSize;
 			global::Xamarin.Forms.Platform.Android.Resource.Styleable.StateListDrawable_android_dither = global::DeviceTests.Droid.Resource.Styleable.StateListDrawable_android_dither;
@@ -2647,6 +3011,8 @@ namespace DeviceTests.Droid
 			global::Xamarin.Forms.Platform.Android.Resource.Styleable.StateListDrawable_android_visible = global::DeviceTests.Droid.Resource.Styleable.StateListDrawable_android_visible;
 			global::Xamarin.Forms.Platform.Android.Resource.Styleable.StateListDrawableItem = global::DeviceTests.Droid.Resource.Styleable.StateListDrawableItem;
 			global::Xamarin.Forms.Platform.Android.Resource.Styleable.StateListDrawableItem_android_drawable = global::DeviceTests.Droid.Resource.Styleable.StateListDrawableItem_android_drawable;
+=======
+>>>>>>> Updates after the master merge
 			global::Xamarin.Forms.Platform.Android.Resource.Styleable.SwitchCompat = global::DeviceTests.Droid.Resource.Styleable.SwitchCompat;
 			global::Xamarin.Forms.Platform.Android.Resource.Styleable.SwitchCompat_android_textOff = global::DeviceTests.Droid.Resource.Styleable.SwitchCompat_android_textOff;
 			global::Xamarin.Forms.Platform.Android.Resource.Styleable.SwitchCompat_android_textOn = global::DeviceTests.Droid.Resource.Styleable.SwitchCompat_android_textOn;
@@ -2670,6 +3036,7 @@ namespace DeviceTests.Droid
 			global::Xamarin.Forms.Platform.Android.Resource.Styleable.TabLayout_tabBackground = global::DeviceTests.Droid.Resource.Styleable.TabLayout_tabBackground;
 			global::Xamarin.Forms.Platform.Android.Resource.Styleable.TabLayout_tabContentStart = global::DeviceTests.Droid.Resource.Styleable.TabLayout_tabContentStart;
 			global::Xamarin.Forms.Platform.Android.Resource.Styleable.TabLayout_tabGravity = global::DeviceTests.Droid.Resource.Styleable.TabLayout_tabGravity;
+<<<<<<< HEAD
 			global::Xamarin.Forms.Platform.Android.Resource.Styleable.TabLayout_tabIconTint = global::DeviceTests.Droid.Resource.Styleable.TabLayout_tabIconTint;
 			global::Xamarin.Forms.Platform.Android.Resource.Styleable.TabLayout_tabIconTintMode = global::DeviceTests.Droid.Resource.Styleable.TabLayout_tabIconTintMode;
 			global::Xamarin.Forms.Platform.Android.Resource.Styleable.TabLayout_tabIndicator = global::DeviceTests.Droid.Resource.Styleable.TabLayout_tabIndicator;
@@ -2679,6 +3046,10 @@ namespace DeviceTests.Droid
 			global::Xamarin.Forms.Platform.Android.Resource.Styleable.TabLayout_tabIndicatorGravity = global::DeviceTests.Droid.Resource.Styleable.TabLayout_tabIndicatorGravity;
 			global::Xamarin.Forms.Platform.Android.Resource.Styleable.TabLayout_tabIndicatorHeight = global::DeviceTests.Droid.Resource.Styleable.TabLayout_tabIndicatorHeight;
 			global::Xamarin.Forms.Platform.Android.Resource.Styleable.TabLayout_tabInlineLabel = global::DeviceTests.Droid.Resource.Styleable.TabLayout_tabInlineLabel;
+=======
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.TabLayout_tabIndicatorColor = global::DeviceTests.Droid.Resource.Styleable.TabLayout_tabIndicatorColor;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.TabLayout_tabIndicatorHeight = global::DeviceTests.Droid.Resource.Styleable.TabLayout_tabIndicatorHeight;
+>>>>>>> Updates after the master merge
 			global::Xamarin.Forms.Platform.Android.Resource.Styleable.TabLayout_tabMaxWidth = global::DeviceTests.Droid.Resource.Styleable.TabLayout_tabMaxWidth;
 			global::Xamarin.Forms.Platform.Android.Resource.Styleable.TabLayout_tabMinWidth = global::DeviceTests.Droid.Resource.Styleable.TabLayout_tabMinWidth;
 			global::Xamarin.Forms.Platform.Android.Resource.Styleable.TabLayout_tabMode = global::DeviceTests.Droid.Resource.Styleable.TabLayout_tabMode;
@@ -2687,11 +3058,17 @@ namespace DeviceTests.Droid
 			global::Xamarin.Forms.Platform.Android.Resource.Styleable.TabLayout_tabPaddingEnd = global::DeviceTests.Droid.Resource.Styleable.TabLayout_tabPaddingEnd;
 			global::Xamarin.Forms.Platform.Android.Resource.Styleable.TabLayout_tabPaddingStart = global::DeviceTests.Droid.Resource.Styleable.TabLayout_tabPaddingStart;
 			global::Xamarin.Forms.Platform.Android.Resource.Styleable.TabLayout_tabPaddingTop = global::DeviceTests.Droid.Resource.Styleable.TabLayout_tabPaddingTop;
+<<<<<<< HEAD
 			global::Xamarin.Forms.Platform.Android.Resource.Styleable.TabLayout_tabRippleColor = global::DeviceTests.Droid.Resource.Styleable.TabLayout_tabRippleColor;
 			global::Xamarin.Forms.Platform.Android.Resource.Styleable.TabLayout_tabSelectedTextColor = global::DeviceTests.Droid.Resource.Styleable.TabLayout_tabSelectedTextColor;
 			global::Xamarin.Forms.Platform.Android.Resource.Styleable.TabLayout_tabTextAppearance = global::DeviceTests.Droid.Resource.Styleable.TabLayout_tabTextAppearance;
 			global::Xamarin.Forms.Platform.Android.Resource.Styleable.TabLayout_tabTextColor = global::DeviceTests.Droid.Resource.Styleable.TabLayout_tabTextColor;
 			global::Xamarin.Forms.Platform.Android.Resource.Styleable.TabLayout_tabUnboundedRipple = global::DeviceTests.Droid.Resource.Styleable.TabLayout_tabUnboundedRipple;
+=======
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.TabLayout_tabSelectedTextColor = global::DeviceTests.Droid.Resource.Styleable.TabLayout_tabSelectedTextColor;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.TabLayout_tabTextAppearance = global::DeviceTests.Droid.Resource.Styleable.TabLayout_tabTextAppearance;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.TabLayout_tabTextColor = global::DeviceTests.Droid.Resource.Styleable.TabLayout_tabTextColor;
+>>>>>>> Updates after the master merge
 			global::Xamarin.Forms.Platform.Android.Resource.Styleable.TextAppearance = global::DeviceTests.Droid.Resource.Styleable.TextAppearance;
 			global::Xamarin.Forms.Platform.Android.Resource.Styleable.TextAppearance_android_fontFamily = global::DeviceTests.Droid.Resource.Styleable.TextAppearance_android_fontFamily;
 			global::Xamarin.Forms.Platform.Android.Resource.Styleable.TextAppearance_android_shadowColor = global::DeviceTests.Droid.Resource.Styleable.TextAppearance_android_shadowColor;
@@ -2709,6 +3086,7 @@ namespace DeviceTests.Droid
 			global::Xamarin.Forms.Platform.Android.Resource.Styleable.TextInputLayout = global::DeviceTests.Droid.Resource.Styleable.TextInputLayout;
 			global::Xamarin.Forms.Platform.Android.Resource.Styleable.TextInputLayout_android_hint = global::DeviceTests.Droid.Resource.Styleable.TextInputLayout_android_hint;
 			global::Xamarin.Forms.Platform.Android.Resource.Styleable.TextInputLayout_android_textColorHint = global::DeviceTests.Droid.Resource.Styleable.TextInputLayout_android_textColorHint;
+<<<<<<< HEAD
 			global::Xamarin.Forms.Platform.Android.Resource.Styleable.TextInputLayout_boxBackgroundColor = global::DeviceTests.Droid.Resource.Styleable.TextInputLayout_boxBackgroundColor;
 			global::Xamarin.Forms.Platform.Android.Resource.Styleable.TextInputLayout_boxBackgroundMode = global::DeviceTests.Droid.Resource.Styleable.TextInputLayout_boxBackgroundMode;
 			global::Xamarin.Forms.Platform.Android.Resource.Styleable.TextInputLayout_boxCollapsedPaddingTop = global::DeviceTests.Droid.Resource.Styleable.TextInputLayout_boxCollapsedPaddingTop;
@@ -2718,15 +3096,20 @@ namespace DeviceTests.Droid
 			global::Xamarin.Forms.Platform.Android.Resource.Styleable.TextInputLayout_boxCornerRadiusTopStart = global::DeviceTests.Droid.Resource.Styleable.TextInputLayout_boxCornerRadiusTopStart;
 			global::Xamarin.Forms.Platform.Android.Resource.Styleable.TextInputLayout_boxStrokeColor = global::DeviceTests.Droid.Resource.Styleable.TextInputLayout_boxStrokeColor;
 			global::Xamarin.Forms.Platform.Android.Resource.Styleable.TextInputLayout_boxStrokeWidth = global::DeviceTests.Droid.Resource.Styleable.TextInputLayout_boxStrokeWidth;
+=======
+>>>>>>> Updates after the master merge
 			global::Xamarin.Forms.Platform.Android.Resource.Styleable.TextInputLayout_counterEnabled = global::DeviceTests.Droid.Resource.Styleable.TextInputLayout_counterEnabled;
 			global::Xamarin.Forms.Platform.Android.Resource.Styleable.TextInputLayout_counterMaxLength = global::DeviceTests.Droid.Resource.Styleable.TextInputLayout_counterMaxLength;
 			global::Xamarin.Forms.Platform.Android.Resource.Styleable.TextInputLayout_counterOverflowTextAppearance = global::DeviceTests.Droid.Resource.Styleable.TextInputLayout_counterOverflowTextAppearance;
 			global::Xamarin.Forms.Platform.Android.Resource.Styleable.TextInputLayout_counterTextAppearance = global::DeviceTests.Droid.Resource.Styleable.TextInputLayout_counterTextAppearance;
 			global::Xamarin.Forms.Platform.Android.Resource.Styleable.TextInputLayout_errorEnabled = global::DeviceTests.Droid.Resource.Styleable.TextInputLayout_errorEnabled;
 			global::Xamarin.Forms.Platform.Android.Resource.Styleable.TextInputLayout_errorTextAppearance = global::DeviceTests.Droid.Resource.Styleable.TextInputLayout_errorTextAppearance;
+<<<<<<< HEAD
 			global::Xamarin.Forms.Platform.Android.Resource.Styleable.TextInputLayout_helperText = global::DeviceTests.Droid.Resource.Styleable.TextInputLayout_helperText;
 			global::Xamarin.Forms.Platform.Android.Resource.Styleable.TextInputLayout_helperTextEnabled = global::DeviceTests.Droid.Resource.Styleable.TextInputLayout_helperTextEnabled;
 			global::Xamarin.Forms.Platform.Android.Resource.Styleable.TextInputLayout_helperTextTextAppearance = global::DeviceTests.Droid.Resource.Styleable.TextInputLayout_helperTextTextAppearance;
+=======
+>>>>>>> Updates after the master merge
 			global::Xamarin.Forms.Platform.Android.Resource.Styleable.TextInputLayout_hintAnimationEnabled = global::DeviceTests.Droid.Resource.Styleable.TextInputLayout_hintAnimationEnabled;
 			global::Xamarin.Forms.Platform.Android.Resource.Styleable.TextInputLayout_hintEnabled = global::DeviceTests.Droid.Resource.Styleable.TextInputLayout_hintEnabled;
 			global::Xamarin.Forms.Platform.Android.Resource.Styleable.TextInputLayout_hintTextAppearance = global::DeviceTests.Droid.Resource.Styleable.TextInputLayout_hintTextAppearance;
@@ -2735,10 +3118,13 @@ namespace DeviceTests.Droid
 			global::Xamarin.Forms.Platform.Android.Resource.Styleable.TextInputLayout_passwordToggleEnabled = global::DeviceTests.Droid.Resource.Styleable.TextInputLayout_passwordToggleEnabled;
 			global::Xamarin.Forms.Platform.Android.Resource.Styleable.TextInputLayout_passwordToggleTint = global::DeviceTests.Droid.Resource.Styleable.TextInputLayout_passwordToggleTint;
 			global::Xamarin.Forms.Platform.Android.Resource.Styleable.TextInputLayout_passwordToggleTintMode = global::DeviceTests.Droid.Resource.Styleable.TextInputLayout_passwordToggleTintMode;
+<<<<<<< HEAD
 			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ThemeEnforcement = global::DeviceTests.Droid.Resource.Styleable.ThemeEnforcement;
 			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ThemeEnforcement_android_textAppearance = global::DeviceTests.Droid.Resource.Styleable.ThemeEnforcement_android_textAppearance;
 			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ThemeEnforcement_enforceMaterialTheme = global::DeviceTests.Droid.Resource.Styleable.ThemeEnforcement_enforceMaterialTheme;
 			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ThemeEnforcement_enforceTextAppearance = global::DeviceTests.Droid.Resource.Styleable.ThemeEnforcement_enforceTextAppearance;
+=======
+>>>>>>> Updates after the master merge
 			global::Xamarin.Forms.Platform.Android.Resource.Styleable.Toolbar = global::DeviceTests.Droid.Resource.Styleable.Toolbar;
 			global::Xamarin.Forms.Platform.Android.Resource.Styleable.Toolbar_android_gravity = global::DeviceTests.Droid.Resource.Styleable.Toolbar_android_gravity;
 			global::Xamarin.Forms.Platform.Android.Resource.Styleable.Toolbar_android_minHeight = global::DeviceTests.Droid.Resource.Styleable.Toolbar_android_minHeight;
@@ -2831,6 +3217,7 @@ namespace DeviceTests.Droid
 			public const int design_bottom_sheet_slide_out = 2131034125;
 			
 			// aapt resource value: 0x7f05000e
+<<<<<<< HEAD
 			public const int design_snackbar_in = 2131034126;
 			
 			// aapt resource value: 0x7f05000f
@@ -2847,6 +3234,24 @@ namespace DeviceTests.Droid
 			
 			// aapt resource value: 0x7f050013
 			public const int ExitToRight = 2131034131;
+=======
+			public const int EnterFromLeft = 2131034126;
+			
+			// aapt resource value: 0x7f05000f
+			public const int EnterFromRight = 2131034127;
+			
+			// aapt resource value: 0x7f050010
+			public const int ExitToLeft = 2131034128;
+			
+			// aapt resource value: 0x7f050011
+			public const int ExitToRight = 2131034129;
+			
+			// aapt resource value: 0x7f050012
+			public const int tooltip_enter = 2131034130;
+			
+			// aapt resource value: 0x7f050013
+			public const int tooltip_exit = 2131034131;
+>>>>>>> Updates after the master merge
 			
 			static Animation()
 			{
@@ -6500,8 +6905,13 @@ namespace DeviceTests.Droid
 			// aapt resource value: 0x7f0b003e
 			public const int SYM = 2131427390;
 			
+<<<<<<< HEAD
 			// aapt resource value: 0x7f0b00e4
 			public const int action0 = 2131427556;
+=======
+			// aapt resource value: 0x7f0a00ba
+			public const int action0 = 2131361978;
+>>>>>>> Updates after the master merge
 			
 			// aapt resource value: 0x7f0b008d
 			public const int action_bar = 2131427469;
@@ -6524,17 +6934,30 @@ namespace DeviceTests.Droid
 			// aapt resource value: 0x7f0b0069
 			public const int action_bar_title = 2131427433;
 			
+<<<<<<< HEAD
 			// aapt resource value: 0x7f0b00e1
 			public const int action_container = 2131427553;
+=======
+			// aapt resource value: 0x7f0a00b7
+			public const int action_container = 2131361975;
+>>>>>>> Updates after the master merge
 			
 			// aapt resource value: 0x7f0b008e
 			public const int action_context_bar = 2131427470;
 			
+<<<<<<< HEAD
 			// aapt resource value: 0x7f0b00e8
 			public const int action_divider = 2131427560;
 			
 			// aapt resource value: 0x7f0b00e2
 			public const int action_image = 2131427554;
+=======
+			// aapt resource value: 0x7f0a00be
+			public const int action_divider = 2131361982;
+			
+			// aapt resource value: 0x7f0a00b8
+			public const int action_image = 2131361976;
+>>>>>>> Updates after the master merge
 			
 			// aapt resource value: 0x7f0b0003
 			public const int action_menu_divider = 2131427331;
@@ -6551,11 +6974,19 @@ namespace DeviceTests.Droid
 			// aapt resource value: 0x7f0b006b
 			public const int action_mode_close_button = 2131427435;
 			
+<<<<<<< HEAD
 			// aapt resource value: 0x7f0b00e3
 			public const int action_text = 2131427555;
 			
 			// aapt resource value: 0x7f0b00f1
 			public const int actions = 2131427569;
+=======
+			// aapt resource value: 0x7f0a00b9
+			public const int action_text = 2131361977;
+			
+			// aapt resource value: 0x7f0a00c7
+			public const int actions = 2131361991;
+>>>>>>> Updates after the master merge
 			
 			// aapt resource value: 0x7f0b006c
 			public const int activity_chooser_view_content = 2131427436;
@@ -6587,11 +7018,25 @@ namespace DeviceTests.Droid
 			// aapt resource value: 0x7f0b0044
 			public const int bottom = 2131427396;
 			
+<<<<<<< HEAD
 			// aapt resource value: 0x7f0b009d
 			public const int bottomtab_navarea = 2131427485;
 			
 			// aapt resource value: 0x7f0b009e
 			public const int bottomtab_tabbar = 2131427486;
+=======
+			// aapt resource value: 0x7f0a008b
+			public const int bottomtab_navarea = 2131361931;
+			
+			// aapt resource value: 0x7f0a008c
+			public const int bottomtab_tabbar = 2131361932;
+			
+			// aapt resource value: 0x7f0a0063
+			public const int buttonPanel = 2131361891;
+			
+			// aapt resource value: 0x7f0a00bb
+			public const int cancel_action = 2131361979;
+>>>>>>> Updates after the master merge
 			
 			// aapt resource value: 0x7f0b00a0
 			public const int browser_actions_header_text = 2131427488;
@@ -6605,8 +7050,13 @@ namespace DeviceTests.Droid
 			// aapt resource value: 0x7f0b00a1
 			public const int browser_actions_menu_items = 2131427489;
 			
+<<<<<<< HEAD
 			// aapt resource value: 0x7f0b009f
 			public const int browser_actions_menu_view = 2131427487;
+=======
+			// aapt resource value: 0x7f0a00c3
+			public const int chronometer = 2131361987;
+>>>>>>> Updates after the master merge
 			
 			// aapt resource value: 0x7f0b0072
 			public const int buttonPanel = 2131427442;
@@ -6617,14 +7067,24 @@ namespace DeviceTests.Droid
 			// aapt resource value: 0x7f0b004c
 			public const int center = 2131427404;
 			
+<<<<<<< HEAD
 			// aapt resource value: 0x7f0b0051
 			public const int center_horizontal = 2131427409;
+=======
+			// aapt resource value: 0x7f0a008f
+			public const int container = 2131361935;
+>>>>>>> Updates after the master merge
 			
 			// aapt resource value: 0x7f0b0052
 			public const int center_vertical = 2131427410;
 			
+<<<<<<< HEAD
 			// aapt resource value: 0x7f0b0086
 			public const int checkbox = 2131427462;
+=======
+			// aapt resource value: 0x7f0a0090
+			public const int coordinator = 2131361936;
+>>>>>>> Updates after the master merge
 			
 			// aapt resource value: 0x7f0b00ed
 			public const int chronometer = 2131427565;
@@ -6638,6 +7098,7 @@ namespace DeviceTests.Droid
 			// aapt resource value: 0x7f0b0040
 			public const int collapseActionView = 2131427392;
 			
+<<<<<<< HEAD
 			// aapt resource value: 0x7f0b00a6
 			public const int container = 2131427494;
 			
@@ -6652,6 +7113,22 @@ namespace DeviceTests.Droid
 			
 			// aapt resource value: 0x7f0b007c
 			public const int custom = 2131427452;
+=======
+			// aapt resource value: 0x7f0a0092
+			public const int design_bottom_sheet = 2131361938;
+			
+			// aapt resource value: 0x7f0a0099
+			public const int design_menu_item_action_area = 2131361945;
+			
+			// aapt resource value: 0x7f0a0098
+			public const int design_menu_item_action_area_stub = 2131361944;
+			
+			// aapt resource value: 0x7f0a0097
+			public const int design_menu_item_text = 2131361943;
+			
+			// aapt resource value: 0x7f0a0096
+			public const int design_navigation_view = 2131361942;
+>>>>>>> Updates after the master merge
 			
 			// aapt resource value: 0x7f0b007b
 			public const int customPanel = 2131427451;
@@ -6662,8 +7139,13 @@ namespace DeviceTests.Droid
 			// aapt resource value: 0x7f0b006f
 			public const int default_activity_button = 2131427439;
 			
+<<<<<<< HEAD
 			// aapt resource value: 0x7f0b00a9
 			public const int design_bottom_sheet = 2131427497;
+=======
+			// aapt resource value: 0x7f0a00c9
+			public const int end_padder = 2131361993;
+>>>>>>> Updates after the master merge
 			
 			// aapt resource value: 0x7f0b00ae
 			public const int design_menu_item_action_area = 2131427502;
@@ -6692,8 +7174,19 @@ namespace DeviceTests.Droid
 			// aapt resource value: 0x7f0b0046
 			public const int enterAlways = 2131427398;
 			
+<<<<<<< HEAD
 			// aapt resource value: 0x7f0b0047
 			public const int enterAlwaysCollapsed = 2131427399;
+=======
+			// aapt resource value: 0x7f0a009b
+			public const int flyoutcontent_appbar = 2131361947;
+			
+			// aapt resource value: 0x7f0a009c
+			public const int flyoutcontent_recycler = 2131361948;
+			
+			// aapt resource value: 0x7f0a0058
+			public const int forever = 2131361880;
+>>>>>>> Updates after the master merge
 			
 			// aapt resource value: 0x7f0b0048
 			public const int exitUntilCollapsed = 2131427400;
@@ -6707,8 +7200,13 @@ namespace DeviceTests.Droid
 			// aapt resource value: 0x7f0b005e
 			public const int fill = 2131427422;
 			
+<<<<<<< HEAD
 			// aapt resource value: 0x7f0b0063
 			public const int fill_horizontal = 2131427427;
+=======
+			// aapt resource value: 0x7f0a00c8
+			public const int icon_group = 2131361992;
+>>>>>>> Updates after the master merge
 			
 			// aapt resource value: 0x7f0b0053
 			public const int fill_vertical = 2131427411;
@@ -6716,8 +7214,13 @@ namespace DeviceTests.Droid
 			// aapt resource value: 0x7f0b005f
 			public const int filled = 2131427423;
 			
+<<<<<<< HEAD
 			// aapt resource value: 0x7f0b005c
 			public const int @fixed = 2131427420;
+=======
+			// aapt resource value: 0x7f0a00c4
+			public const int info = 2131361988;
+>>>>>>> Updates after the master merge
 			
 			// aapt resource value: 0x7f0b00b0
 			public const int flyoutcontent_appbar = 2131427504;
@@ -6725,8 +7228,13 @@ namespace DeviceTests.Droid
 			// aapt resource value: 0x7f0b00b1
 			public const int flyoutcontent_recycler = 2131427505;
 			
+<<<<<<< HEAD
 			// aapt resource value: 0x7f0b0067
 			public const int forever = 2131427431;
+=======
+			// aapt resource value: 0x7f0a008e
+			public const int largeLabel = 2131361934;
+>>>>>>> Updates after the master merge
 			
 			// aapt resource value: 0x7f0b000a
 			public const int ghost_view = 2131427338;
@@ -6743,6 +7251,7 @@ namespace DeviceTests.Droid
 			// aapt resource value: 0x7f0b0071
 			public const int icon = 2131427441;
 			
+<<<<<<< HEAD
 			// aapt resource value: 0x7f0b00f2
 			public const int icon_group = 2131427570;
 			
@@ -6751,6 +7260,28 @@ namespace DeviceTests.Droid
 			
 			// aapt resource value: 0x7f0b006e
 			public const int image = 2131427438;
+=======
+			// aapt resource value: 0x7f0a00ca
+			public const int main_appbar = 2131361994;
+			
+			// aapt resource value: 0x7f0a00cd
+			public const int main_scrollview = 2131361997;
+			
+			// aapt resource value: 0x7f0a00cc
+			public const int main_tablayout = 2131361996;
+			
+			// aapt resource value: 0x7f0a00cb
+			public const int main_toolbar = 2131361995;
+			
+			// aapt resource value: 0x7f0a00d5
+			public const int masked = 2131362005;
+			
+			// aapt resource value: 0x7f0a00bd
+			public const int media_actions = 2131361981;
+			
+			// aapt resource value: 0x7f0a00d3
+			public const int message = 2131362003;
+>>>>>>> Updates after the master merge
 			
 			// aapt resource value: 0x7f0b00ee
 			public const int info = 2131427566;
@@ -6758,6 +7289,7 @@ namespace DeviceTests.Droid
 			// aapt resource value: 0x7f0b0068
 			public const int italic = 2131427432;
 			
+<<<<<<< HEAD
 			// aapt resource value: 0x7f0b0000
 			public const int item_touch_helper_previous_elevation = 2131427328;
 			
@@ -6832,12 +7364,93 @@ namespace DeviceTests.Droid
 			
 			// aapt resource value: 0x7f0b00b7
 			public const int mr_cast_meta = 2131427511;
+=======
+			// aapt resource value: 0x7f0a00a9
+			public const int mr_art = 2131361961;
+			
+			// aapt resource value: 0x7f0a009e
+			public const int mr_chooser_list = 2131361950;
+			
+			// aapt resource value: 0x7f0a00a1
+			public const int mr_chooser_route_desc = 2131361953;
+			
+			// aapt resource value: 0x7f0a009f
+			public const int mr_chooser_route_icon = 2131361951;
+			
+			// aapt resource value: 0x7f0a00a0
+			public const int mr_chooser_route_name = 2131361952;
+			
+			// aapt resource value: 0x7f0a009d
+			public const int mr_chooser_title = 2131361949;
+			
+			// aapt resource value: 0x7f0a00a6
+			public const int mr_close = 2131361958;
+			
+			// aapt resource value: 0x7f0a00ac
+			public const int mr_control_divider = 2131361964;
+			
+			// aapt resource value: 0x7f0a00b2
+			public const int mr_control_playback_ctrl = 2131361970;
+			
+			// aapt resource value: 0x7f0a00b5
+			public const int mr_control_subtitle = 2131361973;
+			
+			// aapt resource value: 0x7f0a00b4
+			public const int mr_control_title = 2131361972;
+			
+			// aapt resource value: 0x7f0a00b3
+			public const int mr_control_title_container = 2131361971;
+			
+			// aapt resource value: 0x7f0a00a7
+			public const int mr_custom_control = 2131361959;
+			
+			// aapt resource value: 0x7f0a00a8
+			public const int mr_default_control = 2131361960;
+			
+			// aapt resource value: 0x7f0a00a3
+			public const int mr_dialog_area = 2131361955;
+			
+			// aapt resource value: 0x7f0a00a2
+			public const int mr_expandable_area = 2131361954;
+			
+			// aapt resource value: 0x7f0a00b6
+			public const int mr_group_expand_collapse = 2131361974;
+			
+			// aapt resource value: 0x7f0a00aa
+			public const int mr_media_main_control = 2131361962;
+			
+			// aapt resource value: 0x7f0a00a5
+			public const int mr_name = 2131361957;
+			
+			// aapt resource value: 0x7f0a00ab
+			public const int mr_playback_control = 2131361963;
+			
+			// aapt resource value: 0x7f0a00a4
+			public const int mr_title_bar = 2131361956;
+			
+			// aapt resource value: 0x7f0a00ad
+			public const int mr_volume_control = 2131361965;
+			
+			// aapt resource value: 0x7f0a00ae
+			public const int mr_volume_group_list = 2131361966;
+			
+			// aapt resource value: 0x7f0a00b0
+			public const int mr_volume_item_icon = 2131361968;
+			
+			// aapt resource value: 0x7f0a00b1
+			public const int mr_volume_slider = 2131361969;
+>>>>>>> Updates after the master merge
 			
 			// aapt resource value: 0x7f0b00b9
 			public const int mr_cast_meta_art = 2131427513;
 			
+<<<<<<< HEAD
 			// aapt resource value: 0x7f0b00bb
 			public const int mr_cast_meta_subtitle = 2131427515;
+=======
+			// aapt resource value: 0x7f0a0095
+			public const int navigation_header_container = 2131361941;
+>>>>>>> Updates after the master merge
 			
 			// aapt resource value: 0x7f0b00ba
 			public const int mr_cast_meta_title = 2131427514;
@@ -6848,6 +7461,7 @@ namespace DeviceTests.Droid
 			// aapt resource value: 0x7f0b00be
 			public const int mr_cast_route_name = 2131427518;
 			
+<<<<<<< HEAD
 			// aapt resource value: 0x7f0b00bc
 			public const int mr_cast_stop_button = 2131427516;
 			
@@ -6856,6 +7470,16 @@ namespace DeviceTests.Droid
 			
 			// aapt resource value: 0x7f0b00c1
 			public const int mr_cast_volume_slider = 2131427521;
+=======
+			// aapt resource value: 0x7f0a00c6
+			public const int notification_background = 2131361990;
+			
+			// aapt resource value: 0x7f0a00c0
+			public const int notification_main_column = 2131361984;
+			
+			// aapt resource value: 0x7f0a00bf
+			public const int notification_main_column_container = 2131361983;
+>>>>>>> Updates after the master merge
 			
 			// aapt resource value: 0x7f0b00c3
 			public const int mr_chooser_list = 2131427523;
@@ -6881,11 +7505,19 @@ namespace DeviceTests.Droid
 			// aapt resource value: 0x7f0b00dc
 			public const int mr_control_playback_ctrl = 2131427548;
 			
+<<<<<<< HEAD
 			// aapt resource value: 0x7f0b00df
 			public const int mr_control_subtitle = 2131427551;
 			
 			// aapt resource value: 0x7f0b00de
 			public const int mr_control_title = 2131427550;
+=======
+			// aapt resource value: 0x7f0a00c5
+			public const int right_icon = 2131361989;
+			
+			// aapt resource value: 0x7f0a00c1
+			public const int right_side = 2131361985;
+>>>>>>> Updates after the master merge
 			
 			// aapt resource value: 0x7f0b00dd
 			public const int mr_control_title_container = 2131427549;
@@ -6947,8 +7579,22 @@ namespace DeviceTests.Droid
 			// aapt resource value: 0x7f0b00d5
 			public const int mr_volume_item_icon = 2131427541;
 			
+<<<<<<< HEAD
 			// aapt resource value: 0x7f0b00d6
 			public const int mr_volume_slider = 2131427542;
+=======
+			// aapt resource value: 0x7f0a00ce
+			public const int shellcontent_appbar = 2131361998;
+			
+			// aapt resource value: 0x7f0a00d0
+			public const int shellcontent_scrollview = 2131362000;
+			
+			// aapt resource value: 0x7f0a00cf
+			public const int shellcontent_toolbar = 2131361999;
+			
+			// aapt resource value: 0x7f0a0074
+			public const int shortcut = 2131361908;
+>>>>>>> Updates after the master merge
 			
 			// aapt resource value: 0x7f0b0014
 			public const int mtrl_child_content_container = 2131427348;
@@ -6959,6 +7605,7 @@ namespace DeviceTests.Droid
 			// aapt resource value: 0x7f0b002f
 			public const int multiply = 2131427375;
 			
+<<<<<<< HEAD
 			// aapt resource value: 0x7f0b00aa
 			public const int navigation_header_container = 2131427498;
 			
@@ -6970,6 +7617,19 @@ namespace DeviceTests.Droid
 			
 			// aapt resource value: 0x7f0b0025
 			public const int normal = 2131427365;
+=======
+			// aapt resource value: 0x7f0a00d1
+			public const int sliding_tabs = 2131362001;
+			
+			// aapt resource value: 0x7f0a008d
+			public const int smallLabel = 2131361933;
+			
+			// aapt resource value: 0x7f0a0094
+			public const int snackbar_action = 2131361940;
+			
+			// aapt resource value: 0x7f0a0093
+			public const int snackbar_text = 2131361939;
+>>>>>>> Updates after the master merge
 			
 			// aapt resource value: 0x7f0b00f0
 			public const int notification_background = 2131427568;
@@ -6992,8 +7652,13 @@ namespace DeviceTests.Droid
 			// aapt resource value: 0x7f0b000b
 			public const int parent_matrix = 2131427339;
 			
+<<<<<<< HEAD
 			// aapt resource value: 0x7f0b0058
 			public const int pin = 2131427416;
+=======
+			// aapt resource value: 0x7f0a00bc
+			public const int status_bar_latest_event_content = 2131361980;
+>>>>>>> Updates after the master merge
 			
 			// aapt resource value: 0x7f0b0006
 			public const int progress_circular = 2131427334;
@@ -7019,8 +7684,13 @@ namespace DeviceTests.Droid
 			// aapt resource value: 0x7f0b000d
 			public const int save_non_transition_alpha = 2131427341;
 			
+<<<<<<< HEAD
 			// aapt resource value: 0x7f0b000e
 			public const int save_scale_type = 2131427342;
+=======
+			// aapt resource value: 0x7f0a009a
+			public const int text_input_password_toggle = 2131361946;
+>>>>>>> Updates after the master merge
 			
 			// aapt resource value: 0x7f0b0030
 			public const int screen = 2131427376;
@@ -7028,8 +7698,13 @@ namespace DeviceTests.Droid
 			// aapt resource value: 0x7f0b0049
 			public const int scroll = 2131427401;
 			
+<<<<<<< HEAD
 			// aapt resource value: 0x7f0b007a
 			public const int scrollIndicatorDown = 2131427450;
+=======
+			// aapt resource value: 0x7f0a00c2
+			public const int time = 2131361986;
+>>>>>>> Updates after the master merge
 			
 			// aapt resource value: 0x7f0b0076
 			public const int scrollIndicatorUp = 2131427446;
@@ -7040,8 +7715,13 @@ namespace DeviceTests.Droid
 			// aapt resource value: 0x7f0b005d
 			public const int scrollable = 2131427421;
 			
+<<<<<<< HEAD
 			// aapt resource value: 0x7f0b0091
 			public const int search_badge = 2131427473;
+=======
+			// aapt resource value: 0x7f0a00d2
+			public const int toolbar = 2131362002;
+>>>>>>> Updates after the master merge
 			
 			// aapt resource value: 0x7f0b0090
 			public const int search_bar = 2131427472;
@@ -7049,8 +7729,13 @@ namespace DeviceTests.Droid
 			// aapt resource value: 0x7f0b0092
 			public const int search_button = 2131427474;
 			
+<<<<<<< HEAD
 			// aapt resource value: 0x7f0b0097
 			public const int search_close_btn = 2131427479;
+=======
+			// aapt resource value: 0x7f0a0091
+			public const int touch_outside = 2131361937;
+>>>>>>> Updates after the master merge
 			
 			// aapt resource value: 0x7f0b0093
 			public const int search_edit_frame = 2131427475;
@@ -7079,11 +7764,19 @@ namespace DeviceTests.Droid
 			// aapt resource value: 0x7f0b00f8
 			public const int shellcontent_appbar = 2131427576;
 			
+<<<<<<< HEAD
 			// aapt resource value: 0x7f0b00fa
 			public const int shellcontent_scrollview = 2131427578;
 			
 			// aapt resource value: 0x7f0b00f9
 			public const int shellcontent_toolbar = 2131427577;
+=======
+			// aapt resource value: 0x7f0a00d4
+			public const int visible = 2131362004;
+			
+			// aapt resource value: 0x7f0a00af
+			public const int volume_item_container = 2131361967;
+>>>>>>> Updates after the master merge
 			
 			// aapt resource value: 0x7f0b0083
 			public const int shortcut = 2131427459;
@@ -7443,6 +8136,7 @@ namespace DeviceTests.Droid
 			public const int abc_search_view = 2130968601;
 			
 			// aapt resource value: 0x7f04001a
+<<<<<<< HEAD
 			public const int abc_select_dialog_material = 2130968602;
 			
 			// aapt resource value: 0x7f04001b
@@ -7624,6 +8318,144 @@ namespace DeviceTests.Droid
 			
 			// aapt resource value: 0x7f040056
 			public const int Toolbar = 2130968662;
+=======
+			public const int BottomTabLayout = 2130968602;
+			
+			// aapt resource value: 0x7f04001b
+			public const int design_bottom_navigation_item = 2130968603;
+			
+			// aapt resource value: 0x7f04001c
+			public const int design_bottom_sheet_dialog = 2130968604;
+			
+			// aapt resource value: 0x7f04001d
+			public const int design_layout_snackbar = 2130968605;
+			
+			// aapt resource value: 0x7f04001e
+			public const int design_layout_snackbar_include = 2130968606;
+			
+			// aapt resource value: 0x7f04001f
+			public const int design_layout_tab_icon = 2130968607;
+			
+			// aapt resource value: 0x7f040020
+			public const int design_layout_tab_text = 2130968608;
+			
+			// aapt resource value: 0x7f040021
+			public const int design_menu_item_action_area = 2130968609;
+			
+			// aapt resource value: 0x7f040022
+			public const int design_navigation_item = 2130968610;
+			
+			// aapt resource value: 0x7f040023
+			public const int design_navigation_item_header = 2130968611;
+			
+			// aapt resource value: 0x7f040024
+			public const int design_navigation_item_separator = 2130968612;
+			
+			// aapt resource value: 0x7f040025
+			public const int design_navigation_item_subheader = 2130968613;
+			
+			// aapt resource value: 0x7f040026
+			public const int design_navigation_menu = 2130968614;
+			
+			// aapt resource value: 0x7f040027
+			public const int design_navigation_menu_item = 2130968615;
+			
+			// aapt resource value: 0x7f040028
+			public const int design_text_input_password_icon = 2130968616;
+			
+			// aapt resource value: 0x7f040029
+			public const int FlyoutContent = 2130968617;
+			
+			// aapt resource value: 0x7f04002a
+			public const int mr_chooser_dialog = 2130968618;
+			
+			// aapt resource value: 0x7f04002b
+			public const int mr_chooser_list_item = 2130968619;
+			
+			// aapt resource value: 0x7f04002c
+			public const int mr_controller_material_dialog_b = 2130968620;
+			
+			// aapt resource value: 0x7f04002d
+			public const int mr_controller_volume_item = 2130968621;
+			
+			// aapt resource value: 0x7f04002e
+			public const int mr_playback_control = 2130968622;
+			
+			// aapt resource value: 0x7f04002f
+			public const int mr_volume_control = 2130968623;
+			
+			// aapt resource value: 0x7f040030
+			public const int notification_action = 2130968624;
+			
+			// aapt resource value: 0x7f040031
+			public const int notification_action_tombstone = 2130968625;
+			
+			// aapt resource value: 0x7f040032
+			public const int notification_media_action = 2130968626;
+			
+			// aapt resource value: 0x7f040033
+			public const int notification_media_cancel_action = 2130968627;
+			
+			// aapt resource value: 0x7f040034
+			public const int notification_template_big_media = 2130968628;
+			
+			// aapt resource value: 0x7f040035
+			public const int notification_template_big_media_custom = 2130968629;
+			
+			// aapt resource value: 0x7f040036
+			public const int notification_template_big_media_narrow = 2130968630;
+			
+			// aapt resource value: 0x7f040037
+			public const int notification_template_big_media_narrow_custom = 2130968631;
+			
+			// aapt resource value: 0x7f040038
+			public const int notification_template_custom_big = 2130968632;
+			
+			// aapt resource value: 0x7f040039
+			public const int notification_template_icon_group = 2130968633;
+			
+			// aapt resource value: 0x7f04003a
+			public const int notification_template_lines_media = 2130968634;
+			
+			// aapt resource value: 0x7f04003b
+			public const int notification_template_media = 2130968635;
+			
+			// aapt resource value: 0x7f04003c
+			public const int notification_template_media_custom = 2130968636;
+			
+			// aapt resource value: 0x7f04003d
+			public const int notification_template_part_chronometer = 2130968637;
+			
+			// aapt resource value: 0x7f04003e
+			public const int notification_template_part_time = 2130968638;
+			
+			// aapt resource value: 0x7f04003f
+			public const int RootLayout = 2130968639;
+			
+			// aapt resource value: 0x7f040040
+			public const int select_dialog_item_material = 2130968640;
+			
+			// aapt resource value: 0x7f040041
+			public const int select_dialog_multichoice_material = 2130968641;
+			
+			// aapt resource value: 0x7f040042
+			public const int select_dialog_singlechoice_material = 2130968642;
+			
+			// aapt resource value: 0x7f040043
+			public const int ShellContent = 2130968643;
+			
+			// aapt resource value: 0x7f040044
+			public const int support_simple_spinner_dropdown_item = 2130968644;
+			
+			// aapt resource value: 0x7f040045
+			public const int Tabbar = 2130968645;
+			
+			// aapt resource value: 0x7f040046
+			public const int Toolbar = 2130968646;
+			
+			// aapt resource value: 0x7f040047
+			public const int tooltip = 2130968647;
+>>>>>>> Updates after the master merge
 			
 			static Layout()
 			{

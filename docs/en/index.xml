@@ -75,17 +75,7 @@
           <AttributeName>System.Runtime.Versioning.TargetFramework(".NETCore,Version=v5.0", FrameworkDisplayName=".NET for Windows Universal")</AttributeName>
         </Attribute>
         <Attribute>
-<<<<<<< HEAD
-          <AttributeName>System.Diagnostics.Debuggable(System.Diagnostics.DebuggableAttribute+DebuggingModes.IgnoreSymbolStoreSequencePoints)</AttributeName>
-        </Attribute>
-        <Attribute>
-          <AttributeName>System.Reflection.AssemblyConfiguration("Release")</AttributeName>
-        </Attribute>
-        <Attribute>
-          <AttributeName>System.Reflection.AssemblyInformationalVersion("1.0.0+7ceee2ec3cc4caab1bb281521d7e9ecf471edc7a")</AttributeName>
-=======
           <AttributeName>System.Reflection.AssemblyInformationalVersion("1.0.0+da60123513ad6e4ab1a2724085807e80efa1bbc8")</AttributeName>
->>>>>>> GH-182 Color/Point/Rect/Size Extension Converters (#651)
         </Attribute>
       </Attributes>
     </Assembly>
@@ -173,10 +163,6 @@
       <Type Name="Platform" Kind="Class" />
       <Type Name="PointExtensions" Kind="Class" />
       <Type Name="Preferences" Kind="Class" />
-<<<<<<< HEAD
-      <Type Name="ReadOnlyFile" Kind="Class" />
-=======
->>>>>>> GH-182 Color/Point/Rect/Size Extension Converters (#651)
       <Type Name="RectangleExtensions" Kind="Class" />
       <Type Name="SecureStorage" Kind="Class" />
       <Type Name="SensorSpeed" Kind="Enumeration" />
@@ -246,31 +232,6 @@
     </ExtensionMethod>
     <ExtensionMethod>
       <Targets>
-<<<<<<< HEAD
-        <Target Type="System.Drawing.Color" />
-      </Targets>
-      <Member MemberName="ToInt">
-        <MemberSignature Language="C#" Value="public static int ToInt (this System.Drawing.Color color);" />
-        <MemberSignature Language="ILAsm" Value=".method public static hidebysig int32 ToInt(valuetype System.Drawing.Color color) cil managed" />
-        <MemberSignature Language="DocId" Value="M:Xamarin.Essentials.ColorExtensions.ToInt(System.Drawing.Color)" />
-        <MemberType>ExtensionMethod</MemberType>
-        <ReturnValue>
-          <ReturnType>System.Int32</ReturnType>
-        </ReturnValue>
-        <Parameters>
-          <Parameter Name="color" Type="System.Drawing.Color" RefType="this" />
-        </Parameters>
-        <Docs>
-          <param name="color">To be added.</param>
-          <summary>To be added.</summary>
-        </Docs>
-        <Link Type="Xamarin.Essentials.ColorExtensions" Member="M:Xamarin.Essentials.ColorExtensions.ToInt(System.Drawing.Color)" />
-      </Member>
-    </ExtensionMethod>
-    <ExtensionMethod>
-      <Targets>
-=======
->>>>>>> GH-182 Color/Point/Rect/Size Extension Converters (#651)
         <Target Type="T:System.Drawing.Color" />
       </Targets>
       <Member MemberName="ToPlatformColor">

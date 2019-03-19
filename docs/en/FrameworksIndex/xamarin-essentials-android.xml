@@ -568,20 +568,9 @@
       <Member Id="M:Xamarin.Essentials.Preferences.Set(System.String,System.String)" />
       <Member Id="M:Xamarin.Essentials.Preferences.Set(System.String,System.String,System.String)" />
     </Type>
-<<<<<<< HEAD
-    <Type Name="Xamarin.Essentials.ReadOnlyFile" Id="T:Xamarin.Essentials.ReadOnlyFile">
-      <Member Id="M:Xamarin.Essentials.ReadOnlyFile.#ctor(System.String)" />
-      <Member Id="M:Xamarin.Essentials.ReadOnlyFile.#ctor(System.String,System.String)" />
-      <Member Id="M:Xamarin.Essentials.ReadOnlyFile.#ctor(Xamarin.Essentials.FileBase)" />
-    </Type>
-    <Type Name="Xamarin.Essentials.RectangleExtensions" Id="T:Xamarin.Essentials.RectangleExtensions">
-      <Member Id="M:Xamarin.Essentials.RectangleExtensions.Android.ToPlatformRectangle(System.Drawing.Rectangle)" />
-      <Member Id="M:Xamarin.Essentials.RectangleExtensions.Android.ToPlatformRectangleF(System.Drawing.RectangleF)" />
-=======
     <Type Name="Xamarin.Essentials.RectangleExtensions" Id="T:Xamarin.Essentials.RectangleExtensions">
       <Member Id="M:Xamarin.Essentials.RectangleExtensions.ToPlatformRectangle(System.Drawing.Rectangle)" />
       <Member Id="M:Xamarin.Essentials.RectangleExtensions.ToPlatformRectangleF(System.Drawing.RectangleF)" />
->>>>>>> GH-182 Color/Point/Rect/Size Extension Converters (#651)
       <Member Id="M:Xamarin.Essentials.RectangleExtensions.ToSystemRectangle(Android.Graphics.Rect)" />
       <Member Id="M:Xamarin.Essentials.RectangleExtensions.ToSystemRectangleF(Android.Graphics.RectF)" />
     </Type>
@@ -627,13 +616,8 @@
       <Member Id="P:Xamarin.Essentials.ShareTextRequest.Uri" />
     </Type>
     <Type Name="Xamarin.Essentials.SizeExtensions" Id="T:Xamarin.Essentials.SizeExtensions">
-<<<<<<< HEAD
-      <Member Id="M:Xamarin.Essentials.SizeExtensions.Android.ToPlatformSize(System.Drawing.Size)" />
-      <Member Id="M:Xamarin.Essentials.SizeExtensions.Android.ToPlatformSizeF(System.Drawing.SizeF)" />
-=======
       <Member Id="M:Xamarin.Essentials.SizeExtensions.ToPlatformSize(System.Drawing.Size)" />
       <Member Id="M:Xamarin.Essentials.SizeExtensions.ToPlatformSizeF(System.Drawing.SizeF)" />
->>>>>>> GH-182 Color/Point/Rect/Size Extension Converters (#651)
       <Member Id="M:Xamarin.Essentials.SizeExtensions.ToSystemSize(Android.Util.Size)" />
       <Member Id="M:Xamarin.Essentials.SizeExtensions.ToSystemSizeF(Android.Util.SizeF)" />
     </Type>
